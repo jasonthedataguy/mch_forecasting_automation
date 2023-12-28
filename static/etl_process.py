@@ -16,7 +16,7 @@ def etl_collect_clean(df_contribution, df_region_contribution):
     df_so = pd.read_csv('static/database/SO/CSV/SO_2022.csv') 
 
     # historical sell out (Agg monthly)
-    df_si = pd.read_csv('static/database/SI/CSV/SI 2022.csv') 
+    df_si = pd.read_csv('static/database/SI/CSV/SI_2023.csv') 
 
     # master calendar => rename columns
     df_master_calendar = pd.read_excel('static/database/Master Calendar.xlsx').rename(columns = {'Year Month ID': 'yearMonth', 'Master_Month.SO Day 2M': 'cnt_so_days_last2m', 'No. SO Day': 'cnt_so_days'})
