@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSV Files Contents</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="logo-container">
+        <img src="{{ url_for('static', filename='Masan-Group-Logo.png') }}" alt="Logo 1" class="logo">
+        <img src="{{ url_for('static', filename='Masan-Consumer-Logo.png') }}" alt="Logo 2" class="logo">
+    </div>
+    <h1>Forecast sell out CSV files:</h1>
+    <! {% for filename in files %}
+    <li>{{ filename }}: <a href="{{ url_for('download_file', filename=filename) }}">Download</a></li>
+    {% endfor %}     
+
+</body>
+</html>
