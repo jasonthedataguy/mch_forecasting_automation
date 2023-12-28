@@ -1,0 +1,11 @@
+.logo-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; /* Adjust spacing as needed */
+}
+
+.logo {
+    width: 150px; /* Adjust logo width */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 10px; /* Space between logos */
+}
