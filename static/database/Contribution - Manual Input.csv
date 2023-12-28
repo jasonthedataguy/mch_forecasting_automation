@@ -1,0 +1,1043 @@
+Demand Planning Standard SKU Name,Group SKU,Channel,Sub Division Name,Duplication,1,2,3,4,5,6,7,8,9,10,11,12
+Affordable Premium,Affordable Premium,KA0,Beer,Affordable PremiumAffordable PremiumKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Affordable Premium,Affordable Premium,GT0,Beer,Affordable PremiumAffordable PremiumGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Affordable Premium,Affordable Premium,MT0,Beer,Affordable PremiumAffordable PremiumMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Affordable Premium,Affordable Premium,GT0_C1,Beer,Affordable PremiumAffordable PremiumGT0_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Red Ruby Special,Red Ruby Special,KA0,Beer,Red Ruby SpecialRed Ruby SpecialKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Red Ruby Special,Red Ruby Special,GT0,Beer,Red Ruby SpecialRed Ruby SpecialGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Red Ruby Special,Red Ruby Special,MT0,Beer,Red Ruby SpecialRed Ruby SpecialMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Red Ruby Special,Red Ruby Special,GT0_C1,Beer,Red Ruby SpecialRed Ruby SpecialGT0_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Non Beer Alcohol_1,Non Beer Alcohol_1,GT0,Beer,Non Beer Alcohol_1Non Beer Alcohol_1GT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Non Beer Alcohol_1_Pack 4,Non Beer Alcohol_1,GT0,Beer,Non Beer Alcohol_1_Pack 4Non Beer Alcohol_1GT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Non Beer Alcohol_1_Pack 6,Non Beer Alcohol_1,GT0,Beer,Non Beer Alcohol_1_Pack 6Non Beer Alcohol_1GT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Non Beer Alcohol_1_Pack 12,Non Beer Alcohol_1,GT0,Beer,Non Beer Alcohol_1_Pack 12Non Beer Alcohol_1GT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Non Beer Alcohol_1_Pack 24,Non Beer Alcohol_1,GT0,Beer,Non Beer Alcohol_1_Pack 24Non Beer Alcohol_1GT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Non Beer Alcohol_2,Non Beer Alcohol_2,GT0,Beer,Non Beer Alcohol_2Non Beer Alcohol_2GT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Non Beer Alcohol_2_Pack 4,Non Beer Alcohol_2,GT0,Beer,Non Beer Alcohol_2_Pack 4Non Beer Alcohol_2GT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Non Beer Alcohol_2_Pack 6,Non Beer Alcohol_2,GT0,Beer,Non Beer Alcohol_2_Pack 6Non Beer Alcohol_2GT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Non Beer Alcohol_2_Pack 12,Non Beer Alcohol_2,GT0,Beer,Non Beer Alcohol_2_Pack 12Non Beer Alcohol_2GT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Non Beer Alcohol_2_Pack 24,Non Beer Alcohol_2,GT0,Beer,Non Beer Alcohol_2_Pack 24Non Beer Alcohol_2GT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Non Beer Alcohol_1,Non Beer Alcohol_1,GT0_C1,Beer,Non Beer Alcohol_1Non Beer Alcohol_1GT0_C1,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Non Beer Alcohol_1_Pack 4,Non Beer Alcohol_1,GT0_C1,Beer,Non Beer Alcohol_1_Pack 4Non Beer Alcohol_1GT0_C1,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Non Beer Alcohol_1_Pack 6,Non Beer Alcohol_1,GT0_C1,Beer,Non Beer Alcohol_1_Pack 6Non Beer Alcohol_1GT0_C1,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Non Beer Alcohol_1_Pack 12,Non Beer Alcohol_1,GT0_C1,Beer,Non Beer Alcohol_1_Pack 12Non Beer Alcohol_1GT0_C1,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Non Beer Alcohol_1_Pack 24,Non Beer Alcohol_1,GT0_C1,Beer,Non Beer Alcohol_1_Pack 24Non Beer Alcohol_1GT0_C1,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Non Beer Alcohol_2,Non Beer Alcohol_2,GT0_C1,Beer,Non Beer Alcohol_2Non Beer Alcohol_2GT0_C1,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Non Beer Alcohol_2_Pack 4,Non Beer Alcohol_2,GT0_C1,Beer,Non Beer Alcohol_2_Pack 4Non Beer Alcohol_2GT0_C1,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Non Beer Alcohol_2_Pack 6,Non Beer Alcohol_2,GT0_C1,Beer,Non Beer Alcohol_2_Pack 6Non Beer Alcohol_2GT0_C1,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Non Beer Alcohol_2_Pack 12,Non Beer Alcohol_2,GT0_C1,Beer,Non Beer Alcohol_2_Pack 12Non Beer Alcohol_2GT0_C1,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Non Beer Alcohol_2_Pack 24,Non Beer Alcohol_2,GT0_C1,Beer,Non Beer Alcohol_2_Pack 24Non Beer Alcohol_2GT0_C1,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+RTD Tea TEA365 hương đào 500ml,Trà,GT0,Refreshment Drinks,RTD Tea TEA365 hương đào 500mlTràGT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.5,0.5,0.5
+RTD Tea TEA365 hương chanh sả 500ml,Trà,GT0,Refreshment Drinks,RTD Tea TEA365 hương chanh sả 500mlTràGT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.25,0.25,0.25
+RTD Tea TEA365 hương mật ong 500ml,Trà,GT0,Refreshment Drinks,RTD Tea TEA365 hương mật ong 500mlTràGT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.25,0.25,0.25
+Mineral Water Vĩnh Hảo Không ga 350ml,Mineral - Still,GT0_C1,Refreshment Drinks,Mineral Water Vĩnh Hảo Không ga 350mlMineral - StillGT0_C1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mineral Water Vĩnh Hảo Không ga 500ml,Mineral - Still,GT0_C1,Refreshment Drinks,Mineral Water Vĩnh Hảo Không ga 500mlMineral - StillGT0_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mineral Water Vĩnh Hảo Không ga 1.5L,Mineral - Still,GT0_C1,Refreshment Drinks,Mineral Water Vĩnh Hảo Không ga 1.5LMineral - StillGT0_C1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mineral Water Vĩnh Hảo Không ga 5L,Mineral - Still,GT0_C1,Refreshment Drinks,Mineral Water Vĩnh Hảo Không ga 5LMineral - StillGT0_C1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mineral Water Vivant chứa khoáng 500ml,Vivant Xanh,GT0,Refreshment Drinks,Mineral Water Vivant chứa khoáng 500mlVivant XanhGT0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mineral Water Vivant chứa khoáng nhẹ 500ml,Vivant Xanh,GT0,Refreshment Drinks,Mineral Water Vivant chứa khoáng nhẹ 500mlVivant XanhGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mineral Water Vivant chứa khoáng nhẹ 5L,Vivant Xanh,GT0,Refreshment Drinks,Mineral Water Vivant chứa khoáng nhẹ 5LVivant XanhGT0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EnerZ,EnerZ,GT0,Refreshment Drinks,EnerZEnerZGT0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CSD Faith Chanh muối 355ml MN,Faith ,MT0,Refreshment Drinks,CSD Faith Chanh muối 355ml MNFaith MT0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CSD Faith Chanh muối 355ml,Faith,MT0,Refreshment Drinks,CSD Faith Chanh muối 355mlFaithMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CSD Faith Chanh muối 355ml MN,Faith ,GT0,Refreshment Drinks,CSD Faith Chanh muối 355ml MNFaith GT0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CSD Faith Chanh muối 355ml,Faith,GT0,Refreshment Drinks,CSD Faith Chanh muối 355mlFaithGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CSD Faith Chanh muối 355ml MN,Faith MN,MT0,Refreshment Drinks,CSD Faith Chanh muối 355ml MNFaith MNMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CSD Faith Chanh muối 355ml MN,Faith MN,GT0,Refreshment Drinks,CSD Faith Chanh muối 355ml MNFaith MNGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mineral Water Vivant chứa khoáng 500ml,Vivant Xanh,GT0_C1,Refreshment Drinks,Mineral Water Vivant chứa khoáng 500mlVivant XanhGT0_C1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mineral Water Vivant chứa khoáng nhẹ 500ml,Vivant Xanh,GT0_C1,Refreshment Drinks,Mineral Water Vivant chứa khoáng nhẹ 500mlVivant XanhGT0_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mineral Water Vivant chứa khoáng nhẹ 5L,Vivant Xanh,GT0_C1,Refreshment Drinks,Mineral Water Vivant chứa khoáng nhẹ 5LVivant XanhGT0_C1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CSD Lemona Chanh 500ml,Lemona,GT0_C1,Refreshment Drinks,CSD Lemona Chanh 500mlLemonaGT0_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CSD Lemona Chanh 1.5L,Lemona,GT0_C1,Refreshment Drinks,CSD Lemona Chanh 1.5LLemonaGT0_C1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mineral Water Vĩnh Hảo Có ga 500ml,Mineral - Gaz,KA0,Refreshment Drinks,Mineral Water Vĩnh Hảo Có ga 500mlMineral - GazKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Energy Drinks Wake up 247 Cà phê 330ml,WK 247 330ml,GT0,Refreshment Drinks,Energy Drinks Wake up 247 Cà phê 330mlWK 247 330mlGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Energy Drinks Wake up 247 Cà phê 330ml,WK 247 330ml,GT0_C1,Refreshment Drinks,Energy Drinks Wake up 247 Cà phê 330mlWK 247 330mlGT0_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Energy Drinks Wake up 247 Cà phê 330ml,WK 247 330ml,MT0,Refreshment Drinks,Energy Drinks Wake up 247 Cà phê 330mlWK 247 330mlMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Energy Drinks Wake up 247 Cà phê 330ml,WK 247 330ml,KA0,Refreshment Drinks,Energy Drinks Wake up 247 Cà phê 330mlWK 247 330mlKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vihawa 500ml,Vihawa 500ml,GT0,Refreshment Drinks,Vihawa 500mlVihawa 500mlGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Energy Drinks Wake up 247 Cà phê 320ml,WK 247 Lon,KA0,Refreshment Drinks,Energy Drinks Wake up 247 Cà phê 320mlWK 247 LonKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Energy Drinks Wake up 247 Cà phê Lon cao 330ml,WK 247 Lon,KA0,Refreshment Drinks,Energy Drinks Wake up 247 Cà phê Lon cao 330mlWK 247 LonKA0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Energy Drinks Wake up 247 Cà phê 320ml,WK 247 Lon,MT0,Refreshment Drinks,Energy Drinks Wake up 247 Cà phê 320mlWK 247 LonMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Energy Drinks Wake up 247 Cà phê Lon cao 330ml,WK 247 Lon,MT0,Refreshment Drinks,Energy Drinks Wake up 247 Cà phê Lon cao 330mlWK 247 LonMT0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Energy Drinks Wake up 247 Cà phê 320ml,WK 247 Lon,GT0,Refreshment Drinks,Energy Drinks Wake up 247 Cà phê 320mlWK 247 LonGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Energy Drinks Wake up 247 Cà phê Lon cao 330ml,WK 247 Lon,GT0,Refreshment Drinks,Energy Drinks Wake up 247 Cà phê Lon cao 330mlWK 247 LonGT0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CSD Wake up Cola 1.5L,Wake-up Cola,GT0,Refreshment Drinks,CSD Wake up Cola 1.5LWake-up ColaGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CSD Lemona Chanh 1.5L,Lemona 1.5L,GT0,Refreshment Drinks,CSD Lemona Chanh 1.5LLemona 1.5LGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+White Lion (Pack 12 can),White Lion (Pack 12 can),GT0_C1,Beer,White Lion (Pack 12 can)White Lion (Pack 12 can)GT0_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+White Lion (Pack 12 can),White Lion (Pack 12 can),GT0,Beer,White Lion (Pack 12 can)White Lion (Pack 12 can)GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Beer Lager Premium Red Ruby Regular 24lon 330ml,Red Ruby Regular,KA0,Beer,Beer Lager Premium Red Ruby Regular 24lon 330mlRed Ruby RegularKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Beer Lager Premium Red Ruby Regular 20lon 330ml,Red Ruby (20 can),GT0_C1,Beer,Beer Lager Premium Red Ruby Regular 20lon 330mlRed Ruby (20 can)GT0_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Energy Drinks Wake up 247 Cà phê 1.5L,WK 247 1.5L,GT0,Refreshment Drinks,Energy Drinks Wake up 247 Cà phê 1.5LWK 247 1.5LGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+New Gen Craft,New Gen Craft,KA0,Beer,New Gen CraftNew Gen CraftKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+New Gen Craft,New Gen Craft,GT0,Beer,New Gen CraftNew Gen CraftGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+New Gen Craft,New Gen Craft,MT0,Beer,New Gen CraftNew Gen CraftMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+New Gen Craft,New Gen Craft,GT0_C1,Beer,New Gen CraftNew Gen CraftGT0_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Lager Premium,Lager Premium,KA0,Beer,Lager PremiumLager PremiumKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Lager Premium,Lager Premium,GT0,Beer,Lager PremiumLager PremiumGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Lager Premium,Lager Premium,MT0,Beer,Lager PremiumLager PremiumMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Lager Premium,Lager Premium,GT0_C1,Beer,Lager PremiumLager PremiumGT0_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+New Gen Lager,New Gen Lager,KA0,Beer,New Gen LagerNew Gen LagerKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+New Gen Lager,New Gen Lager,GT0,Beer,New Gen LagerNew Gen LagerGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+New Gen Lager,New Gen Lager,MT0,Beer,New Gen LagerNew Gen LagerMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+New Gen Lager,New Gen Lager,GT0_C1,Beer,New Gen LagerNew Gen LagerGT0_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Wheat Beer,Wheat Beer,KA0,Beer,Wheat BeerWheat BeerKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Wheat Beer,Wheat Beer,GT0,Beer,Wheat BeerWheat BeerGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Wheat Beer,Wheat Beer,MT0,Beer,Wheat BeerWheat BeerMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Wheat Beer,Wheat Beer,GT0_C1,Beer,Wheat BeerWheat BeerGT0_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Ruby Light,Ruby Light,KA0,Beer,Ruby LightRuby LightKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Ruby Light,Ruby Light,GT0,Beer,Ruby LightRuby LightGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Ruby Light,Ruby Light,MT0,Beer,Ruby LightRuby LightMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Ruby Light,Ruby Light,GT0_C1,Beer,Ruby LightRuby LightGT0_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Flavored Water Đào,Flavored Water ,MT0,Refreshment Drinks,Flavored Water ĐàoFlavored Water MT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Flavored Water Vải,Flavored Water ,MT0,Refreshment Drinks,Flavored Water VảiFlavored Water MT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Flavored Water Dưa lưới,Flavored Water ,MT0,Refreshment Drinks,Flavored Water Dưa lướiFlavored Water MT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Flavored Water Tắc,Flavored Water ,MT0,Refreshment Drinks,Flavored Water TắcFlavored Water MT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Flavored Water Đào,Flavored Water ,GT0,Refreshment Drinks,Flavored Water ĐàoFlavored Water GT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Flavored Water Vải,Flavored Water ,GT0,Refreshment Drinks,Flavored Water VảiFlavored Water GT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Flavored Water Dưa lưới,Flavored Water ,GT0,Refreshment Drinks,Flavored Water Dưa lướiFlavored Water GT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Flavored Water Tắc,Flavored Water ,GT0,Refreshment Drinks,Flavored Water TắcFlavored Water GT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Bia Red Ruby Max 24lon x 330ml,Ruby Max,KA0,Beer,Bia Red Ruby Max 24lon x 330mlRuby MaxKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bia Red Ruby Max 24lon x 330ml,Ruby Max,GT0,Beer,Bia Red Ruby Max 24lon x 330mlRuby MaxGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bia Red Ruby Max 24lon x 330ml,Ruby Max,MT0,Beer,Bia Red Ruby Max 24lon x 330mlRuby MaxMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bia Red Ruby Max 24lon x 330ml,Ruby Max,GT0_C1,Beer,Bia Red Ruby Max 24lon x 330mlRuby MaxGT0_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Flavored Beer,Flavored Beer,KA0,Beer,Flavored BeerFlavored BeerKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Flavored Beer,Flavored Beer,GT0,Beer,Flavored BeerFlavored BeerGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Flavored Beer,Flavored Beer,MT0,Beer,Flavored BeerFlavored BeerMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Flavored Beer,Flavored Beer,GT0_C1,Beer,Flavored BeerFlavored BeerGT0_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Condensed 60ml,Condensed 60ml,GT0,Refreshment Drinks,Condensed 60mlCondensed 60mlGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bengal Tiger,Bengal Tiger,GT0,Refreshment Drinks,Bengal TigerBengal TigerGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+ED Innovation 3,ED Innovation 3,GT0,Refreshment Drinks,ED Innovation 3ED Innovation 3GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+ED Innovation 4,ED Innovation 4,GT0,Refreshment Drinks,ED Innovation 4ED Innovation 4GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+ED Innovation 5,ED Innovation 5,GT0,Refreshment Drinks,ED Innovation 5ED Innovation 5GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Icy Tea,Icy Tea,GT0,Refreshment Drinks,Icy TeaIcy TeaGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Faith Pro,Faith Pro,GT0,Refreshment Drinks,Faith ProFaith ProGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Non ED Innovation 3,Non ED Innovation 3,GT0,Refreshment Drinks,Non ED Innovation 3Non ED Innovation 3GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Non ED Innovation 4,Non ED Innovation 4,GT0,Refreshment Drinks,Non ED Innovation 4Non ED Innovation 4GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Non ED Innovation 5,Non ED Innovation 5,GT0,Refreshment Drinks,Non ED Innovation 5Non ED Innovation 5GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Condensed 60ml,Condensed 60ml,MT0,Refreshment Drinks,Condensed 60mlCondensed 60mlMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bengal Tiger,Bengal Tiger,MT0,Refreshment Drinks,Bengal TigerBengal TigerMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+ED Innovation 3,ED Innovation 3,MT0,Refreshment Drinks,ED Innovation 3ED Innovation 3MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+ED Innovation 4,ED Innovation 4,MT0,Refreshment Drinks,ED Innovation 4ED Innovation 4MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+ED Innovation 5,ED Innovation 5,MT0,Refreshment Drinks,ED Innovation 5ED Innovation 5MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Icy Tea,Icy Tea,MT0,Refreshment Drinks,Icy TeaIcy TeaMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Faith Pro,Faith Pro,MT0,Refreshment Drinks,Faith ProFaith ProMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Non ED Innovation 3,Non ED Innovation 3,MT0,Refreshment Drinks,Non ED Innovation 3Non ED Innovation 3MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Non ED Innovation 4,Non ED Innovation 4,MT0,Refreshment Drinks,Non ED Innovation 4Non ED Innovation 4MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Non ED Innovation 5,Non ED Innovation 5,MT0,Refreshment Drinks,Non ED Innovation 5Non ED Innovation 5MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Energy Drinks EnerZ xoài chanh dây lon cao 320ml,EnerZ,GT0,Refreshment Drinks,Energy Drinks EnerZ xoài chanh dây lon cao 320mlEnerZGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Energy Drinks EnerZ dưa lưới lon cao 320ml,EnerZ,GT0,Refreshment Drinks,Energy Drinks EnerZ dưa lưới lon cao 320mlEnerZGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+EnerZ,EnerZ,MT0,Refreshment Drinks,EnerZEnerZMT0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Energy Drinks EnerZ xoài chanh dây lon cao 320ml,EnerZ,MT0,Refreshment Drinks,Energy Drinks EnerZ xoài chanh dây lon cao 320mlEnerZMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Energy Drinks EnerZ dưa lưới lon cao 320ml,EnerZ,MT0,Refreshment Drinks,Energy Drinks EnerZ dưa lưới lon cao 320mlEnerZMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+RTD Tea TEA365 hương đào 500ml,Trà,MT0,Refreshment Drinks,RTD Tea TEA365 hương đào 500mlTràMT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.5,0.5,0.5
+RTD Tea TEA365 hương chanh sả 500ml,Trà,MT0,Refreshment Drinks,RTD Tea TEA365 hương chanh sả 500mlTràMT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.25,0.25,0.25
+RTD Tea TEA365 hương mật ong 500ml,Trà,MT0,Refreshment Drinks,RTD Tea TEA365 hương mật ong 500mlTràMT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.25,0.25,0.25
+EnerZ 2 _ New flavors,EnerZ 2 _ New flavors,GT0,Refreshment Drinks,EnerZ 2 _ New flavorsEnerZ 2 _ New flavorsGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+EnerZ 2 _ Gen Z created flavors,EnerZ 2 _ Gen Z created flavors,GT0,Refreshment Drinks,EnerZ 2 _ Gen Z created flavorsEnerZ 2 _ Gen Z created flavorsGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+EnerZ 2 _ Tet flavors,EnerZ 2 _ Tet flavors,GT0,Refreshment Drinks,EnerZ 2 _ Tet flavorsEnerZ 2 _ Tet flavorsGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+EnerZ 2 _ New flavors,EnerZ 2 _ New flavors,MT0,Refreshment Drinks,EnerZ 2 _ New flavorsEnerZ 2 _ New flavorsMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+EnerZ 2 _ Gen Z created flavors,EnerZ 2 _ Gen Z created flavors,MT0,Refreshment Drinks,EnerZ 2 _ Gen Z created flavorsEnerZ 2 _ Gen Z created flavorsMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+EnerZ 2 _ Tet flavors,EnerZ 2 _ Tet flavors,MT0,Refreshment Drinks,EnerZ 2 _ Tet flavorsEnerZ 2 _ Tet flavorsMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Compact _new variant 1,Compact _new variants,GT0,Refreshment Drinks,Compact _new variant 1Compact _new variantsGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Compact _new variant 2,Compact _new variants,GT0,Refreshment Drinks,Compact _new variant 2Compact _new variantsGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Compact _new variant 1,Compact _new variants,MT0,Refreshment Drinks,Compact _new variant 1Compact _new variantsMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Compact _new variant 2,Compact _new variants,MT0,Refreshment Drinks,Compact _new variant 2Compact _new variantsMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Compact 1.5L,Compact 1.5L,GT0,Refreshment Drinks,Compact 1.5LCompact 1.5LGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Compact 1.5L,Compact 1.5L,MT0,Refreshment Drinks,Compact 1.5LCompact 1.5LMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+WK 247 Stubby Can_lower sugar,WK 247 Stubby Can,GT0,Refreshment Drinks,WK 247 Stubby Can_lower sugarWK 247 Stubby CanGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+WK 247 Stubby Can_lower sugar,WK 247 Stubby Can,MT0,Refreshment Drinks,WK 247 Stubby Can_lower sugarWK 247 Stubby CanMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+WK 247_ Tet Flavors,WK 247_ Tet Flavors,GT0,Refreshment Drinks,WK 247_ Tet FlavorsWK 247_ Tet FlavorsGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bup Non_ Herbal Tea,Bup Non_ Herbal Tea,GT0,Refreshment Drinks,Bup Non_ Herbal TeaBup Non_ Herbal TeaGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bup Non_Tet Flavor,Bup Non_Tet Flavor,GT0,Refreshment Drinks,Bup Non_Tet FlavorBup Non_Tet FlavorGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Faith Sport,Faith Sport,GT0,Refreshment Drinks,Faith SportFaith SportGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Lemona_Mom Made,Lemona_Mom Made,GT0,Refreshment Drinks,Lemona_Mom MadeLemona_Mom MadeGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vitamin Water,Vitamin Water,GT0,Refreshment Drinks,Vitamin WaterVitamin WaterGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Flavored water _ Tet Flavors,Flavored water _ Tet Flavors,GT0,Refreshment Drinks,Flavored water _ Tet FlavorsFlavored water _ Tet FlavorsGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vivant new AW,Vivant new AW,GT0,Refreshment Drinks,Vivant new AWVivant new AWGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vivant _ premium glass bottle,Vivant bottle,GT0,Refreshment Drinks,Vivant _ premium glass bottleVivant bottleGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+WK 247_ Tet Flavors,WK 247_ Tet Flavors,MT0,Refreshment Drinks,WK 247_ Tet FlavorsWK 247_ Tet FlavorsMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bup Non_ Herbal Tea,Bup Non_ Herbal Tea,MT0,Refreshment Drinks,Bup Non_ Herbal TeaBup Non_ Herbal TeaMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bup Non_Tet Flavor,Bup Non_Tet Flavor,MT0,Refreshment Drinks,Bup Non_Tet FlavorBup Non_Tet FlavorMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Faith Sport,Faith Sport,MT0,Refreshment Drinks,Faith SportFaith SportMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Lemona_Mom Made,Lemona_Mom Made,MT0,Refreshment Drinks,Lemona_Mom MadeLemona_Mom MadeMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vitamin Water,Vitamin Water,MT0,Refreshment Drinks,Vitamin WaterVitamin WaterMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Flavored water _ Tet Flavors,Flavored water _ Tet Flavors,MT0,Refreshment Drinks,Flavored water _ Tet FlavorsFlavored water _ Tet FlavorsMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vivant new AW,Vivant new AW,MT0,Refreshment Drinks,Vivant new AWVivant new AWMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vivant _ premium glass bottle,Vivant bottle,MT0,Refreshment Drinks,Vivant _ premium glass bottleVivant bottleMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+WK 247_new variant 1,WK 247 _new variants,GT0,Refreshment Drinks,WK 247_new variant 1WK 247 _new variantsGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+WK 247_new variant 2,WK 247 _new variants,GT0,Refreshment Drinks,WK 247_new variant 2WK 247 _new variantsGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+WK 247_new variant 1,WK 247 _new variants,MT0,Refreshment Drinks,WK 247_new variant 1WK 247 _new variantsMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+WK 247_new variant 2,WK 247 _new variants,MT0,Refreshment Drinks,WK 247_new variant 2WK 247 _new variantsMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Beer Lager Premium Lush Glorious Jazz 330ml,Lush,GT0_C1,Beer,Beer Lager Premium Lush Glorious Jazz 330mlLushGT0_C1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Beer Lager Premium Lush Original Adventure 330ml,Lush,GT0_C1,Beer,Beer Lager Premium Lush Original Adventure 330mlLushGT0_C1,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Beer Lager Premium Lush Citrus Madness 330ml,Lush,GT0_C1,Beer,Beer Lager Premium Lush Citrus Madness 330mlLushGT0_C1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Beer Lager Premium Lush Summer Fiesta 330ml,Lush,GT0_C1,Beer,Beer Lager Premium Lush Summer Fiesta 330mlLushGT0_C1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Beer Lager Premium Lush Orchard Breeze 330ml,Lush,GT0_C1,Beer,Beer Lager Premium Lush Orchard Breeze 330mlLushGT0_C1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Beer Lager Premium Lush Glorious Jazz 330ml,Lush,MT0,Beer,Beer Lager Premium Lush Glorious Jazz 330mlLushMT0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Beer Lager Premium Lush Original Adventure 330ml,Lush,MT0,Beer,Beer Lager Premium Lush Original Adventure 330mlLushMT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Beer Lager Premium Lush Citrus Madness 330ml,Lush,MT0,Beer,Beer Lager Premium Lush Citrus Madness 330mlLushMT0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Beer Lager Premium Lush Summer Fiesta 330ml,Lush,MT0,Beer,Beer Lager Premium Lush Summer Fiesta 330mlLushMT0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Beer Lager Premium Lush Orchard Breeze 330ml,Lush,MT0,Beer,Beer Lager Premium Lush Orchard Breeze 330mlLushMT0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Beer Lager Premium Lush Glorious Jazz 330ml,Lush,GT0,Beer,Beer Lager Premium Lush Glorious Jazz 330mlLushGT0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Beer Lager Premium Lush Original Adventure 330ml,Lush,GT0,Beer,Beer Lager Premium Lush Original Adventure 330mlLushGT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Beer Lager Premium Lush Citrus Madness 330ml,Lush,GT0,Beer,Beer Lager Premium Lush Citrus Madness 330mlLushGT0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Beer Lager Premium Lush Summer Fiesta 330ml,Lush,GT0,Beer,Beer Lager Premium Lush Summer Fiesta 330mlLushGT0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Beer Lager Premium Lush Orchard Breeze 330ml,Lush,GT0,Beer,Beer Lager Premium Lush Orchard Breeze 330mlLushGT0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Red Ruby KM TC,Red Ruby Regular,GT0_C1,Beer,Red Ruby KM TCRed Ruby RegularGT0_C1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0
+Red Ruby Tết,Red Ruby Regular,GT0_C1,Beer,Red Ruby TếtRed Ruby RegularGT0_C1,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,1.0
+Beer Lager Premium Red Ruby Regular 24lon 330ml,Red Ruby Regular,GT0_C1,Beer,Beer Lager Premium Red Ruby Regular 24lon 330mlRed Ruby RegularGT0_C1,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Red Ruby KM TC,Red Ruby Regular,MT0,Beer,Red Ruby KM TCRed Ruby RegularMT0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Red Ruby Tết,Red Ruby Regular,MT0,Beer,Red Ruby TếtRed Ruby RegularMT0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,1.0
+Beer Lager Premium Red Ruby Regular 24lon 330ml,Red Ruby Regular,MT0,Beer,Beer Lager Premium Red Ruby Regular 24lon 330mlRed Ruby RegularMT0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Beer Lager Premium Red Ruby Regular 24lon 330ml,Red Ruby Regular,GT0,Beer,Beer Lager Premium Red Ruby Regular 24lon 330mlRed Ruby RegularGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+TEA sleek can,TEA sleek can,GT0,Refreshment Drinks,TEA sleek canTEA sleek canGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+TEA PET 1L,TEA PET 1L,GT0,Refreshment Drinks,TEA PET 1LTEA PET 1LGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+TEA sleek can,TEA sleek can,MT0,Refreshment Drinks,TEA sleek canTEA sleek canMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+TEA PET 1L,TEA PET 1L,MT0,Refreshment Drinks,TEA PET 1LTEA PET 1LMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Energy Drinks Compact Cherry 330ml,Compact Cherry,GT0,Refreshment Drinks,Energy Drinks Compact Cherry 330mlCompact CherryGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CSD Lemona Chanh 500ml,Lemona,GT0,Refreshment Drinks,CSD Lemona Chanh 500mlLemonaGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kokomi Món Việt,Kokomi Món Việt,GT0,Convenience Foods,Kokomi Món ViệtKokomi Món ViệtGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Lẩu tự sôi bắp bò riêu cua,OMC Lẩu tự sôi bắp bò riêu cua,GT0,Convenience Foods,OMC Lẩu tự sôi bắp bò riêu cuaOMC Lẩu tự sôi bắp bò riêu cuaGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Noodle Partner,Noodle Partner,GT0,Rice base,Noodle PartnerNoodle PartnerGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mashed Potato Omachi Bò xốt nấm Truffle 59gr,OMC Khoai tây nghiền,GT0,Convenience Foods,Mashed Potato Omachi Bò xốt nấm Truffle 59grOMC Khoai tây nghiềnGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Spa Upsize,OMC Spa Upsize,GT0,Convenience Foods,OMC Spa UpsizeOMC Spa UpsizeGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kokomi Món Việt,Kokomi Món Việt,MT0,Convenience Foods,.,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Noodle Partner,Noodle Partner,MT0,Rice base,Noodle PartnerNoodle PartnerMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mashed Potato Omachi Bò xốt nấm Truffle 59gr,OMC Khoai tây nghiền,MT0,Convenience Foods,Mashed Potato Omachi Bò xốt nấm Truffle 59grOMC Khoai tây nghiềnMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Spa Upsize,OMC Spa Upsize,MT0,Convenience Foods,OMC Spa UpsizeOMC Spa UpsizeMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Noodle Kokomi Đại 90 Hộp Tôm (có thịt) 90gr,Kokomi 90g Ly Thịt,GT0,Convenience Foods,Instant Noodle Kokomi Đại 90 Hộp Tôm (có thịt) 90grKokomi 90g Ly ThịtGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Noodle Kokomi Đại 90 Hộp Tôm (có thịt) 90gr,Kokomi 90g Ly Thịt,MT0,Convenience Foods,Instant Noodle Kokomi Đại 90 Hộp Tôm (có thịt) 90grKokomi 90g Ly ThịtMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kokomi 90g Sườn,Kokomi 90g Sườn,GT0,Convenience Foods,Kokomi 90g SườnKokomi 90g SườnGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kokomi 90g Sườn,Kokomi 90g Sườn,MT0,Convenience Foods,Kokomi 90g SườnKokomi 90g SườnMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Noodle Kokomi Đại trộn Thái chua cay 134gr,Kokomi Đại 1.5 Trộn Gói,GT0,Convenience Foods,Instant Noodle Kokomi Đại trộn Thái chua cay 134grKokomi Đại 1.5 Trộn GóiGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Noodle Kokomi Đại trộn Thái chua cay 134gr,Kokomi Đại 1.5 Trộn Gói,MT0,Convenience Foods,Instant Noodle Kokomi Đại trộn Thái chua cay 134grKokomi Đại 1.5 Trộn GóiMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMCLautusoi,OMCLautusoi,GT0,Convenience Foods,OMCLautusoiOMCLautusoiGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMCLautusoi,OMCLautusoi,MT0,Convenience Foods,OMCLautusoiOMCLautusoiMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Omachi lẩu bắp bò riêu cua,Omachi lẩu bắp bò riêu cua,GT0,Convenience Foods,Omachi lẩu bắp bò riêu cuaOmachi lẩu bắp bò riêu cuaGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Omachi lẩu bắp bò riêu cua,Omachi lẩu bắp bò riêu cua,MT0,Convenience Foods,Omachi lẩu bắp bò riêu cuaOmachi lẩu bắp bò riêu cuaMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Gói Trộn_Thịt Xiên Nướng,OMC Gói Trộn_TXN,GT0,Convenience Foods,OMC Gói Trộn_Thịt Xiên NướngOMC Gói Trộn_TXNGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Gói Trộn_Thịt Xiên Nướng,OMC Gói Trộn_TXN,MT0,Convenience Foods,OMC Gói Trộn_Thịt Xiên NướngOMC Gói Trộn_TXNMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Tô Trộn_Thịt Xiên Nướng,OMC Tô Trộn_TXN,GT0,Convenience Foods,OMC Tô Trộn_Thịt Xiên NướngOMC Tô Trộn_TXNGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Tô Trộn_Thịt Xiên Nướng,OMC Tô Trộn_TXN,MT0,Convenience Foods,OMC Tô Trộn_Thịt Xiên NướngOMC Tô Trộn_TXNMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Tô Thịt Trộn_Thịt Xiên Nướng,OMC Tô Thịt Trộn_Inno,GT0,Convenience Foods,OMC Tô Thịt Trộn_Thịt Xiên NướngOMC Tô Thịt Trộn_InnoGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Tô Thịt Trộn_Thịt Xiên Nướng,OMC Tô Thịt Trộn_Inno,MT0,Convenience Foods,OMC Tô Thịt Trộn_Thịt Xiên NướngOMC Tô Thịt Trộn_InnoMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bánh đa Chinsu Cua (có thịt) 137gr,Bánh Đa Chinsu Gói Thịt,GT0,Rice base,Bánh đa Chinsu Cua (có thịt) 137grBánh Đa Chinsu Gói ThịtGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bánh đa Chinsu Cua (có thịt) 137gr,Bánh Đa Chinsu Gói Thịt,MT0,Rice base,Bánh đa Chinsu Cua (có thịt) 137grBánh Đa Chinsu Gói ThịtMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bánh đa Chinsu Tô Cua (có thịt) 137gr,Bánh Đa Chinsu Tô Thịt,GT0,Rice base,Bánh đa Chinsu Tô Cua (có thịt) 137grBánh Đa Chinsu Tô ThịtGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bánh đa Chinsu Tô Cua (có thịt) 137gr,Bánh Đa Chinsu Tô Thịt,MT0,Rice base,Bánh đa Chinsu Tô Cua (có thịt) 137grBánh Đa Chinsu Tô ThịtMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hủ tiếu Chinsu Bò kho (có thịt) 152gr,Hủ Tiếu Chinsu Gói Thịt,GT0,Rice base,Hủ tiếu Chinsu Bò kho (có thịt) 152grHủ Tiếu Chinsu Gói ThịtGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hủ tiếu Chinsu Bò kho (có thịt) 152gr,Hủ Tiếu Chinsu Gói Thịt,MT0,Rice base,Hủ tiếu Chinsu Bò kho (có thịt) 152grHủ Tiếu Chinsu Gói ThịtMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hủ tiếu Chinsu thập cẩm (có thịt) 145gr,Hủ Tiếu Chinsu Gói Thịt,GT0,Rice base,Hủ tiếu Chinsu thập cẩm (có thịt) 145grHủ Tiếu Chinsu Gói ThịtGT0,,,,,,,,,,,,
+Hủ tiếu Chinsu thập cẩm (có thịt) 145gr,Hủ Tiếu Chinsu Gói Thịt,MT0,Rice base,Hủ tiếu Chinsu thập cẩm (có thịt) 145grHủ Tiếu Chinsu Gói ThịtMT0,,,,,,,,,,,,
+Hủ tiếu Chinsu Tô Bò kho (có thịt) 152gr,Hủ Tiếu Chinsu Tô Thịt,GT0,Rice base,Hủ tiếu Chinsu Tô Bò kho (có thịt) 152grHủ Tiếu Chinsu Tô ThịtGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hủ tiếu Chinsu Tô Bò kho (có thịt) 152gr,Hủ Tiếu Chinsu Tô Thịt,MT0,Rice base,Hủ tiếu Chinsu Tô Bò kho (có thịt) 152grHủ Tiếu Chinsu Tô ThịtMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hủ tiếu Chinsu Tô thập cẩm (có thịt) 145gr,Hủ Tiếu Chinsu Tô Thịt,GT0,Rice base,Hủ tiếu Chinsu Tô thập cẩm (có thịt) 145grHủ Tiếu Chinsu Tô ThịtGT0,,,,,,,,,,,,
+Hủ tiếu Chinsu Tô thập cẩm (có thịt) 145gr,Hủ Tiếu Chinsu Tô Thịt,MT0,Rice base,Hủ tiếu Chinsu Tô thập cẩm (có thịt) 145grHủ Tiếu Chinsu Tô ThịtMT0,,,,,,,,,,,,
+Miến Chinsu Gà (có thịt) 127gr,Miến Chinsu Gói Thịt,GT0,Rice base,Miến Chinsu Gà (có thịt) 127grMiến Chinsu Gói ThịtGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Miến Chinsu Gà (có thịt) 127gr,Miến Chinsu Gói Thịt,MT0,Rice base,Miến Chinsu Gà (có thịt) 127grMiến Chinsu Gói ThịtMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Miến Chinsu Sườn (có thịt) 128gr,Miến Chinsu Gói Thịt,GT0,Rice base,Miến Chinsu Sườn (có thịt) 128grMiến Chinsu Gói ThịtGT0,,,,,,,,,,,,
+Miến Chinsu Sườn (có thịt) 128gr,Miến Chinsu Gói Thịt,MT0,Rice base,Miến Chinsu Sườn (có thịt) 128grMiến Chinsu Gói ThịtMT0,,,,,,,,,,,,
+Miến Chinsu Tô Gà (có thịt) 127gr,Miến Chinsu Tô Thịt,GT0,Rice base,Miến Chinsu Tô Gà (có thịt) 127grMiến Chinsu Tô ThịtGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Miến Chinsu Tô Gà (có thịt) 127gr,Miến Chinsu Tô Thịt,MT0,Rice base,Miến Chinsu Tô Gà (có thịt) 127grMiến Chinsu Tô ThịtMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Miến Chinsu Tô Sườn (có thịt) 128gr,Miến Chinsu Tô Thịt,GT0,Rice base,Miến Chinsu Tô Sườn (có thịt) 128grMiến Chinsu Tô ThịtGT0,,,,,,,,,,,,
+Miến Chinsu Tô Sườn (có thịt) 128gr,Miến Chinsu Tô Thịt,MT0,Rice base,Miến Chinsu Tô Sườn (có thịt) 128grMiến Chinsu Tô ThịtMT0,,,,,,,,,,,,
+Phở Chinsu Bò (có thịt) 140gr,Phở Chinsu Gói Thịt,GT0,Rice base,Phở Chinsu Bò (có thịt) 140grPhở Chinsu Gói ThịtGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở Chinsu Bò (có thịt) 140gr,Phở Chinsu Gói Thịt,MT0,Rice base,Phở Chinsu Bò (có thịt) 140grPhở Chinsu Gói ThịtMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở Chinsu Gà (có thịt) 135gr,Phở Chinsu Gói Thịt,GT0,Rice base,Phở Chinsu Gà (có thịt) 135grPhở Chinsu Gói ThịtGT0,,,,,,,,,,,,
+Phở Chinsu Gà (có thịt) 135gr,Phở Chinsu Gói Thịt,MT0,Rice base,Phở Chinsu Gà (có thịt) 135grPhở Chinsu Gói ThịtMT0,,,,,,,,,,,,
+Phở Chinsu Tô Bò (có thịt) 140gr,Phở Chinsu Tô Thịt,GT0,Rice base,Phở Chinsu Tô Bò (có thịt) 140grPhở Chinsu Tô ThịtGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở Chinsu Tô Bò (có thịt) 140gr,Phở Chinsu Tô Thịt,MT0,Rice base,Phở Chinsu Tô Bò (có thịt) 140grPhở Chinsu Tô ThịtMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở Chinsu Tô Gà (có thịt) 135gr,Phở Chinsu Tô Thịt,GT0,Rice base,Phở Chinsu Tô Gà (có thịt) 135grPhở Chinsu Tô ThịtGT0,,,,,,,,,,,,
+Phở Chinsu Tô Gà (có thịt) 135gr,Phở Chinsu Tô Thịt,MT0,Rice base,Phở Chinsu Tô Gà (có thịt) 135grPhở Chinsu Tô ThịtMT0,,,,,,,,,,,,
+Set Phở Bò Hộp,Set Phở Bò Hộp,GT0,Rice base,Set Phở Bò HộpSet Phở Bò HộpGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Set Phở Bò Hộp,Set Phở Bò Hộp,MT0,Rice base,Set Phở Bò HộpSet Phở Bò HộpMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bánh Phở Khô,Bánh Phở Khô,GT0,Rice base,Bánh Phở KhôBánh Phở KhôGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bánh Phở Khô,Bánh Phở Khô,MT0,Rice base,Bánh Phở KhôBánh Phở KhôMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở Story Bò 72gr,Phở Story 9k (gói),GT0,Rice base,Phở Story Bò 72grPhở Story 9k (gói)GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở Story Bò 72gr,Phở Story 9k (gói),MT0,Rice base,Phở Story Bò 72grPhở Story 9k (gói)MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hủ tiếu Kokomi Sườn 70gr,Hủ Tiếu Kokomi,GT0,Rice base,Hủ tiếu Kokomi Sườn 70grHủ Tiếu KokomiGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hủ tiếu Kokomi Sườn 70gr,Hủ Tiếu Kokomi,MT0,Rice base,Hủ tiếu Kokomi Sườn 70grHủ Tiếu KokomiMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở Kiều Giang Bò 85gr,Phở Bò Kiều Giang,GT0,Rice base,Phở Kiều Giang Bò 85grPhở Bò Kiều GiangGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở Kiều Giang Bò 85gr,Phở Bò Kiều Giang,MT0,Rice base,Phở Kiều Giang Bò 85grPhở Bò Kiều GiangMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+New Brand Rice base,New Brand Rice base,GT0,Rice base,New Brand Rice baseNew Brand Rice baseGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+New Brand Rice base,New Brand Rice base,MT0,Rice base,New Brand Rice baseNew Brand Rice baseMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+New Brand Phở,New Brand Phở,GT0,Rice base,New Brand PhởNew Brand PhởGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+New Brand Phở,New Brand Phở,MT0,Rice base,New Brand PhởNew Brand PhởMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cooking Noodle Omachi Cooking 102 Lẩu thả hải sản 108gr,OMC Mì Nấu,GT0,Convenience Foods,Cooking Noodle Omachi Cooking 102 Lẩu thả hải sản 108grOMC Mì NấuGT0,0.3333333333333333,0.3333333333333333,,,,,,,,,,
+Cooking Noodle Omachi Cooking 102 Lẩu thả hải sản 108gr,OMC Mì Nấu,MT0,Convenience Foods,Cooking Noodle Omachi Cooking 102 Lẩu thả hải sản 108grOMC Mì NấuMT0,0.3333333333333333,0.3333333333333333,,,,,,,,,,
+Cooking Noodle Omachi Cooking Bò hầm 100gr,OMC Mì Nấu,GT0,Convenience Foods,Cooking Noodle Omachi Cooking Bò hầm 100grOMC Mì NấuGT0,,,,,,,,,,,,
+Cooking Noodle Omachi Cooking Bò hầm 100gr,OMC Mì Nấu,MT0,Convenience Foods,Cooking Noodle Omachi Cooking Bò hầm 100grOMC Mì NấuMT0,,,,,,,,,,,,
+Cooking Noodle Omachi Cooking Bò cay 100gr,OMC Mì Nấu,GT0,Convenience Foods,Cooking Noodle Omachi Cooking Bò cay 100grOMC Mì NấuGT0,0.3333333333333333,0.3333333333333333,,,,,,,,,,
+Cooking Noodle Omachi Cooking Bò cay 100gr,OMC Mì Nấu,MT0,Convenience Foods,Cooking Noodle Omachi Cooking Bò cay 100grOMC Mì NấuMT0,0.3333333333333333,0.3333333333333333,,,,,,,,,,
+Cooking Noodle Omachi Cooking Bò hầm Bloc 100gr,OMC Mì Nấu,GT0,Convenience Foods,Cooking Noodle Omachi Cooking Bò hầm Bloc 100grOMC Mì NấuGT0,0.3333333333333333,0.3333333333333333,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cooking Noodle Omachi Cooking Bò hầm Bloc 100gr,OMC Mì Nấu,MT0,Convenience Foods,Cooking Noodle Omachi Cooking Bò hầm Bloc 100grOMC Mì NấuMT0,0.3333333333333333,0.3333333333333333,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Noodle Omachi Tô Sườn 95gr,OMC Tô Nước,GT0,Convenience Foods,Instant Noodle Omachi Tô Sườn 95grOMC Tô NướcGT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Instant Noodle Omachi Tô Bò 92gr,OMC Tô Nước,GT0,Convenience Foods,Instant Noodle Omachi Tô Bò 92grOMC Tô NướcGT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Instant Noodle Omachi Tô Tôm chua cay Thái 91gr,OMC Tô Nước,GT0,Convenience Foods,Instant Noodle Omachi Tô Tôm chua cay Thái 91grOMC Tô NướcGT0,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15
+Instant Noodle Omachi Tô Sườn 95gr,OMC Tô Nước,MT0,Convenience Foods,Instant Noodle Omachi Tô Sườn 95grOMC Tô NướcMT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Instant Noodle Omachi Tô Bò 92gr,OMC Tô Nước,MT0,Convenience Foods,Instant Noodle Omachi Tô Bò 92grOMC Tô NướcMT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Instant Noodle Omachi Tô Tôm chua cay Thái 91gr,OMC Tô Nước,MT0,Convenience Foods,Instant Noodle Omachi Tô Tôm chua cay Thái 91grOMC Tô NướcMT0,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15
+Instant Noodle Omachi Bò 80gr,Omachi Bò,KA0,Convenience Foods,Instant Noodle Omachi Bò 80grOmachi BòKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Noodle Kokomi Đại Tôm chua cay 113gr MN,Kokomi Đại 1.5 Gói,GT0,Convenience Foods,Instant Noodle Kokomi Đại Tôm chua cay 113gr MNKokomi Đại 1.5 GóiGT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Instant Noodle Kokomi Đại Tôm chua cay 113gr MN,Kokomi Đại 1.5 Gói,MT0,Convenience Foods,Instant Noodle Kokomi Đại Tôm chua cay 113gr MNKokomi Đại 1.5 GóiMT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Instant Noodle Kokomi Đại Tôm chua cay 113gr MB,Kokomi Đại 1.5 Gói,GT0,Convenience Foods,Instant Noodle Kokomi Đại Tôm chua cay 113gr MBKokomi Đại 1.5 GóiGT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Instant Noodle Kokomi Đại Tôm chua cay 113gr MB,Kokomi Đại 1.5 Gói,MT0,Convenience Foods,Instant Noodle Kokomi Đại Tôm chua cay 113gr MBKokomi Đại 1.5 GóiMT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Omachi Bò Cà Chua Trứng,Omachi Bò Cà Chua Trứng,GT0,Convenience Foods,Omachi Bò Cà Chua TrứngOmachi Bò Cà Chua TrứngGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Omachi Bò Cà Chua Trứng,Omachi Bò Cà Chua Trứng,MT0,Convenience Foods,Omachi Bò Cà Chua TrứngOmachi Bò Cà Chua TrứngMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở gà gói,Phở gà gói,GT0,Rice base,Phở gà góiPhở gà góiGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở gà gói,Phở gà gói,MT0,Rice base,Phở gà góiPhở gà góiMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kokomi Đại 1.5 Tô 120g,Kokomi Đại 1.5 Tô,GT0,Convenience Foods,Kokomi Đại 1.5 Tô 120gKokomi Đại 1.5 TôGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kokomi Đại 1.5 Tô 120g,Kokomi Đại 1.5 Tô,MT0,Convenience Foods,Kokomi Đại 1.5 Tô 120gKokomi Đại 1.5 TôMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hủ Tiếu 9k,Hủ Tiếu 9k,GT0,Rice base,Hủ Tiếu 9kHủ Tiếu 9kGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hủ Tiếu 9k,Hủ Tiếu 9k,MT0,Rice base,Hủ Tiếu 9kHủ Tiếu 9kMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hủ Tiếu New Inno,Hủ Tiếu New Inno,GT0,Rice base,Hủ Tiếu New InnoHủ Tiếu New InnoGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hủ Tiếu New Inno,Hủ Tiếu New Inno,MT0,Rice base,Hủ Tiếu New InnoHủ Tiếu New InnoMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Noodle Kokomi 75 lẩu bò 75gr,Kokomi 75g - Lẩu BRT,GT0,Convenience Foods,Instant Noodle Kokomi 75 lẩu bò 75grKokomi 75g - Lẩu BRTGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Noodle Kokomi 75 lẩu bò 75gr,Kokomi 75g - Lẩu BRT,MT0,Convenience Foods,Instant Noodle Kokomi 75 lẩu bò 75grKokomi 75g - Lẩu BRTMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở Story Bò (có thịt) 131gr,Phở Story 30k (gói),GT0,Rice base,Phở Story Bò (có thịt) 131grPhở Story 30k (gói)GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở Story Bò (có thịt) 131gr,Phở Story 30k (gói),MT0,Rice base,Phở Story Bò (có thịt) 131grPhở Story 30k (gói)MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở Story tô Bò (có thịt) 131gr,Phở Story 30k (tô),GT0,Rice base,Phở Story tô Bò (có thịt) 131grPhở Story 30k (tô)GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở Story tô Bò (có thịt) 131gr,Phở Story 30k (tô),MT0,Rice base,Phở Story tô Bò (có thịt) 131grPhở Story 30k (tô)MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kokomi Đại 1.5 Gói Sườn,Kokomi Đại 1.5 Gói Sườn,GT0,Convenience Foods,Kokomi Đại 1.5 Gói SườnKokomi Đại 1.5 Gói SườnGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kokomi Đại 1.5 Gói Sườn,Kokomi Đại 1.5 Gói Sườn,MT0,Convenience Foods,Kokomi Đại 1.5 Gói SườnKokomi Đại 1.5 Gói SườnMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kokomi 75g - cay sa tế,Kokomi 75g - cay sa tế,GT0,Convenience Foods,Kokomi 75g - cay sa tếKokomi 75g - cay sa tếGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kokomi 75g - cay sa tế,Kokomi 75g - cay sa tế,MT0,Convenience Foods,Kokomi 75g - cay sa tếKokomi 75g - cay sa tếMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC 75gr,OMC 75gr,GT0,Convenience Foods,OMC 75grOMC 75grGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC 75gr,OMC 75gr,MT0,Convenience Foods,OMC 75grOMC 75grMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cháo Story Tươi (túi),Cháo Story Tươi (túi),GT0,Rice base,Cháo Story Tươi (túi)Cháo Story Tươi (túi)GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cháo Story Tươi (túi),Cháo Story Tươi (túi),MT0,Rice base,Cháo Story Tươi (túi)Cháo Story Tươi (túi)MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Ly BBRC,OMC Ly BBRC,GT0,Convenience Foods,OMC Ly BBRCOMC Ly BBRCGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Ly BBRC,OMC Ly BBRC,MT0,Convenience Foods,OMC Ly BBRCOMC Ly BBRCMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Ly Thịt BBRC,OMC Ly Thịt BBRC,GT0,Convenience Foods,OMC Ly Thịt BBRCOMC Ly Thịt BBRCGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Ly Thịt BBRC,OMC Ly Thịt BBRC,MT0,Convenience Foods,OMC Ly Thịt BBRCOMC Ly Thịt BBRCMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Tô Nước BBRC,OMC Tô Nước BBRC,GT0,Convenience Foods,OMC Tô Nước BBRCOMC Tô Nước BBRCGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Tô Nước BBRC,OMC Tô Nước BBRC,MT0,Convenience Foods,OMC Tô Nước BBRCOMC Tô Nước BBRCMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Lẩu tự sôi bắp bò riêu cua,OMC Lẩu tự sôi bắp bò riêu cua,MT0,Convenience Foods,OMC Lẩu tự sôi bắp bò riêu cuaOMC Lẩu tự sôi bắp bò riêu cuaMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Lẩu bò cay,OMC Lẩu bò cay,GT0,Convenience Foods,OMC Lẩu bò cayOMC Lẩu bò cayGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Lẩu bò cay,OMC Lẩu bò cay,MT0,Convenience Foods,OMC Lẩu bò cayOMC Lẩu bò cayMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cháo Story Khô (gói),Cháo Story Khô (gói),GT0,Rice base,Cháo Story Khô (gói)Cháo Story Khô (gói)GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cháo Story Khô (gói),Cháo Story Khô (gói),MT0,Rice base,Cháo Story Khô (gói)Cháo Story Khô (gói)MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cháo Story Khô (ly),Cháo Story Khô (ly),GT0,Rice base,Cháo Story Khô (ly)Cháo Story Khô (ly)GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cháo Story Khô (ly),Cháo Story Khô (ly),MT0,Rice base,Cháo Story Khô (ly)Cháo Story Khô (ly)MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mì trộn xoài,Mì trộn xoài,GT0,Cooking Noodle,Mì trộn xoàiMì trộn xoàiGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mì trộn xoài,Mì trộn xoài,MT0,Cooking Noodle,Mì trộn xoàiMì trộn xoàiMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mì canh chua,Mì canh chua,GT0,Cooking Noodle,Mì canh chuaMì canh chuaGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mì canh chua,Mì canh chua,MT0,Cooking Noodle,Mì canh chuaMì canh chuaMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mì bò hầm,Mì bò hầm,GT0,Cooking Noodle,Mì bò hầmMì bò hầmGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mì bò hầm,Mì bò hầm,MT0,Cooking Noodle,Mì bò hầmMì bò hầmMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Mì lạnh xốt táo,OMC Mì lạnh xốt táo,GT0,Cooking Noodle,OMC Mì lạnh xốt táoOMC Mì lạnh xốt táoGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Mì lạnh xốt táo,OMC Mì lạnh xốt táo,MT0,Cooking Noodle,OMC Mì lạnh xốt táoOMC Mì lạnh xốt táoMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mì trộn Spa,Mì trộn Spa,GT0,Cooking Noodle,Mì trộn SpaMì trộn SpaGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mì trộn Spa,Mì trộn Spa,MT0,Cooking Noodle,Mì trộn SpaMì trộn SpaMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kokomi Ly_Sườn,Kokomi Ly_Sườn,GT0,Convenience Foods,Kokomi Ly_SườnKokomi Ly_SườnGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kokomi Ly_Sườn,Kokomi Ly_Sườn,MT0,Convenience Foods,Kokomi Ly_SườnKokomi Ly_SườnMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC New Inno 1,OMC New Inno 1,GT0,Convenience Foods,OMC New Inno 1OMC New Inno 1GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC New Inno 2,OMC New Inno 2,GT0,Convenience Foods,OMC New Inno 2OMC New Inno 2GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC New Inno 3,OMC New Inno 3,GT0,Convenience Foods,OMC New Inno 3OMC New Inno 3GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC New Inno 1,OMC New Inno 1,MT0,Convenience Foods,OMC New Inno 1OMC New Inno 1MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC New Inno 2,OMC New Inno 2,MT0,Convenience Foods,OMC New Inno 2OMC New Inno 2MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC New Inno 3,OMC New Inno 3,MT0,Convenience Foods,OMC New Inno 3OMC New Inno 3MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+KKM New Inno 1,KKM New Inno 1,GT0,Convenience Foods,KKM New Inno 1KKM New Inno 1GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+KKM New Inno 2,KKM New Inno 2,GT0,Convenience Foods,KKM New Inno 2KKM New Inno 2GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+KKM New Inno 3,KKM New Inno 3,GT0,Convenience Foods,KKM New Inno 3KKM New Inno 3GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+KKM New Inno 4,KKM New Inno 4,GT0,Convenience Foods,KKM New Inno 4KKM New Inno 4GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+KKM New Inno 1,KKM New Inno 1,MT0,Convenience Foods,KKM New Inno 1KKM New Inno 1MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+KKM New Inno 2,KKM New Inno 2,MT0,Convenience Foods,KKM New Inno 2KKM New Inno 2MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+KKM New Inno 3,KKM New Inno 3,MT0,Convenience Foods,KKM New Inno 3KKM New Inno 3MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+KKM New Inno 4,KKM New Inno 4,MT0,Convenience Foods,KKM New Inno 4KKM New Inno 4MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CN Inno 1 (VN),CN Inno 1 (VN),GT0,Cooking Noodle,CN Inno 1 (VN)CN Inno 1 (VN)GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CN Inno 2 (VN),CN Inno 2 (VN),GT0,Cooking Noodle,CN Inno 2 (VN)CN Inno 2 (VN)GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CN Inno 3 (Seafood),CN Inno 3 (Seafood),GT0,Cooking Noodle,CN Inno 3 (Seafood)CN Inno 3 (Seafood)GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CN Inno 4 (Mara),CN Inno 4 (Mara),GT0,Cooking Noodle,CN Inno 4 (Mara)CN Inno 4 (Mara)GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CN Inno 5 (Egg),CN Inno 5 (Egg),GT0,Cooking Noodle,CN Inno 5 (Egg)CN Inno 5 (Egg)GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CN Inno 1 (VN),CN Inno 1 (VN),MT0,Cooking Noodle,CN Inno 1 (VN)CN Inno 1 (VN)MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CN Inno 2 (VN),CN Inno 2 (VN),MT0,Cooking Noodle,CN Inno 2 (VN)CN Inno 2 (VN)MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CN Inno 3 (Seafood),CN Inno 3 (Seafood),MT0,Cooking Noodle,CN Inno 3 (Seafood)CN Inno 3 (Seafood)MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CN Inno 4 (Mara),CN Inno 4 (Mara),MT0,Cooking Noodle,CN Inno 4 (Mara)CN Inno 4 (Mara)MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CN Inno 5 (Egg),CN Inno 5 (Egg),MT0,Cooking Noodle,CN Inno 5 (Egg)CN Inno 5 (Egg)MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Miến New Inno,Miến New Inno,GT0,Rice base,Miến New InnoMiến New InnoGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Miến New Inno,Miến New Inno,MT0,Rice base,Miến New InnoMiến New InnoMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bún New Inno,Bún New Inno,GT0,Rice base,Bún New InnoBún New InnoGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bún New Inno,Bún New Inno,MT0,Rice base,Bún New InnoBún New InnoMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kokomi 90g New Inno,Kokomi 90g New Inno,GT0,Convenience Foods,Kokomi 90g New InnoKokomi 90g New InnoGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kokomi 90g New Inno,Kokomi 90g New Inno,MT0,Convenience Foods,Kokomi 90g New InnoKokomi 90g New InnoMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kokomi Đại 1.5 New Inno,Kokomi Đại 1.5 New Inno,GT0,Convenience Foods,Kokomi Đại 1.5 New InnoKokomi Đại 1.5 New InnoGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kokomi Đại 1.5 New Inno,Kokomi Đại 1.5 New Inno,MT0,Convenience Foods,Kokomi Đại 1.5 New InnoKokomi Đại 1.5 New InnoMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+KKM New Inno Ly,KKM New Inno Ly,GT0,Convenience Foods,KKM New Inno LyKKM New Inno LyGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+KKM New Inno Ly,KKM New Inno Ly,MT0,Convenience Foods,KKM New Inno LyKKM New Inno LyMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+KKM New Inno Ly Thịt,KKM New Inno Ly Thịt,GT0,Convenience Foods,KKM New Inno Ly ThịtKKM New Inno Ly ThịtGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+KKM New Inno Ly Thịt,KKM New Inno Ly Thịt,MT0,Convenience Foods,KKM New Inno Ly ThịtKKM New Inno Ly ThịtMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mì Gumi hương vị bún bò 75gr,Bún bò,GT0,Convenience Foods,Mì Gumi hương vị bún bò 75grBún bòGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mì Gumi hương vị bún bò 75gr,Bún bò,MT0,Convenience Foods,Mì Gumi hương vị bún bò 75grBún bòMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở New Inno,Phở New Inno,GT0,Rice base,Phở New InnoPhở New InnoGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở New Inno,Phở New Inno,MT0,Rice base,Phở New InnoPhở New InnoMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cháo New Inno,Cháo New Inno,GT0,Rice base,Cháo New InnoCháo New InnoGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cháo New Inno,Cháo New Inno,MT0,Rice base,Cháo New InnoCháo New InnoMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Noodle Omachi 102 trộn mì lạnh xốt táo 110gr,OMC Táo,GT0,Convenience Foods,Instant Noodle Omachi 102 trộn mì lạnh xốt táo 110grOMC TáoGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Noodle Omachi 102 trộn mì lạnh xốt táo 110gr,OMC Táo,MT0,Convenience Foods,Instant Noodle Omachi 102 trộn mì lạnh xốt táo 110grOMC TáoMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Ly New,OMC Ly New,GT0,Convenience Foods,OMC Ly NewOMC Ly NewGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Ly New,OMC Ly New,MT0,Convenience Foods,OMC Ly NewOMC Ly NewMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Healthy,OMC Healthy,GT0,Convenience Foods,OMC HealthyOMC HealthyGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Healthy,OMC Healthy,MT0,Convenience Foods,OMC HealthyOMC HealthyMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Lẩu tự sôi 3,OMC Lẩu tự sôi 3,GT0,Convenience Foods,OMC Lẩu tự sôi 3OMC Lẩu tự sôi 3GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Lẩu tự sôi 3,OMC Lẩu tự sôi 3,MT0,Convenience Foods,OMC Lẩu tự sôi 3OMC Lẩu tự sôi 3MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Lẩu tự sôi 4,OMC Lẩu tự sôi 4,GT0,Convenience Foods,OMC Lẩu tự sôi 4OMC Lẩu tự sôi 4GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Lẩu tự sôi 4,OMC Lẩu tự sôi 4,MT0,Convenience Foods,OMC Lẩu tự sôi 4OMC Lẩu tự sôi 4MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Lẩu tự sôi 5,OMC Lẩu tự sôi 5,GT0,Convenience Foods,OMC Lẩu tự sôi 5OMC Lẩu tự sôi 5GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+OMC Lẩu tự sôi 5,OMC Lẩu tự sôi 5,MT0,Convenience Foods,OMC Lẩu tự sôi 5OMC Lẩu tự sôi 5MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+KKM Songmi,KKM Songmi,GT0,Convenience Foods,KKM SongmiKKM SongmiGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+KKM Songmi,KKM Songmi,MT0,Convenience Foods,KKM SongmiKKM SongmiMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Noodle Kokomi Tôm 30gói 65gr,Kokomi Core,GT0_C1,Convenience Foods,Instant Noodle Kokomi Tôm 30gói 65grKokomi CoreGT0_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mì Gumi hương vị canh cà chua trứng 80gr,Cà chua trứng,GT0,Convenience Foods,Mì Gumi hương vị canh cà chua trứng 80grCà chua trứngGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mì Gumi hương vị canh cà chua trứng 80gr,Cà chua trứng,MT0,Convenience Foods,Mì Gumi hương vị canh cà chua trứng 80grCà chua trứngMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở Story 9k (gói)_MN,Phở Story 9k (gói)_MN,GT0,Rice base,Phở Story 9k (gói)_MNPhở Story 9k (gói)_MNGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở Story 9k (gói)_MN,Phở Story 9k (gói)_MN,MT0,Rice base,Phở Story 9k (gói)_MNPhở Story 9k (gói)_MNMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở Story 9k (gói)_trộn,Phở Story 9k (gói)_trộn,GT0,Rice base,Phở Story 9k (gói)_trộnPhở Story 9k (gói)_trộnGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Phở Story 9k (gói)_trộn,Phở Story 9k (gói)_trộn,MT0,Rice base,Phở Story 9k (gói)_trộnPhở Story 9k (gói)_trộnMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Coffee Wake up sữa đá 3in1 hộp 24gr,WU _ Nâu/ Sữa đá,GT0,Coffee,Instant Coffee Wake up sữa đá 3in1 hộp 24grWU _ Nâu/ Sữa đáGT0,0.475868475033589,0.475868475033589,0.475868475033589,0.475868475033589,0.475868475033589,0.475868475033589,0.475868475033589,0.3252195734002509,0.5033793853465984,0.475868475033589,0.475868475033589,0.475868475033589
+Instant Coffee Wake up nâu đá 3 in 1 hộp 24gr,WU _ Nâu/ Sữa đá,GT0,Coffee,Instant Coffee Wake up nâu đá 3 in 1 hộp 24grWU _ Nâu/ Sữa đáGT0,0.15644990960008406,0.15644990960008406,0.15644990960008406,0.15644990960008406,0.15644990960008406,0.15644990960008406,0.15644990960008406,0.21681304893350065,0.11397269102187134,0.15644990960008406,0.15644990960008406,0.15644990960008406
+Instant Coffee Wake up sữa đá 3in1 bịch 24gr,WU _ Nâu/ Sữa đá,GT0,Coffee,Instant Coffee Wake up sữa đá 3in1 bịch 24grWU _ Nâu/ Sữa đáGT0,0.36768161536632704,0.36768161536632704,0.36768161536632704,0.36768161536632704,0.36768161536632704,0.36768161536632704,0.36768161536632704,0.4579673776662484,0.38264792363153016,0.36768161536632704,0.36768161536632704,0.36768161536632704
+RTD Cereals B'fast hương cam 110ml,B'fast _ Sữa trái cây,GT0,Nutrition,RTD Cereals B'fast hương cam 110mlB'fast _ Sữa trái câyGT0,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001
+RTD Cereals B'fast hương cam 180ml,B'fast _ Sữa trái cây,GT0,Nutrition,RTD Cereals B'fast hương cam 180mlB'fast _ Sữa trái câyGT0,0.265,0.265,0.265,0.265,0.265,0.265,0.265,0.265,0.265,0.265,0.265,0.265
+RTD Cereals B'fast hương dưa lưới 110ml,B'fast _ Sữa trái cây,GT0,Nutrition,RTD Cereals B'fast hương dưa lưới 110mlB'fast _ Sữa trái câyGT0,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001,0.23500000000000001
+RTD Cereals B'fast hương dưa lưới 180ml,B'fast _ Sữa trái cây,GT0,Nutrition,RTD Cereals B'fast hương dưa lưới 180mlB'fast _ Sữa trái câyGT0,0.265,0.265,0.265,0.265,0.265,0.265,0.265,0.265,0.265,0.265,0.265,0.265
+RTD Cereals B'fast hương cam 180ml,B'fast _ Sữa trái cây,MT0,Nutrition,RTD Cereals B'fast hương cam 180mlB'fast _ Sữa trái câyMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+RTD Cereals B'fast hương dưa lưới 180ml,B'fast _ Sữa trái cây,MT0,Nutrition,RTD Cereals B'fast hương dưa lưới 180mlB'fast _ Sữa trái câyMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+	Instant Cereals B'fast hạt hộp 22gr,B'fast _ NC hạt,GT0,Nutrition,	Instant Cereals B'fast hạt hộp 22grB'fast _ NC hạtGT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.15031055900621115,0.3350615683732988
+Instant Cereals B'fast hạt bịch 22gr,B'fast _ NC hạt,GT0,Nutrition,Instant Cereals B'fast hạt bịch 22grB'fast _ NC hạtGT0,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8496894409937888,0.6649384316267012
+Instant Coffee Wake up sữa đá 3in1 hộp 24gr,WU _ Nâu/ Sữa đá,MT0,Coffee,Instant Coffee Wake up sữa đá 3in1 hộp 24grWU _ Nâu/ Sữa đáMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+	Instant Cereals B'fast hạt hộp 22gr,B'fast _ NC hạt,MT0,Nutrition,	Instant Cereals B'fast hạt hộp 22grB'fast _ NC hạtMT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.5,0.7142857142857143
+Instant Cereals B'fast hạt bịch 22gr,B'fast _ NC hạt,MT0,Nutrition,Instant Cereals B'fast hạt bịch 22grB'fast _ NC hạtMT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.5,0.2857142857142857
+Instant Coffee Vinacafe đen kiểu Americano 14gr,VCF _ Paper Cup,GT0,Coffee,Instant Coffee Vinacafe đen kiểu Americano 14grVCF _ Paper CupGT0,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28
+Instant Coffee Vinacafe sữa kiểu Mocha 39gr,VCF _ Paper Cup,GT0,Coffee,Instant Coffee Vinacafe sữa kiểu Mocha 39grVCF _ Paper CupGT0,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36
+Instant Coffee Vinacafe sữa kiểu Latte hương hạt phỉ 39gr,VCF _ Paper Cup,GT0,Coffee,Instant Coffee Vinacafe sữa kiểu Latte hương hạt phỉ 39grVCF _ Paper CupGT0,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36
+Instant Coffee Vinacafe đen kiểu Americano 14gr,VCF _ Paper Cup,KA0,Coffee,Instant Coffee Vinacafe đen kiểu Americano 14grVCF _ Paper CupKA0,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28
+Instant Coffee Vinacafe sữa kiểu Mocha 39gr,VCF _ Paper Cup,KA0,Coffee,Instant Coffee Vinacafe sữa kiểu Mocha 39grVCF _ Paper CupKA0,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36
+Instant Coffee Vinacafe sữa kiểu Latte hương hạt phỉ 39gr,VCF _ Paper Cup,KA0,Coffee,Instant Coffee Vinacafe sữa kiểu Latte hương hạt phỉ 39grVCF _ Paper CupKA0,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36,0.36
+Instant Coffee Vinacafe đen kiểu Americano 14gr,VCF _ Paper Cup,MT0,Coffee,Instant Coffee Vinacafe đen kiểu Americano 14grVCF _ Paper CupMT0,,,,,,,,,,,,
+Instant Coffee Vinacafe sữa kiểu Mocha 39gr,VCF _ Paper Cup,MT0,Coffee,Instant Coffee Vinacafe sữa kiểu Mocha 39grVCF _ Paper CupMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Coffee Vinacafe sữa kiểu Latte hương hạt phỉ 39gr,VCF _ Paper Cup,MT0,Coffee,Instant Coffee Vinacafe sữa kiểu Latte hương hạt phỉ 39grVCF _ Paper CupMT0,,,,,,,,,,,,
+Instant Coffee Vinacafe 3 in 1 24gói 20gr,VCF _ Gold (base),KA0,Coffee,Instant Coffee Vinacafe 3 in 1 24gói 20grVCF _ Gold (base)KA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Combo gift-set,VCF _ Giftset,MT0,Coffee,Combo gift-setVCF _ GiftsetMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+R&G Capsule Wake up độ đậm cấp 1 3gr,WU _ Mini Cup,MT0,Coffee,R&G Capsule Wake up độ đậm cấp 1 3grWU _ Mini CupMT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 2 3gr,WU _ Mini Cup,MT0,Coffee,R&G Capsule Wake up độ đậm cấp 2 3grWU _ Mini CupMT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 3 3gr,WU _ Mini Cup,MT0,Coffee,R&G Capsule Wake up độ đậm cấp 3 3grWU _ Mini CupMT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 4 3gr,WU _ Mini Cup,MT0,Coffee,R&G Capsule Wake up độ đậm cấp 4 3grWU _ Mini CupMT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 5 3gr,WU _ Mini Cup,MT0,Coffee,R&G Capsule Wake up độ đậm cấp 5 3grWU _ Mini CupMT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 6 3gr,WU _ Mini Cup,MT0,Coffee,R&G Capsule Wake up độ đậm cấp 6 3grWU _ Mini CupMT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 7 3gr,WU _ Mini Cup,MT0,Coffee,R&G Capsule Wake up độ đậm cấp 7 3grWU _ Mini CupMT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm combo 7 cấp 3gr,WU _ Mini Cup,MT0,Coffee,R&G Capsule Wake up độ đậm combo 7 cấp 3grWU _ Mini CupMT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Instant Coffee Wake up đen đá 2 in 1 hộp 16gr,WU _ Đen đá,MT0,Coffee,Instant Coffee Wake up đen đá 2 in 1 hộp 16grWU _ Đen đáMT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Instant Coffee Wake up đen đá 2 in 1 bịch 16gr,WU _ Đen đá,MT0,Coffee,Instant Coffee Wake up đen đá 2 in 1 bịch 16grWU _ Đen đáMT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Instant Coffee Wake up đen đá 2 in 1 hộp 16gr,WU _ Đen đá,GT0,Coffee,Instant Coffee Wake up đen đá 2 in 1 hộp 16grWU _ Đen đáGT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Instant Coffee Wake up đen đá 2 in 1 bịch 16gr,WU _ Đen đá,GT0,Coffee,Instant Coffee Wake up đen đá 2 in 1 bịch 16grWU _ Đen đáGT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Instant Coffee Vinacafe 3 in 1 Chất sữa đá 24gr,VCF _ Chất_Inno,MT0,Coffee,Instant Coffee Vinacafe 3 in 1 Chất sữa đá 24grVCF _ Chất_InnoMT0,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,1.0,0.6053138236426646,0.8846370287000562
+Instant Coffee Vinacafe 2 in 1 Chất _ inno 12gr,VCF _ Chất_Inno,MT0,Coffee,Instant Coffee Vinacafe 2 in 1 Chất _ inno 12grVCF _ Chất_InnoMT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.0,0.3946861763573354,0.11536297129994377
+Instant Coffee Vinacafe 3 in 1 Chất sữa đá 24gr,VCF _ Chất_Inno,GT0,Coffee,Instant Coffee Vinacafe 3 in 1 Chất sữa đá 24grVCF _ Chất_InnoGT0,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,1.0,0.6053138236426646,0.8846370287000562
+Instant Coffee Vinacafe 2 in 1 Chất _ inno 12gr,VCF _ Chất_Inno,GT0,Coffee,Instant Coffee Vinacafe 2 in 1 Chất _ inno 12grVCF _ Chất_InnoGT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.0,0.3946861763573354,0.11536297129994377
+Instant Coffee Wake up Bờ hồ hộp 17gr,WU _ Bờ hồ,GT0,Coffee,Instant Coffee Wake up Bờ hồ hộp 17grWU _ Bờ hồGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+R&G Coffee Vinacafe Café rang xay Đặc biệt 200g,VCF _ R&G,MT0,Coffee,R&G Coffee Vinacafe Café rang xay Đặc biệt 200gVCF _ R&GMT0,0.84,0.84,0.84,0.84,0.84,0.84,0.84,0.84,0.84,0.84,0.84,0.84
+R&G Coffee Vinacafe Đặc biệt 200g,VCF _ R&G,MT0,Coffee,R&G Coffee Vinacafe Đặc biệt 200gVCF _ R&GMT0,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16
+R&G Coffee Vinacafe Café rang xay Đặc biệt 200g,VCF _ R&G,GT0,Coffee,R&G Coffee Vinacafe Café rang xay Đặc biệt 200gVCF _ R&GGT0,0.84,0.84,0.84,0.84,0.84,0.84,0.84,0.84,0.84,0.84,0.84,0.84
+R&G Coffee Vinacafe Đặc biệt 200g,VCF _ R&G,GT0,Coffee,R&G Coffee Vinacafe Đặc biệt 200gVCF _ R&GGT0,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16
+RTD Cereals B'fast thạch trái cây flavor 1 - 180ml,B'fast _ Sữa NC (kid)_Inno,GT0,Nutrition,RTD Cereals B'fast thạch trái cây flavor 1 - 180mlB'fast _ Sữa NC (kid)_InnoGT0,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65
+RTD Cereals B'fast thạch trái cây flavor 1 - 110ml,B'fast _ Sữa NC (kid)_Inno,GT0,Nutrition,RTD Cereals B'fast thạch trái cây flavor 1 - 110mlB'fast _ Sữa NC (kid)_InnoGT0,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+RTD Cereals B'fast thạch trái cây flavor 1 - 180ml,B'fast _ Sữa NC (kid)_Inno,MT0,Nutrition,RTD Cereals B'fast thạch trái cây flavor 1 - 180mlB'fast _ Sữa NC (kid)_InnoMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+R&G Capsule Wake up độ đậm cấp 1 3gr,WU _ Mini Cup,KA0,Coffee,R&G Capsule Wake up độ đậm cấp 1 3grWU _ Mini CupKA0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 2 3gr,WU _ Mini Cup,KA0,Coffee,R&G Capsule Wake up độ đậm cấp 2 3grWU _ Mini CupKA0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 3 3gr,WU _ Mini Cup,KA0,Coffee,R&G Capsule Wake up độ đậm cấp 3 3grWU _ Mini CupKA0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 4 3gr,WU _ Mini Cup,KA0,Coffee,R&G Capsule Wake up độ đậm cấp 4 3grWU _ Mini CupKA0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 5 3gr,WU _ Mini Cup,KA0,Coffee,R&G Capsule Wake up độ đậm cấp 5 3grWU _ Mini CupKA0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 6 3gr,WU _ Mini Cup,KA0,Coffee,R&G Capsule Wake up độ đậm cấp 6 3grWU _ Mini CupKA0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 7 3gr,WU _ Mini Cup,KA0,Coffee,R&G Capsule Wake up độ đậm cấp 7 3grWU _ Mini CupKA0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm combo 7 cấp 3gr,WU _ Mini Cup,KA0,Coffee,R&G Capsule Wake up độ đậm combo 7 cấp 3grWU _ Mini CupKA0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Frezze dried instant coffee 120gr,VCF _ Freeze dried,MT0,Coffee,Frezze dried instant coffee 120grVCF _ Freeze driedMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Frezze dried instant coffee 120gr,VCF _ Freeze dried,GT0,Coffee,Frezze dried instant coffee 120grVCF _ Freeze driedGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Coffee Vinacafe 3 in 1 sữa hạt hộp 20gr,VCF _ Sữa hạt,GT0,Coffee,Instant Coffee Vinacafe 3 in 1 sữa hạt hộp 20grVCF _ Sữa hạtGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Coffee Vinacafe 3 in 1 sữa hạt hộp 20gr,VCF _ Sữa hạt,MT0,Coffee,Instant Coffee Vinacafe 3 in 1 sữa hạt hộp 20grVCF _ Sữa hạtMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Coffee Wake Up ly giấy 39gr,WU _ Ly giấy (Topping),KA0,Coffee,Instant Coffee Wake Up ly giấy 39grWU _ Ly giấy (Topping)KA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Coffee Wake Up ly giấy 39gr,WU _ Ly giấy (Topping),GT0,Coffee,Instant Coffee Wake Up ly giấy 39grWU _ Ly giấy (Topping)GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Coffee Wake Up ly giấy 39gr,WU _ Ly giấy (Topping),MT0,Coffee,Instant Coffee Wake Up ly giấy 39grWU _ Ly giấy (Topping)MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Cereals B'fast Elder hộp 22gr - flavor 1,B'fast _ NC Elder,GT0,Nutrition,Instant Cereals B'fast Elder hộp 22gr - flavor 1B'fast _ NC ElderGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Instant Cereals B'fast Elder hộp 22gr - flavor 2,B'fast _ NC Elder,GT0,Nutrition,Instant Cereals B'fast Elder hộp 22gr - flavor 2B'fast _ NC ElderGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Instant Cereals B'fast Elder hộp 22gr - flavor 1,B'fast _ NC Elder,MT0,Nutrition,Instant Cereals B'fast Elder hộp 22gr - flavor 1B'fast _ NC ElderMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Instant Cereals B'fast Elder hộp 22gr - flavor 2,B'fast _ NC Elder,MT0,Nutrition,Instant Cereals B'fast Elder hộp 22gr - flavor 2B'fast _ NC ElderMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+RTD Cà phê (Sữa Đá) 6bl x 4chai x 310ml,WU _ RTD,KA0,Coffee,RTD Cà phê (Sữa Đá) 6bl x 4chai x 310mlWU _ RTDKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+RTD Cà phê (Sữa Đá) 6bl x 4chai x 310ml,WU _ RTD,GT0,Coffee,RTD Cà phê (Sữa Đá) 6bl x 4chai x 310mlWU _ RTDGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+RTD Cà phê (Sữa Đá) 6bl x 4chai x 310ml,WU _ RTD,MT0,Coffee,RTD Cà phê (Sữa Đá) 6bl x 4chai x 310mlWU _ RTDMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+R&G Capsule Wake up độ đậm cấp 1 3gr,WU _ Mini Cup,GT0,Coffee,R&G Capsule Wake up độ đậm cấp 1 3grWU _ Mini CupGT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 2 3gr,WU _ Mini Cup,GT0,Coffee,R&G Capsule Wake up độ đậm cấp 2 3grWU _ Mini CupGT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 3 3gr,WU _ Mini Cup,GT0,Coffee,R&G Capsule Wake up độ đậm cấp 3 3grWU _ Mini CupGT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 4 3gr,WU _ Mini Cup,GT0,Coffee,R&G Capsule Wake up độ đậm cấp 4 3grWU _ Mini CupGT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 5 3gr,WU _ Mini Cup,GT0,Coffee,R&G Capsule Wake up độ đậm cấp 5 3grWU _ Mini CupGT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 6 3gr,WU _ Mini Cup,GT0,Coffee,R&G Capsule Wake up độ đậm cấp 6 3grWU _ Mini CupGT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm cấp 7 3gr,WU _ Mini Cup,GT0,Coffee,R&G Capsule Wake up độ đậm cấp 7 3grWU _ Mini CupGT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+R&G Capsule Wake up độ đậm combo 7 cấp 3gr,WU _ Mini Cup,GT0,Coffee,R&G Capsule Wake up độ đậm combo 7 cấp 3grWU _ Mini CupGT0,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+RTD Cereals B'fast sữa hạt 180ml - flavor 1,B'fast _ Sữa hạt,GT0,Nutrition,RTD Cereals B'fast sữa hạt 180ml - flavor 1B'fast _ Sữa hạtGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+RTD Cereals B'fast sữa hạt 180ml - flavor 2,B'fast _ Sữa hạt,GT0,Nutrition,RTD Cereals B'fast sữa hạt 180ml - flavor 2B'fast _ Sữa hạtGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+RTD Cereals B'fast sữa hạt 180ml - flavor 1,B'fast _ Sữa hạt,MT0,Nutrition,RTD Cereals B'fast sữa hạt 180ml - flavor 1B'fast _ Sữa hạtMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+RTD Cereals B'fast sữa hạt 180ml - flavor 2,B'fast _ Sữa hạt,MT0,Nutrition,RTD Cereals B'fast sữa hạt 180ml - flavor 2B'fast _ Sữa hạtMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+R&G Capsule Café de Nam Chuẩn hũ 7gr _ inno,VCF _ Capsule_inno,GT0,Nutrition,R&G Capsule Café de Nam Chuẩn hũ 7gr _ innoVCF _ Capsule_innoGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cà phê VCF sữa kiểu Latte flavor 1 14gr,VCF _ Paper Cup _ inno,MT0,Coffee,Cà phê VCF sữa kiểu Latte flavor 1 14grVCF _ Paper Cup _ innoMT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Cà phê VCF sữa kiểu Latte flavor 2 39gr,VCF _ Paper Cup _ inno,MT0,Coffee,Cà phê VCF sữa kiểu Latte flavor 2 39grVCF _ Paper Cup _ innoMT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Cà phê VCF sữa kiểu Latte flavor 3 39gr,VCF _ Paper Cup _ inno,MT0,Coffee,Cà phê VCF sữa kiểu Latte flavor 3 39grVCF _ Paper Cup _ innoMT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Cà phê VCF sữa kiểu Latte flavor 4 39gr,VCF _ Paper Cup _ inno,MT0,Coffee,Cà phê VCF sữa kiểu Latte flavor 4 39grVCF _ Paper Cup _ innoMT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Cà phê VCF sữa kiểu Latte flavor 1 14gr,VCF _ Paper Cup _ inno,GT0,Coffee,Cà phê VCF sữa kiểu Latte flavor 1 14grVCF _ Paper Cup _ innoGT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Cà phê VCF sữa kiểu Latte flavor 2 39gr,VCF _ Paper Cup _ inno,GT0,Coffee,Cà phê VCF sữa kiểu Latte flavor 2 39grVCF _ Paper Cup _ innoGT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Cà phê VCF sữa kiểu Latte flavor 3 39gr,VCF _ Paper Cup _ inno,GT0,Coffee,Cà phê VCF sữa kiểu Latte flavor 3 39grVCF _ Paper Cup _ innoGT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Cà phê VCF sữa kiểu Latte flavor 4 39gr,VCF _ Paper Cup _ inno,GT0,Coffee,Cà phê VCF sữa kiểu Latte flavor 4 39grVCF _ Paper Cup _ innoGT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Snack B'fast Yum -Nut 25gr,B'fast _ Snack hạt,MT0,Nutrition,Snack B'fast Yum -Nut 25grB'fast _ Snack hạtMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Snack B'fast Yum -Nut 25gr,B'fast _ Snack hạt,GT0,Nutrition,Snack B'fast Yum -Nut 25grB'fast _ Snack hạtGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Snack B'fast Yum -Nut 25gr,B'fast _ Snack hạt,KA0,Nutrition,Snack B'fast Yum -Nut 25grB'fast _ Snack hạtKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Coffee Wake up 3 in 1 Sài Gòn 20gr,WU _ Sài Gòn (premium),GT0,Coffee,Instant Coffee Wake up 3 in 1 Sài Gòn 20grWU _ Sài Gòn (premium)GT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Coffee Wake up 3 in 1 Sài Gòn 20gr,WU _ Sài Gòn (premium),MT0,Coffee,Instant Coffee Wake up 3 in 1 Sài Gòn 20grWU _ Sài Gòn (premium)MT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+RTD Cereals B'fast hương xoài 180ml,B'fast _ Sữa trái cây_Inno,MT0,Nutrition,RTD Cereals B'fast hương xoài 180mlB'fast _ Sữa trái cây_InnoMT0,0.25,0.25,0.5,0.5,0.5,0.2,0.25,0.25,0.25,0.25,0.25,0.25
+RTD Cereals B'fast hương vải 180ml,B'fast _ Sữa trái cây_Inno,MT0,Nutrition,RTD Cereals B'fast hương vải 180mlB'fast _ Sữa trái cây_InnoMT0,0.25,0.25,0.5,0.5,0.5,0.2,0.25,0.25,0.25,0.25,0.25,0.25
+RTD Cereals B'fast flavor 1 - 180ml,B'fast _ Sữa trái cây_Inno,MT0,Nutrition,RTD Cereals B'fast flavor 1 - 180mlB'fast _ Sữa trái cây_InnoMT0,0.25,0.25,,,,0.3,0.25,0.25,0.25,0.25,0.25,0.25
+RTD Cereals B'fast flavor 2 - 180ml,B'fast _ Sữa trái cây_Inno,MT0,Nutrition,RTD Cereals B'fast flavor 2 - 180mlB'fast _ Sữa trái cây_InnoMT0,0.25,0.25,,,,0.3,0.25,0.25,0.25,0.25,0.25,0.25
+RTD Cereals B'fast flavor 1 - 180ml,B'fast _ Sữa trái cây_Inno,GT0,Nutrition,RTD Cereals B'fast flavor 1 - 180mlB'fast _ Sữa trái cây_InnoGT0,0.325,0.325,0.325,0.325,0.325,0.325,0.325,0.325,0.325,0.325,0.325,0.325
+RTD Cereals B'fast flavor 1 - 110ml,B'fast _ Sữa trái cây_Inno,GT0,Nutrition,RTD Cereals B'fast flavor 1 - 110mlB'fast _ Sữa trái cây_InnoGT0,0.175,0.175,0.175,0.175,0.175,0.175,0.175,0.175,0.175,0.175,0.175,0.175
+RTD Cereals B'fast flavor 2 - 180ml,B'fast _ Sữa trái cây_Inno,GT0,Nutrition,RTD Cereals B'fast flavor 2 - 180mlB'fast _ Sữa trái cây_InnoGT0,0.325,0.325,0.325,0.325,0.325,0.325,0.325,0.325,0.325,0.325,0.325,0.325
+RTD Cereals B'fast flavor 2 - 110ml,B'fast _ Sữa trái cây_Inno,GT0,Nutrition,RTD Cereals B'fast flavor 2 - 110mlB'fast _ Sữa trái cây_InnoGT0,0.175,0.175,0.175,0.175,0.175,0.175,0.175,0.175,0.175,0.175,0.175,0.175
+Powder Detergent Joins 2 in 1 2.7kg,Joins _ Powder Detergent,MT0,Home Care,Powder Detergent Joins 2 in 1 2.7kgJoins _ Powder DetergentMT0,0.47,0.47,0.47,0.47,0.47,0.47,0.47,0.47,0.47,0.47,0.47,0.47
+Powder Detergent Joins 2 in 1 4.5kg,Joins _ Powder Detergent,MT0,Home Care,Powder Detergent Joins 2 in 1 4.5kgJoins _ Powder DetergentMT0,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.22,0.22
+Powder Detergent Joins 2 in 1 360gr,Joins _ Powder Detergent,MT0,Home Care,Powder Detergent Joins 2 in 1 360grJoins _ Powder DetergentMT0,,,,,,,,,,,,
+Powder Detergent Joins 2 in 1 720gr,Joins _ Powder Detergent,MT0,Home Care,Powder Detergent Joins 2 in 1 720grJoins _ Powder DetergentMT0,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31
+Powder Detergent Net combo extra 12.5kg,Net _ Powder Detergent,GT0,Home Care,Powder Detergent Net combo extra 12.5kgNet _ Powder DetergentGT0,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38
+Powder Detergent NET Matic hương nước hoa 6kg,Net _ Powder Detergent,GT0,Home Care,Powder Detergent NET Matic hương nước hoa 6kgNet _ Powder DetergentGT0,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02
+Powder Detergent NET hương Hoa Sứ 300gr,Net _ Powder Detergent,GT0,Home Care,Powder Detergent NET hương Hoa Sứ 300grNet _ Powder DetergentGT0,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09
+Powder Detergent NET hương Hoa Sứ 600gr,Net _ Powder Detergent,GT0,Home Care,Powder Detergent NET hương Hoa Sứ 600grNet _ Powder DetergentGT0,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+Powder Detergent Net combo hương hoa sứ 10.6kg,Net _ Powder Detergent,GT0,Home Care,Powder Detergent Net combo hương hoa sứ 10.6kgNet _ Powder DetergentGT0,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31
+Powder Detergent NET hương Hoa Sứ 5.5kg,Net _ Powder Detergent,GT0,Home Care,Powder Detergent NET hương Hoa Sứ 5.5kgNet _ Powder DetergentGT0,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13
+Floor Care NET Extra 1kg,Net _ Floor care,GT0,Home Care,Floor Care NET Extra 1kgNet _ Floor careGT0,0.08,0.08,0.08,0.4,0.4,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Floor Care NET Extra 4kg,Net _ Floor care,GT0,Home Care,Floor Care NET Extra 4kgNet _ Floor careGT0,0.5,0.5,0.5,0.5,0.5,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+Floor Care NET hoa Anh Đào 3.8kg,Net _ Floor care,GT0,Home Care,Floor Care NET hoa Anh Đào 3.8kgNet _ Floor careGT0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Liquid Detergent Super NET 2.2kg,Net _ Liquid Detergent,GT0,Home Care,Liquid Detergent Super NET 2.2kgNet _ Liquid DetergentGT0,0.012,0.012,0.012,0.012,0.012,0.012,0.012,0.012,0.012,0.012,0.012,0.012
+Liquid Detergent Super NET 3.6kg,Net _ Liquid Detergent,GT0,Home Care,Liquid Detergent Super NET 3.6kgNet _ Liquid DetergentGT0,0.0146,0.0146,0.0146,0.0146,0.0146,0.0146,0.0146,0.0146,0.0146,0.0146,0.0146,0.0146
+Liquid Detergent Super NET 2.7kg,Net _ Liquid Detergent,GT0,Home Care,Liquid Detergent Super NET 2.7kgNet _ Liquid DetergentGT0,0.004,0.004,0.004,0.004,0.004,0.004,0.004,0.004,0.004,0.004,0.004,0.004
+Liquid Detergent NET Matic 3.6kg,Net _ Liquid Detergent,GT0,Home Care,Liquid Detergent NET Matic 3.6kgNet _ Liquid DetergentGT0,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.17
+Liquid Detergent NET Matic hương nước hoa 3.6kg,Net _ Liquid Detergent,GT0,Home Care,Liquid Detergent NET Matic hương nước hoa 3.6kgNet _ Liquid DetergentGT0,0.205,0.205,0.205,0.205,0.205,0.205,0.205,0.205,0.205,0.205,0.205,0.205
+Liquid Detergent NET Matic đậm đặc 2.4kg,Net _ Liquid Detergent,GT0,Home Care,Liquid Detergent NET Matic đậm đặc 2.4kgNet _ Liquid DetergentGT0,0.0089,0.0089,0.0089,0.0089,0.0089,0.0089,0.0089,0.0089,0.0089,0.0089,0.0089,0.0089
+Liquid Detergent NET Matic hương nước hoa 2.4kg,Net _ Liquid Detergent,GT0,Home Care,Liquid Detergent NET Matic hương nước hoa 2.4kgNet _ Liquid DetergentGT0,0.0285,0.0285,0.0285,0.0285,0.0285,0.0285,0.0285,0.0285,0.0285,0.0285,0.0285,0.0285
+Liquid Detergent NET Matic diệu kỳ 3.3kg,Net _ Liquid Detergent,GT0,Home Care,Liquid Detergent NET Matic diệu kỳ 3.3kgNet _ Liquid DetergentGT0,0.269,0.269,0.269,0.269,0.269,0.269,0.269,0.269,0.269,0.269,0.269,0.269
+Liquid Detergent NET Matic đam mê 3.3kg,Net _ Liquid Detergent,GT0,Home Care,Liquid Detergent NET Matic đam mê 3.3kgNet _ Liquid DetergentGT0,0.288,0.288,0.288,0.288,0.288,0.288,0.288,0.288,0.288,0.288,0.288,0.288
+Dish-wash NET hương Chanh 400gr,Net _ Dishwash,GT0,Home Care,Dish-wash NET hương Chanh 400grNet _ DishwashGT0,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+Dish-wash NET hương Chanh 1.5kg,Net _ Dishwash,GT0,Home Care,Dish-wash NET hương Chanh 1.5kgNet _ DishwashGT0,0.035,0.035,0.035,0.035,0.035,0.035,0.035,0.035,0.035,0.035,0.035,0.035
+Dish-wash NET combo 12.15kg,Net _ Dishwash,GT0,Home Care,Dish-wash NET combo 12.15kgNet _ DishwashGT0,0.025,0.025,0.025,0.025,0.025,0.025,0.025,0.025,0.025,0.025,0.025,0.025
+Dish-wash Sạch hương Chanh 1.5kg,Net _ Dishwash,GT0,Home Care,Dish-wash Sạch hương Chanh 1.5kgNet _ DishwashGT0,0.19,0.19,0.19,0.19,0.19,0.19,0.19,0.19,0.19,0.19,0.19,0.19
+Dish-wash Sạch Trà xanh 1.5kg,Net _ Dishwash,GT0,Home Care,Dish-wash Sạch Trà xanh 1.5kgNet _ DishwashGT0,0.055,0.055,0.055,0.055,0.055,0.055,0.055,0.055,0.055,0.055,0.055,0.055
+Dish-wash NET Trà xanh & Gừng 750gr,Net _ Dishwash,GT0,Home Care,Dish-wash NET Trà xanh & Gừng 750grNet _ DishwashGT0,0.035,0.035,0.035,0.035,0.035,0.035,0.035,0.035,0.035,0.035,0.035,0.035
+Dish-wash NET Trà xanh & Gừng 3.8kg,Net _ Dishwash,GT0,Home Care,Dish-wash NET Trà xanh & Gừng 3.8kgNet _ DishwashGT0,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02
+Dish-wash Sạch hương Chanh 3.8kg,Net _ Dishwash,GT0,Home Care,Dish-wash Sạch hương Chanh 3.8kgNet _ DishwashGT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Dish-wash Sạch Trà xanh 3.8kg,Net _ Dishwash,GT0,Home Care,Dish-wash Sạch Trà xanh 3.8kgNet _ DishwashGT0,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12
+Dish-wash NET Pro hương Chanh 4.8kg,Net _ Dishwash,GT0,Home Care,Dish-wash NET Pro hương Chanh 4.8kgNet _ DishwashGT0,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28
+Powder Detergent Joins 2 in 1 2.7kg,Joins _ Powder Detergent,GT0,Home Care,Powder Detergent Joins 2 in 1 2.7kgJoins _ Powder DetergentGT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Powder Detergent Joins 2 in 1 360gr,Joins _ Powder Detergent,GT0,Home Care,Powder Detergent Joins 2 in 1 360grJoins _ Powder DetergentGT0,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08
+Powder Detergent Joins 2 in 1 720gr,Joins _ Powder Detergent,GT0,Home Care,Powder Detergent Joins 2 in 1 720grJoins _ Powder DetergentGT0,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32
+Liquid Detergent Chanté En rose 3.4kg,Chanté _ Liquid Detergent,MT0,Home Care,Liquid Detergent Chanté En rose 3.4kgChanté _ Liquid DetergentMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Liquid Detergent Sopa hương hoa tử đinh hương 3.4kg,Sopa _ Liquid Detergent,NETCO_C1,Home Care,Liquid Detergent Sopa hương hoa tử đinh hương 3.4kgSopa _ Liquid DetergentNETCO_C1,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+Liquid Detergent Sopa hương hoa linh lan 3.4kg,Sopa _ Liquid Detergent,NETCO_C1,Home Care,Liquid Detergent Sopa hương hoa linh lan 3.4kgSopa _ Liquid DetergentNETCO_C1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Liquid Detergent Sopa hương hoa tử đinh hương 3.4kg,Sopa _ Liquid Detergent,GT0,Home Care,Liquid Detergent Sopa hương hoa tử đinh hương 3.4kgSopa _ Liquid DetergentGT0,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+Liquid Detergent Sopa hương hoa linh lan 3.4kg,Sopa _ Liquid Detergent,GT0,Home Care,Liquid Detergent Sopa hương hoa linh lan 3.4kgSopa _ Liquid DetergentGT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Nước Lau Sàn Homey Spray,Homey _ Floor Care,MT0,Home Care,Nước Lau Sàn Homey SprayHomey _ Floor CareMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Nước Lau Sàn Homey Innovation ,Homey _ Floor Care,MT0,Home Care,Nước Lau Sàn Homey Innovation Homey _ Floor CareMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Nước Lau Sàn Homey Spray,Homey _ Floor Care,NETCO_C1,Home Care,Nước Lau Sàn Homey SprayHomey _ Floor CareNETCO_C1,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Nước Lau Sàn Homey Innovation ,Homey _ Floor Care,NETCO_C1,Home Care,Nước Lau Sàn Homey Innovation Homey _ Floor CareNETCO_C1,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Nước Lau Sàn Homey Spray,Homey _ Floor Care,GT0,Home Care,Nước Lau Sàn Homey SprayHomey _ Floor CareGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Nước Lau Sàn Homey Innovation ,Homey _ Floor Care,GT0,Home Care,Nước Lau Sàn Homey Innovation Homey _ Floor CareGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Liquid Detergent Sopa ấn tượng 3.4kg,Sopa _ Liquid Detergent _ Inno,GT0,Home Care,Liquid Detergent Sopa ấn tượng 3.4kgSopa _ Liquid Detergent _ InnoGT0,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+Liquid Detergent Sopa cảm hứng 3.4kg,Sopa _ Liquid Detergent _ Inno,GT0,Home Care,Liquid Detergent Sopa cảm hứng 3.4kgSopa _ Liquid Detergent _ InnoGT0,,,,,,,,,,,,
+Liquid Detergent Sopa lôi cuốn 3.4kg,Sopa _ Liquid Detergent _ Inno,GT0,Home Care,Liquid Detergent Sopa lôi cuốn 3.4kgSopa _ Liquid Detergent _ InnoGT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Dish-wash Homey hương Cam Satsuma 480gr,Homey _ Dishwash,GT0,Home Care,Dish-wash Homey hương Cam Satsuma 480grHomey _ DishwashGT0,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05
+Dish-wash Homey hương Cam Satsuma chai 950gr,Homey _ Dishwash,GT0,Home Care,Dish-wash Homey hương Cam Satsuma chai 950grHomey _ DishwashGT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Dish-wash Homey hương Cam Satsuma túi 950gr,Homey _ Dishwash,GT0,Home Care,Dish-wash Homey hương Cam Satsuma túi 950grHomey _ DishwashGT0,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15
+Dish-wash Homey hương Chanh & Húng tây 480gr,Homey _ Dishwash,GT0,Home Care,Dish-wash Homey hương Chanh & Húng tây 480grHomey _ DishwashGT0,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05
+Dish-wash Homey hương Chanh & Húng tây chai 950gr,Homey _ Dishwash,GT0,Home Care,Dish-wash Homey hương Chanh & Húng tây chai 950grHomey _ DishwashGT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Dish-wash Homey hương Chanh & Húng tây túi 950gr,Homey _ Dishwash,GT0,Home Care,Dish-wash Homey hương Chanh & Húng tây túi 950grHomey _ DishwashGT0,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15
+Dish-wash Homey hương Cam Satsuma 480gr,Homey _ Dishwash,MT0,Home Care,Dish-wash Homey hương Cam Satsuma 480grHomey _ DishwashMT0,,,,,,,,,,,,
+Dish-wash Homey hương Cam Satsuma chai 950gr,Homey _ Dishwash,MT0,Home Care,Dish-wash Homey hương Cam Satsuma chai 950grHomey _ DishwashMT0,1.0,1.0,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,1.0
+Dish-wash Homey hương Cam Satsuma túi 950gr,Homey _ Dishwash,MT0,Home Care,Dish-wash Homey hương Cam Satsuma túi 950grHomey _ DishwashMT0,,,,,,,,,,,,
+Dish-wash Homey hương Chanh & Húng tây 480gr,Homey _ Dishwash,MT0,Home Care,Dish-wash Homey hương Chanh & Húng tây 480grHomey _ DishwashMT0,,,,,,,,,,,,
+Dish-wash Homey hương Chanh & Húng tây chai 950gr,Homey _ Dishwash,MT0,Home Care,Dish-wash Homey hương Chanh & Húng tây chai 950grHomey _ DishwashMT0,0.0,0.0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.0
+Dish-wash Homey hương Chanh & Húng tây túi 950gr,Homey _ Dishwash,MT0,Home Care,Dish-wash Homey hương Chanh & Húng tây túi 950grHomey _ DishwashMT0,,,,,,,,,,,,
+Nước rửa chén Homey 2in1 480g Bottle,Homey _ Dishwash _ 2in1,GT0,Home Care,Nước rửa chén Homey 2in1 480g BottleHomey _ Dishwash _ 2in1GT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Nước rửa chén Homey 2in1 480g Pouch,Homey _ Dishwash _ 2in1,GT0,Home Care,Nước rửa chén Homey 2in1 480g PouchHomey _ Dishwash _ 2in1GT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Nước rửa chén Homey 2in1 950g Bottle,Homey _ Dishwash _ 2in1,GT0,Home Care,Nước rửa chén Homey 2in1 950g BottleHomey _ Dishwash _ 2in1GT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Nước rửa chén Homey 2in1 950g Pouch,Homey _ Dishwash _ 2in1,GT0,Home Care,Nước rửa chén Homey 2in1 950g PouchHomey _ Dishwash _ 2in1GT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Nước rửa chén Homey 2in1 480g Bottle,Homey _ Dishwash _ 2in1,NETCO_C1,Home Care,Nước rửa chén Homey 2in1 480g BottleHomey _ Dishwash _ 2in1NETCO_C1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Nước rửa chén Homey 2in1 480g Pouch,Homey _ Dishwash _ 2in1,NETCO_C1,Home Care,Nước rửa chén Homey 2in1 480g PouchHomey _ Dishwash _ 2in1NETCO_C1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Nước rửa chén Homey 2in1 950g Bottle,Homey _ Dishwash _ 2in1,NETCO_C1,Home Care,Nước rửa chén Homey 2in1 950g BottleHomey _ Dishwash _ 2in1NETCO_C1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Nước rửa chén Homey 2in1 950g Pouch,Homey _ Dishwash _ 2in1,NETCO_C1,Home Care,Nước rửa chén Homey 2in1 950g PouchHomey _ Dishwash _ 2in1NETCO_C1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Nước rửa chén Homey 2in1 480g Bottle,Homey _ Dishwash _ 2in1,MT0,Home Care,Nước rửa chén Homey 2in1 480g BottleHomey _ Dishwash _ 2in1MT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Nước rửa chén Homey 2in1 480g Pouch,Homey _ Dishwash _ 2in1,MT0,Home Care,Nước rửa chén Homey 2in1 480g PouchHomey _ Dishwash _ 2in1MT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Nước rửa chén Homey 2in1 950g Bottle,Homey _ Dishwash _ 2in1,MT0,Home Care,Nước rửa chén Homey 2in1 950g BottleHomey _ Dishwash _ 2in1MT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Nước rửa chén Homey 2in1 950g Pouch,Homey _ Dishwash _ 2in1,MT0,Home Care,Nước rửa chén Homey 2in1 950g PouchHomey _ Dishwash _ 2in1MT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Body Care La'petal da thường & khô 500ml,LPT _ Shower gel _ Inno,GT0,Personal Care,Body Care La'petal da thường & khô 500mlLPT _ Shower gel _ InnoGT0,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2925613988546303
+Body Care La'petal da nhờn & mụn 500ml,LPT _ Shower gel _ Inno,GT0,Personal Care,Body Care La'petal da nhờn & mụn 500mlLPT _ Shower gel _ InnoGT0,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21942104914097268
+Body Care La'petal da khô lá trầu không & cây phục sinh 500ml,LPT _ Shower gel _ Inno,GT0,Personal Care,Body Care La'petal da khô lá trầu không & cây phục sinh 500mlLPT _ Shower gel _ InnoGT0,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21942104914097268
+Body Care La'petal da thường lá trầu không & nụ tầm xuân 6ml,LPT _ Shower gel _ Inno,GT0,Personal Care,Body Care La'petal da thường lá trầu không & nụ tầm xuân 6mlLPT _ Shower gel _ InnoGT0,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1611579017180546
+Body Care La'petal da dầu & mụn lá trầu không & kim ngân hoa 6ml,LPT _ Shower gel _ Inno,GT0,Personal Care,Body Care La'petal da dầu & mụn lá trầu không & kim ngân hoa 6mlLPT _ Shower gel _ InnoGT0,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10743860114536974
+Powder Detergent Net combo extra 12.5kg,Net _ Powder Detergent,NETCO_C1,Home Care,Powder Detergent Net combo extra 12.5kgNet _ Powder DetergentNETCO_C1,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38
+Powder Detergent NET Matic hương nước hoa 6kg,Net _ Powder Detergent,NETCO_C1,Home Care,Powder Detergent NET Matic hương nước hoa 6kgNet _ Powder DetergentNETCO_C1,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02
+Powder Detergent NET hương Hoa Sứ 300gr,Net _ Powder Detergent,NETCO_C1,Home Care,Powder Detergent NET hương Hoa Sứ 300grNet _ Powder DetergentNETCO_C1,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09
+Powder Detergent NET hương Hoa Sứ 600gr,Net _ Powder Detergent,NETCO_C1,Home Care,Powder Detergent NET hương Hoa Sứ 600grNet _ Powder DetergentNETCO_C1,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07
+Powder Detergent Net combo hương hoa sứ 10.6kg,Net _ Powder Detergent,NETCO_C1,Home Care,Powder Detergent Net combo hương hoa sứ 10.6kgNet _ Powder DetergentNETCO_C1,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31,0.31
+Powder Detergent NET hương Hoa Sứ 5.5kg,Net _ Powder Detergent,NETCO_C1,Home Care,Powder Detergent NET hương Hoa Sứ 5.5kgNet _ Powder DetergentNETCO_C1,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13
+Floor Care NET Extra 1kg,Net _ Floor care,NETCO_C1,Home Care,Floor Care NET Extra 1kgNet _ Floor careNETCO_C1,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08
+Floor Care NET Extra 4kg,Net _ Floor care,NETCO_C1,Home Care,Floor Care NET Extra 4kgNet _ Floor careNETCO_C1,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Floor Care NET tinh dầu Sả Chanh 3.8kg,Net _ Floor care,NETCO_C1,Home Care,Floor Care NET tinh dầu Sả Chanh 3.8kgNet _ Floor careNETCO_C1,0.42,0.42,0.42,0.42,0.42,0.42,0.42,0.42,0.42,0.42,0.42,0.42
+Liquid Detergent NET Matic 3.6kg,Net _ Liquid Detergent,NETCO_C1,Home Care,Liquid Detergent NET Matic 3.6kgNet _ Liquid DetergentNETCO_C1,0.235,0.235,0.235,0.235,0.235,0.235,0.235,0.235,0.235,0.235,0.235,0.235
+Liquid Detergent NET Matic hương nước hoa 3.6kg,Net _ Liquid Detergent,NETCO_C1,Home Care,Liquid Detergent NET Matic hương nước hoa 3.6kgNet _ Liquid DetergentNETCO_C1,0.23,0.23,0.23,0.23,0.23,0.23,0.23,0.23,0.23,0.23,0.23,0.23
+Liquid Detergent NET Matic đậm đặc 2.4kg,Net _ Liquid Detergent,NETCO_C1,Home Care,Liquid Detergent NET Matic đậm đặc 2.4kgNet _ Liquid DetergentNETCO_C1,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015
+Liquid Detergent NET Matic hương nước hoa 2.4kg,Net _ Liquid Detergent,NETCO_C1,Home Care,Liquid Detergent NET Matic hương nước hoa 2.4kgNet _ Liquid DetergentNETCO_C1,0.035,0.035,0.035,0.035,0.035,0.035,0.035,0.035,0.035,0.035,0.035,0.035
+Liquid Detergent NET Matic diệu kỳ 3.3kg,Net _ Liquid Detergent,NETCO_C1,Home Care,Liquid Detergent NET Matic diệu kỳ 3.3kgNet _ Liquid DetergentNETCO_C1,0.245,0.245,0.245,0.245,0.245,0.245,0.245,0.245,0.245,0.245,0.245,0.245
+Liquid Detergent NET Matic đam mê 3.3kg,Net _ Liquid Detergent,NETCO_C1,Home Care,Liquid Detergent NET Matic đam mê 3.3kgNet _ Liquid DetergentNETCO_C1,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24
+Dish-wash NET hương Chanh 400gr,Net _ Dishwash,NETCO_C1,Home Care,Dish-wash NET hương Chanh 400grNet _ DishwashNETCO_C1,0.097,0.097,0.097,0.097,0.097,0.097,0.097,0.097,0.097,0.097,0.097,0.097
+Dish-wash NET hương Chanh 800gr,Net _ Dishwash,NETCO_C1,Home Care,Dish-wash NET hương Chanh 800grNet _ DishwashNETCO_C1,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11
+Dish-wash NET hương Chanh 1.5kg,Net _ Dishwash,NETCO_C1,Home Care,Dish-wash NET hương Chanh 1.5kgNet _ DishwashNETCO_C1,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16
+Dish-wash NET combo 12.15kg,Net _ Dishwash,NETCO_C1,Home Care,Dish-wash NET combo 12.15kgNet _ DishwashNETCO_C1,0.308,0.308,0.308,0.308,0.308,0.308,0.308,0.308,0.308,0.308,0.308,0.308
+Dish-wash Sạch hương Chanh 1.5kg,Net _ Dishwash,NETCO_C1,Home Care,Dish-wash Sạch hương Chanh 1.5kgNet _ DishwashNETCO_C1,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.03
+Dish-wash Sạch Trà xanh 1.5kg,Net _ Dishwash,NETCO_C1,Home Care,Dish-wash Sạch Trà xanh 1.5kgNet _ DishwashNETCO_C1,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02
+Dish-wash NET Trà xanh & Gừng 750gr,Net _ Dishwash,NETCO_C1,Home Care,Dish-wash NET Trà xanh & Gừng 750grNet _ DishwashNETCO_C1,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015,0.015
+Dish-wash NET Trà xanh & Gừng 3.8kg,Net _ Dishwash,NETCO_C1,Home Care,Dish-wash NET Trà xanh & Gừng 3.8kgNet _ DishwashNETCO_C1,0.025,0.025,0.025,0.025,0.025,0.025,0.025,0.025,0.025,0.025,0.025,0.025
+Dish-wash Sạch hương Chanh 3.8kg,Net _ Dishwash,NETCO_C1,Home Care,Dish-wash Sạch hương Chanh 3.8kgNet _ DishwashNETCO_C1,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11
+Dish-wash Sạch Trà xanh 3.8kg,Net _ Dishwash,NETCO_C1,Home Care,Dish-wash Sạch Trà xanh 3.8kgNet _ DishwashNETCO_C1,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Powder Detergent Joins 2 in 1 2.7kg,Joins _ Powder Detergent,NETCO_C1,Home Care,Powder Detergent Joins 2 in 1 2.7kgJoins _ Powder DetergentNETCO_C1,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Powder Detergent Joins 2 in 1 360gr,Joins _ Powder Detergent,NETCO_C1,Home Care,Powder Detergent Joins 2 in 1 360grJoins _ Powder DetergentNETCO_C1,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14
+Powder Detergent Joins 2 in 1 720gr,Joins _ Powder Detergent,NETCO_C1,Home Care,Powder Detergent Joins 2 in 1 720grJoins _ Powder DetergentNETCO_C1,0.26,0.26,0.26,0.26,0.26,0.26,0.26,0.26,0.26,0.26,0.26,0.26
+Liquid Detergent Sopa ấn tượng 3.4kg,Sopa _ Liquid Detergent _ Inno,NETCO_C1,Home Care,Liquid Detergent Sopa ấn tượng 3.4kgSopa _ Liquid Detergent _ InnoNETCO_C1,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+Liquid Detergent Sopa cảm hứng 3.4kg,Sopa _ Liquid Detergent _ Inno,NETCO_C1,Home Care,Liquid Detergent Sopa cảm hứng 3.4kgSopa _ Liquid Detergent _ InnoNETCO_C1,,,,,,,,,,,,
+Liquid Detergent Sopa lôi cuốn 3.4kg,Sopa _ Liquid Detergent _ Inno,NETCO_C1,Home Care,Liquid Detergent Sopa lôi cuốn 3.4kgSopa _ Liquid Detergent _ InnoNETCO_C1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Dish-wash Homey hương Cam Satsuma 480gr,Homey _ Dishwash,NETCO_C1,Home Care,Dish-wash Homey hương Cam Satsuma 480grHomey _ DishwashNETCO_C1,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05
+Dish-wash Homey hương Cam Satsuma chai 950gr,Homey _ Dishwash,NETCO_C1,Home Care,Dish-wash Homey hương Cam Satsuma chai 950grHomey _ DishwashNETCO_C1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Dish-wash Homey hương Cam Satsuma túi 950gr,Homey _ Dishwash,NETCO_C1,Home Care,Dish-wash Homey hương Cam Satsuma túi 950grHomey _ DishwashNETCO_C1,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15
+Dish-wash Homey hương Chanh & Húng tây 480gr,Homey _ Dishwash,NETCO_C1,Home Care,Dish-wash Homey hương Chanh & Húng tây 480grHomey _ DishwashNETCO_C1,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05
+Dish-wash Homey hương Chanh & Húng tây chai 950gr,Homey _ Dishwash,NETCO_C1,Home Care,Dish-wash Homey hương Chanh & Húng tây chai 950grHomey _ DishwashNETCO_C1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Dish-wash Homey hương Chanh & Húng tây túi 950gr,Homey _ Dishwash,NETCO_C1,Home Care,Dish-wash Homey hương Chanh & Húng tây túi 950grHomey _ DishwashNETCO_C1,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15
+Body Care La'petal da thường & khô 500ml,LPT _ Shower gel _ Inno,NETCO_C1,Personal Care,Body Care La'petal da thường & khô 500mlLPT _ Shower gel _ InnoNETCO_C1,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2915477577066694,0.2925613988546303
+Body Care La'petal da nhờn & mụn 500ml,LPT _ Shower gel _ Inno,NETCO_C1,Personal Care,Body Care La'petal da nhờn & mụn 500mlLPT _ Shower gel _ InnoNETCO_C1,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21942104914097268
+Body Care La'petal da khô lá trầu không & cây phục sinh 500ml,LPT _ Shower gel _ Inno,NETCO_C1,Personal Care,Body Care La'petal da khô lá trầu không & cây phục sinh 500mlLPT _ Shower gel _ InnoNETCO_C1,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21866081828000206,0.21942104914097268
+Body Care La'petal da thường lá trầu không & nụ tầm xuân 6ml,LPT _ Shower gel _ Inno,NETCO_C1,Personal Care,Body Care La'petal da thường lá trầu không & nụ tầm xuân 6mlLPT _ Shower gel _ InnoNETCO_C1,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1626783634399959,0.1611579017180546
+Body Care La'petal da dầu & mụn lá trầu không & kim ngân hoa 6ml,LPT _ Shower gel _ Inno,NETCO_C1,Personal Care,Body Care La'petal da dầu & mụn lá trầu không & kim ngân hoa 6mlLPT _ Shower gel _ InnoNETCO_C1,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10845224229333061,0.10743860114536974
+"Liquid Detergent Joins tinh dầu thông, cam 2.2kg",Joins _ Liquid Detergent,NETCO_C1,Home Care,"Liquid Detergent Joins tinh dầu thông, cam 2.2kgJoins _ Liquid DetergentNETCO_C1",0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+Liquid Detergent Joins hương Flower Serum 2.2kg,Joins _ Liquid Detergent,NETCO_C1,Home Care,Liquid Detergent Joins hương Flower Serum 2.2kgJoins _ Liquid DetergentNETCO_C1,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65
+Cleanser La'petal Inno 1 - 150gr,LPT _ Cleanser,GT0,Personal Care,Cleanser La'petal Inno 1 - 150grLPT _ CleanserGT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Cleanser La'petal Inno 2 - 150gr,LPT _ Cleanser,GT0,Personal Care,Cleanser La'petal Inno 2 - 150grLPT _ CleanserGT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Cleanser La'petal Inno 3 - 150gr,LPT _ Cleanser,GT0,Personal Care,Cleanser La'petal Inno 3 - 150grLPT _ CleanserGT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Liquid Detergent Chanté Pouch - 3.4kg,Chanté _ Liquid Detergent _ Inno,GT0,Home Care,Liquid Detergent Chanté Pouch - 3.4kgChanté _ Liquid Detergent _ InnoGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hand wash La'petal 250ml,LPT _ Handwash,GT0,Personal Care,Hand wash La'petal 250mlLPT _ HandwashGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bộ sữa tắm capsule V1,LPT _ Shower gel _ Perfume,GT0,Personal Care,Bộ sữa tắm capsule V1LPT _ Shower gel _ PerfumeGT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Bộ sữa tắm capsule V2,LPT _ Shower gel _ Perfume,GT0,Personal Care,Bộ sữa tắm capsule V2LPT _ Shower gel _ PerfumeGT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Bộ sữa tắm capsule V3,LPT _ Shower gel _ Perfume,GT0,Personal Care,Bộ sữa tắm capsule V3LPT _ Shower gel _ PerfumeGT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Bộ sữa tắm capsule V4,LPT _ Shower gel _ Perfume,GT0,Personal Care,Bộ sữa tắm capsule V4LPT _ Shower gel _ PerfumeGT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Bộ sữa tắm capsule V5,LPT _ Shower gel _ Perfume,GT0,Personal Care,Bộ sữa tắm capsule V5LPT _ Shower gel _ PerfumeGT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Powder Detergent NET Inno Powder 3kg,Net _ Powder Detergent _ Inno,GT0,Home Care,Powder Detergent NET Inno Powder 3kgNet _ Powder Detergent _ InnoGT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Powder Detergent NET Inno Powder 5.5kg,Net _ Powder Detergent _ Inno,GT0,Home Care,Powder Detergent NET Inno Powder 5.5kgNet _ Powder Detergent _ InnoGT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Powder Detergent NET Inno Powder 400gr,Net _ Powder Detergent _ Inno,GT0,Home Care,Powder Detergent NET Inno Powder 400grNet _ Powder Detergent _ InnoGT0,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15
+Powder Detergent NET Inno Powder 800gr,Net _ Powder Detergent _ Inno,GT0,Home Care,Powder Detergent NET Inno Powder 800grNet _ Powder Detergent _ InnoGT0,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+Liquid Detergent NET Matic Inno 1 - 3.6kg,Net _ Liquid Detergent _ Inno,GT0,Home Care,Liquid Detergent NET Matic Inno 1 - 3.6kgNet _ Liquid Detergent _ InnoGT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Liquid Detergent NET Matic Inno 2 - 3.6kg,Net _ Liquid Detergent _ Inno,GT0,Home Care,Liquid Detergent NET Matic Inno 2 - 3.6kgNet _ Liquid Detergent _ InnoGT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Liquid Detergent NET Matic Inno 1 - 1.5kg,Net _ Liquid Detergent _ Inno,GT0,Home Care,Liquid Detergent NET Matic Inno 1 - 1.5kgNet _ Liquid Detergent _ InnoGT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Dish-wash Sạch hương Chanh 800gr,Net _ Dishwash _ Inno,GT0,Home Care,Dish-wash Sạch hương Chanh 800grNet _ Dishwash _ InnoGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+"Joins Liquid Inno 1 Bottle - 3,3kg",Joins _ Liquid Detergent _ Inno,GT0,Home Care,"Joins Liquid Inno 1 Bottle - 3,3kgJoins _ Liquid Detergent _ InnoGT0",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 2 Bottle - 3,3kg",Joins _ Liquid Detergent _ Inno,GT0,Home Care,"Joins Liquid Inno 2 Bottle - 3,3kgJoins _ Liquid Detergent _ InnoGT0",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 3 Bottle - 3,3kg",Joins _ Liquid Detergent _ Inno,GT0,Home Care,"Joins Liquid Inno 3 Bottle - 3,3kgJoins _ Liquid Detergent _ InnoGT0",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 4 Bottle - 3,3kg",Joins _ Liquid Detergent _ Inno,GT0,Home Care,"Joins Liquid Inno 4 Bottle - 3,3kgJoins _ Liquid Detergent _ InnoGT0",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 1 Pouch - 3,3kg",Joins _ Liquid Detergent _ Inno,GT0,Home Care,"Joins Liquid Inno 1 Pouch - 3,3kgJoins _ Liquid Detergent _ InnoGT0",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 2 Pouch - 3,3kg",Joins _ Liquid Detergent _ Inno,GT0,Home Care,"Joins Liquid Inno 2 Pouch - 3,3kgJoins _ Liquid Detergent _ InnoGT0",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 3 Pouch - 3,3kg",Joins _ Liquid Detergent _ Inno,GT0,Home Care,"Joins Liquid Inno 3 Pouch - 3,3kgJoins _ Liquid Detergent _ InnoGT0",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 4 Pouch - 3,3kg",Joins _ Liquid Detergent _ Inno,GT0,Home Care,"Joins Liquid Inno 4 Pouch - 3,3kgJoins _ Liquid Detergent _ InnoGT0",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Shampoo La'petal Inno 1 - 6ml,LPT _ Shampoo,GT0,Personal Care,Shampoo La'petal Inno 1 - 6mlLPT _ ShampooGT0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Shampoo La'petal Inno 1 - 630ml,LPT _ Shampoo,GT0,Personal Care,Shampoo La'petal Inno 1 - 630mlLPT _ ShampooGT0,0.3,0.3,0.3,0.3,0.3,0.225,0.225,0.225,0.225,0.225,0.225,0.225
+Shampoo La'petal Inno 2 - 630ml,LPT _ Shampoo,GT0,Personal Care,Shampoo La'petal Inno 2 - 630mlLPT _ ShampooGT0,0.3,0.3,0.3,0.3,0.3,0.225,0.225,0.225,0.225,0.225,0.225,0.225
+Shampoo La'petal Inno 3 - 630ml,LPT _ Shampoo,GT0,Personal Care,Shampoo La'petal Inno 3 - 630mlLPT _ ShampooGT0,0.3,0.3,0.3,0.3,0.3,0.225,0.225,0.225,0.225,0.225,0.225,0.225
+Shampoo La'petal Antidruff 630ml,LPT _ Shampoo,GT0,Personal Care,Shampoo La'petal Antidruff 630mlLPT _ ShampooGT0,,,,,,0.225,0.225,0.225,0.225,0.225,0.225,0.225
+Conditioner La'patal Inno 1 - 630ml,LPT _ Conditioner,GT0,Personal Care,Conditioner La'patal Inno 1 - 630mlLPT _ ConditionerGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cleanser La'petal Inno 1 - 150gr,LPT _ Cleanser,MT0,Personal Care,Cleanser La'petal Inno 1 - 150grLPT _ CleanserMT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Cleanser La'petal Inno 2 - 150gr,LPT _ Cleanser,MT0,Personal Care,Cleanser La'petal Inno 2 - 150grLPT _ CleanserMT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Cleanser La'petal Inno 3 - 150gr,LPT _ Cleanser,MT0,Personal Care,Cleanser La'petal Inno 3 - 150grLPT _ CleanserMT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Liquid Detergent Chanté Pouch - 3.4kg,Chanté _ Liquid Detergent _ Inno,MT0,Home Care,Liquid Detergent Chanté Pouch - 3.4kgChanté _ Liquid Detergent _ InnoMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hand wash La'petal 250ml,LPT _ Handwash,MT0,Personal Care,Hand wash La'petal 250mlLPT _ HandwashMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bộ sữa tắm capsule V1,LPT _ Shower gel _ Perfume,MT0,Personal Care,Bộ sữa tắm capsule V1LPT _ Shower gel _ PerfumeMT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Bộ sữa tắm capsule V2,LPT _ Shower gel _ Perfume,MT0,Personal Care,Bộ sữa tắm capsule V2LPT _ Shower gel _ PerfumeMT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Bộ sữa tắm capsule V3,LPT _ Shower gel _ Perfume,MT0,Personal Care,Bộ sữa tắm capsule V3LPT _ Shower gel _ PerfumeMT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Bộ sữa tắm capsule V4,LPT _ Shower gel _ Perfume,MT0,Personal Care,Bộ sữa tắm capsule V4LPT _ Shower gel _ PerfumeMT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Bộ sữa tắm capsule V5,LPT _ Shower gel _ Perfume,MT0,Personal Care,Bộ sữa tắm capsule V5LPT _ Shower gel _ PerfumeMT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Powder Detergent NET Inno Powder 3kg,Net _ Powder Detergent _ Inno,MT0,Home Care,Powder Detergent NET Inno Powder 3kgNet _ Powder Detergent _ InnoMT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Powder Detergent NET Inno Powder 5.5kg,Net _ Powder Detergent _ Inno,MT0,Home Care,Powder Detergent NET Inno Powder 5.5kgNet _ Powder Detergent _ InnoMT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Powder Detergent NET Inno Powder 400gr,Net _ Powder Detergent _ Inno,MT0,Home Care,Powder Detergent NET Inno Powder 400grNet _ Powder Detergent _ InnoMT0,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15
+Powder Detergent NET Inno Powder 800gr,Net _ Powder Detergent _ Inno,MT0,Home Care,Powder Detergent NET Inno Powder 800grNet _ Powder Detergent _ InnoMT0,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+Liquid Detergent NET Matic Inno 1 - 3.6kg,Net _ Liquid Detergent _ Inno,MT0,Home Care,Liquid Detergent NET Matic Inno 1 - 3.6kgNet _ Liquid Detergent _ InnoMT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Liquid Detergent NET Matic Inno 2 - 3.6kg,Net _ Liquid Detergent _ Inno,MT0,Home Care,Liquid Detergent NET Matic Inno 2 - 3.6kgNet _ Liquid Detergent _ InnoMT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Liquid Detergent NET Matic Inno 1 - 1.5kg,Net _ Liquid Detergent _ Inno,MT0,Home Care,Liquid Detergent NET Matic Inno 1 - 1.5kgNet _ Liquid Detergent _ InnoMT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Dish-wash Sạch hương Chanh 800gr,Net _ Dishwash _ Inno,MT0,Home Care,Dish-wash Sạch hương Chanh 800grNet _ Dishwash _ InnoMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+"Joins Liquid Inno 1 Bottle - 3,3kg",Joins _ Liquid Detergent _ Inno,MT0,Home Care,"Joins Liquid Inno 1 Bottle - 3,3kgJoins _ Liquid Detergent _ InnoMT0",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 2 Bottle - 3,3kg",Joins _ Liquid Detergent _ Inno,MT0,Home Care,"Joins Liquid Inno 2 Bottle - 3,3kgJoins _ Liquid Detergent _ InnoMT0",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 3 Bottle - 3,3kg",Joins _ Liquid Detergent _ Inno,MT0,Home Care,"Joins Liquid Inno 3 Bottle - 3,3kgJoins _ Liquid Detergent _ InnoMT0",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 4 Bottle - 3,3kg",Joins _ Liquid Detergent _ Inno,MT0,Home Care,"Joins Liquid Inno 4 Bottle - 3,3kgJoins _ Liquid Detergent _ InnoMT0",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 1 Pouch - 3,3kg",Joins _ Liquid Detergent _ Inno,MT0,Home Care,"Joins Liquid Inno 1 Pouch - 3,3kgJoins _ Liquid Detergent _ InnoMT0",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 2 Pouch - 3,3kg",Joins _ Liquid Detergent _ Inno,MT0,Home Care,"Joins Liquid Inno 2 Pouch - 3,3kgJoins _ Liquid Detergent _ InnoMT0",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 3 Pouch - 3,3kg",Joins _ Liquid Detergent _ Inno,MT0,Home Care,"Joins Liquid Inno 3 Pouch - 3,3kgJoins _ Liquid Detergent _ InnoMT0",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 4 Pouch - 3,3kg",Joins _ Liquid Detergent _ Inno,MT0,Home Care,"Joins Liquid Inno 4 Pouch - 3,3kgJoins _ Liquid Detergent _ InnoMT0",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Shampoo La'petal Inno 1 - 6ml,LPT _ Shampoo,MT0,Personal Care,Shampoo La'petal Inno 1 - 6mlLPT _ ShampooMT0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Shampoo La'petal Inno 1 - 630ml,LPT _ Shampoo,MT0,Personal Care,Shampoo La'petal Inno 1 - 630mlLPT _ ShampooMT0,0.3,0.3,0.3,0.3,0.3,0.225,0.225,0.225,0.225,0.225,0.225,0.225
+Shampoo La'petal Inno 2 - 630ml,LPT _ Shampoo,MT0,Personal Care,Shampoo La'petal Inno 2 - 630mlLPT _ ShampooMT0,0.3,0.3,0.3,0.3,0.3,0.225,0.225,0.225,0.225,0.225,0.225,0.225
+Shampoo La'petal Inno 3 - 630ml,LPT _ Shampoo,MT0,Personal Care,Shampoo La'petal Inno 3 - 630mlLPT _ ShampooMT0,0.3,0.3,0.3,0.3,0.3,0.225,0.225,0.225,0.225,0.225,0.225,0.225
+Shampoo La'petal Antidruff 630ml,LPT _ Shampoo,MT0,Personal Care,Shampoo La'petal Antidruff 630mlLPT _ ShampooMT0,,,,,,0.225,0.225,0.225,0.225,0.225,0.225,0.225
+Conditioner La'patal Inno 1 - 630ml,LPT _ Conditioner,MT0,Personal Care,Conditioner La'patal Inno 1 - 630mlLPT _ ConditionerMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cleanser La'petal Inno 1 - 150gr,LPT _ Cleanser,NETCO_C1,Personal Care,Cleanser La'petal Inno 1 - 150grLPT _ CleanserNETCO_C1,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Cleanser La'petal Inno 2 - 150gr,LPT _ Cleanser,NETCO_C1,Personal Care,Cleanser La'petal Inno 2 - 150grLPT _ CleanserNETCO_C1,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Cleanser La'petal Inno 3 - 150gr,LPT _ Cleanser,NETCO_C1,Personal Care,Cleanser La'petal Inno 3 - 150grLPT _ CleanserNETCO_C1,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Liquid Detergent Chanté Pouch - 3.4kg,Chanté _ Liquid Detergent _ Inno,NETCO_C1,Home Care,Liquid Detergent Chanté Pouch - 3.4kgChanté _ Liquid Detergent _ InnoNETCO_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Hand wash La'petal 250ml,LPT _ Handwash,NETCO_C1,Personal Care,Hand wash La'petal 250mlLPT _ HandwashNETCO_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Bộ sữa tắm capsule V1,LPT _ Shower gel _ Perfume,NETCO_C1,Personal Care,Bộ sữa tắm capsule V1LPT _ Shower gel _ PerfumeNETCO_C1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Bộ sữa tắm capsule V2,LPT _ Shower gel _ Perfume,NETCO_C1,Personal Care,Bộ sữa tắm capsule V2LPT _ Shower gel _ PerfumeNETCO_C1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Bộ sữa tắm capsule V3,LPT _ Shower gel _ Perfume,NETCO_C1,Personal Care,Bộ sữa tắm capsule V3LPT _ Shower gel _ PerfumeNETCO_C1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Bộ sữa tắm capsule V4,LPT _ Shower gel _ Perfume,NETCO_C1,Personal Care,Bộ sữa tắm capsule V4LPT _ Shower gel _ PerfumeNETCO_C1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Bộ sữa tắm capsule V5,LPT _ Shower gel _ Perfume,NETCO_C1,Personal Care,Bộ sữa tắm capsule V5LPT _ Shower gel _ PerfumeNETCO_C1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Powder Detergent NET Inno Powder 3kg,Net _ Powder Detergent _ Inno,NETCO_C1,Home Care,Powder Detergent NET Inno Powder 3kgNet _ Powder Detergent _ InnoNETCO_C1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Powder Detergent NET Inno Powder 5.5kg,Net _ Powder Detergent _ Inno,NETCO_C1,Home Care,Powder Detergent NET Inno Powder 5.5kgNet _ Powder Detergent _ InnoNETCO_C1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Powder Detergent NET Inno Powder 400gr,Net _ Powder Detergent _ Inno,NETCO_C1,Home Care,Powder Detergent NET Inno Powder 400grNet _ Powder Detergent _ InnoNETCO_C1,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15
+Powder Detergent NET Inno Powder 800gr,Net _ Powder Detergent _ Inno,NETCO_C1,Home Care,Powder Detergent NET Inno Powder 800grNet _ Powder Detergent _ InnoNETCO_C1,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+Liquid Detergent NET Matic Inno 1 - 3.6kg,Net _ Liquid Detergent _ Inno,NETCO_C1,Home Care,Liquid Detergent NET Matic Inno 1 - 3.6kgNet _ Liquid Detergent _ InnoNETCO_C1,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Liquid Detergent NET Matic Inno 2 - 3.6kg,Net _ Liquid Detergent _ Inno,NETCO_C1,Home Care,Liquid Detergent NET Matic Inno 2 - 3.6kgNet _ Liquid Detergent _ InnoNETCO_C1,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Liquid Detergent NET Matic Inno 1 - 1.5kg,Net _ Liquid Detergent _ Inno,NETCO_C1,Home Care,Liquid Detergent NET Matic Inno 1 - 1.5kgNet _ Liquid Detergent _ InnoNETCO_C1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Dish-wash Sạch hương Chanh 800gr,Net _ Dishwash _ Inno,NETCO_C1,Home Care,Dish-wash Sạch hương Chanh 800grNet _ Dishwash _ InnoNETCO_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+"Joins Liquid Inno 1 Bottle - 3,3kg",Joins _ Liquid Detergent _ Inno,NETCO_C1,Home Care,"Joins Liquid Inno 1 Bottle - 3,3kgJoins _ Liquid Detergent _ InnoNETCO_C1",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 2 Bottle - 3,3kg",Joins _ Liquid Detergent _ Inno,NETCO_C1,Home Care,"Joins Liquid Inno 2 Bottle - 3,3kgJoins _ Liquid Detergent _ InnoNETCO_C1",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 3 Bottle - 3,3kg",Joins _ Liquid Detergent _ Inno,NETCO_C1,Home Care,"Joins Liquid Inno 3 Bottle - 3,3kgJoins _ Liquid Detergent _ InnoNETCO_C1",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 4 Bottle - 3,3kg",Joins _ Liquid Detergent _ Inno,NETCO_C1,Home Care,"Joins Liquid Inno 4 Bottle - 3,3kgJoins _ Liquid Detergent _ InnoNETCO_C1",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 1 Pouch - 3,3kg",Joins _ Liquid Detergent _ Inno,NETCO_C1,Home Care,"Joins Liquid Inno 1 Pouch - 3,3kgJoins _ Liquid Detergent _ InnoNETCO_C1",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 2 Pouch - 3,3kg",Joins _ Liquid Detergent _ Inno,NETCO_C1,Home Care,"Joins Liquid Inno 2 Pouch - 3,3kgJoins _ Liquid Detergent _ InnoNETCO_C1",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 3 Pouch - 3,3kg",Joins _ Liquid Detergent _ Inno,NETCO_C1,Home Care,"Joins Liquid Inno 3 Pouch - 3,3kgJoins _ Liquid Detergent _ InnoNETCO_C1",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+"Joins Liquid Inno 4 Pouch - 3,3kg",Joins _ Liquid Detergent _ Inno,NETCO_C1,Home Care,"Joins Liquid Inno 4 Pouch - 3,3kgJoins _ Liquid Detergent _ InnoNETCO_C1",0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125
+Shampoo La'petal Inno 1 - 6ml,LPT _ Shampoo,NETCO_C1,Personal Care,Shampoo La'petal Inno 1 - 6mlLPT _ ShampooNETCO_C1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Shampoo La'petal Inno 1 - 630ml,LPT _ Shampoo,NETCO_C1,Personal Care,Shampoo La'petal Inno 1 - 630mlLPT _ ShampooNETCO_C1,0.3,0.3,0.3,0.3,0.3,0.225,0.225,0.225,0.225,0.225,0.225,0.225
+Shampoo La'petal Inno 2 - 630ml,LPT _ Shampoo,NETCO_C1,Personal Care,Shampoo La'petal Inno 2 - 630mlLPT _ ShampooNETCO_C1,0.3,0.3,0.3,0.3,0.3,0.225,0.225,0.225,0.225,0.225,0.225,0.225
+Shampoo La'petal Inno 3 - 630ml,LPT _ Shampoo,NETCO_C1,Personal Care,Shampoo La'petal Inno 3 - 630mlLPT _ ShampooNETCO_C1,0.3,0.3,0.3,0.3,0.3,0.225,0.225,0.225,0.225,0.225,0.225,0.225
+Shampoo La'petal Antidruff 630ml,LPT _ Shampoo,NETCO_C1,Personal Care,Shampoo La'petal Antidruff 630mlLPT _ ShampooNETCO_C1,,,,,,0.225,0.225,0.225,0.225,0.225,0.225,0.225
+Conditioner La'patal Inno 1 - 630ml,LPT _ Conditioner,NETCO_C1,Personal Care,Conditioner La'patal Inno 1 - 630mlLPT _ ConditionerNETCO_C1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Cereals B'fast Dinh Dưỡng 25gr,B'fast _ NC,KA0,Nutrition,Instant Cereals B'fast Dinh Dưỡng 25grB'fast _ NCKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instant Cereals B'fast Canxi Dinh Dưỡng 25gr,B'fast _ NC (canxi),KA0,Nutrition,Instant Cereals B'fast Canxi Dinh Dưỡng 25grB'fast _ NC (canxi)KA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Marinating Chinsu Gia vị hoàn chỉnh xốt gà chiên nước mắm 70gr,Cooking sauces,GT0,Seasoning,Marinating Chinsu Gia vị hoàn chỉnh xốt gà chiên nước mắm 70grCooking saucesGT0,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811
+Marinating Chinsu Gia vị hoàn chỉnh xốt thịt kho 70gr,Cooking sauces,GT0,Seasoning,Marinating Chinsu Gia vị hoàn chỉnh xốt thịt kho 70grCooking saucesGT0,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019
+Marinating Chinsu Gia vị hoàn chỉnh xốt lẩu Thái 180gr,Cooking sauces_Innovation,GT0,Seasoning,Marinating Chinsu Gia vị hoàn chỉnh xốt lẩu Thái 180grCooking sauces_InnovationGT0,0.16000000000000003,0.16000000000000003,0.16000000000000003,0.16000000000000003,0.16000000000000003,0.16000000000000003,0.16000000000000003,0.16000000000000003,0.16000000000000003,0.16000000000000003,0.16000000000000003,0.16000000000000003
+Marinating Chinsu Gia vị hoàn chỉnh xốt thịt nướng 80gr,Cooking sauces_Innovation,GT0,Seasoning,Marinating Chinsu Gia vị hoàn chỉnh xốt thịt nướng 80grCooking sauces_InnovationGT0,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24
+Marinating Chinsu Gia vị hoàn chỉnh xốt gà chiên nước mắm 70gr,Cooking sauces,MT0,Seasoning,Marinating Chinsu Gia vị hoàn chỉnh xốt gà chiên nước mắm 70grCooking saucesMT0,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811,0.4876550100349811
+Marinating Chinsu Gia vị hoàn chỉnh xốt thịt kho 70gr,Cooking sauces,MT0,Seasoning,Marinating Chinsu Gia vị hoàn chỉnh xốt thịt kho 70grCooking saucesMT0,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019,0.512344989965019
+Marinating Chinsu Gia vị hoàn chỉnh xốt lẩu Thái 180gr,Cooking sauces_Innovation,MT0,Seasoning,Marinating Chinsu Gia vị hoàn chỉnh xốt lẩu Thái 180grCooking sauces_InnovationMT0,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727
+Marinating Chinsu Gia vị hoàn chỉnh xốt thịt nướng 80gr,Cooking sauces_Innovation,MT0,Seasoning,Marinating Chinsu Gia vị hoàn chỉnh xốt thịt nướng 80grCooking sauces_InnovationMT0,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727,0.22727272727272727
+Oyster Sauces Chinsu 400gr,Oyster Sauce_Innovation,GT0,Seasoning,Oyster Sauces Chinsu 400grOyster Sauce_InnovationGT0,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+Oyster Sauces Chinsu 120gr,Oyster Sauce_Innovation,GT0,Seasoning,Oyster Sauces Chinsu 120grOyster Sauce_InnovationGT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Oyster Sauces Chinsu 400gr,Oyster Sauce_Innovation,MT0,Seasoning,Oyster Sauces Chinsu 400grOyster Sauce_InnovationMT0,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+Oyster Sauces Chinsu 120gr,Oyster Sauce_Innovation,MT0,Seasoning,Oyster Sauces Chinsu 120grOyster Sauce_InnovationMT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Soya Sauces Chinsu Tỏi Ớt 330ml,NT Chinsu Tỏi ớt,GT0,Seasoning,Soya Sauces Chinsu Tỏi Ớt 330mlNT Chinsu Tỏi ớtGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Soya Sauces Chinsu Tỏi Ớt 330ml,NT Chinsu Tỏi ớt,MT0,Seasoning,Soya Sauces Chinsu Tỏi Ớt 330mlNT Chinsu Tỏi ớtMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Ketchup Chinsu 250gr,Tomato sauce,GT0,Seasoning,Ketchup Chinsu 250grTomato sauceGT0,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909
+Ketchup Chinsu 500gr,Tomato sauce,GT0,Seasoning,Ketchup Chinsu 500grTomato sauceGT0,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906
+Sachet TC,Tomato sauce,GT0,Seasoning,Sachet TCTomato sauceGT0,,,,,,,,,,,,
+Ketchup Chinsu 250gr,Tomato sauce,MT0,Seasoning,Ketchup Chinsu 250grTomato sauceMT0,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909,0.8409090909090909
+Ketchup Chinsu 500gr,Tomato sauce,MT0,Seasoning,Ketchup Chinsu 500grTomato sauceMT0,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906,0.15909090909090906
+Sachet TC,Tomato sauce,MT0,Seasoning,Sachet TCTomato sauceMT0,,,,,,,,,,,,
+Granules Chinsu ngọt thanh Nấm Shiitake và Tảo Kombu 450gr,HN Nhật_Innovation,GT0,Seasoning,Granules Chinsu ngọt thanh Nấm Shiitake và Tảo Kombu 450grHN Nhật_InnovationGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Granules Chinsu ngọt thanh Nấm Shiitake và Tảo Kombu 450gr,HN Nhật_Innovation,MT0,Seasoning,Granules Chinsu ngọt thanh Nấm Shiitake và Tảo Kombu 450grHN Nhật_InnovationMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Granules Chinsu ngọt tôm thơm thịt 2kg,HN Chinsu,GT0,Seasoning,Granules Chinsu ngọt tôm thơm thịt 2kgHN ChinsuGT0,0.406,0.406,0.406,0.406,0.406,0.406,0.406,0.406,0.406,0.53,0.53,0.53
+Granules Chinsu ngọt tôm thơm thịt 900gr,HN Chinsu,GT0,Seasoning,Granules Chinsu ngọt tôm thơm thịt 900grHN ChinsuGT0,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.43,0.27,0.29,0.29
+Granules Chinsu ngọt tôm thơm thịt 2kg,HN Chinsu,MT0,Seasoning,Granules Chinsu ngọt tôm thơm thịt 2kgHN ChinsuMT0,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.28
+Granules Chinsu ngọt tôm thơm thịt 900gr,HN Chinsu,MT0,Seasoning,Granules Chinsu ngọt tôm thơm thịt 900grHN ChinsuMT0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+TO NEW SKU Chấm hải sản,TO Chinsu_Hải sản,GT0,Seasoning,TO NEW SKU Chấm hải sảnTO Chinsu_Hải sảnGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+TO NEW SKU Chấm hải sản,TO Chinsu_Hải sản,MT0,Seasoning,TO NEW SKU Chấm hải sảnTO Chinsu_Hải sảnMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Fish Sauces Nam Ngư ớt tỏi Lý Sơn 300ml,NN_Ớt Tỏi,GT0,Seasoning,Fish Sauces Nam Ngư ớt tỏi Lý Sơn 300mlNN_Ớt TỏiGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Fish Sauces Nam Ngư ớt tỏi Lý Sơn 300ml,NN_Ớt Tỏi,MT0,Seasoning,Fish Sauces Nam Ngư ớt tỏi Lý Sơn 300mlNN_Ớt TỏiMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Fish Sauces Nam Ngư ớt tỏi Lý Sơn 300ml,NN_Ớt Tỏi,KA0,Seasoning,Fish Sauces Nam Ngư ớt tỏi Lý Sơn 300mlNN_Ớt TỏiKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Soya Sauces Chinsu đậm đặc 2L,HRC_Innovation,KA0,Seasoning,Soya Sauces Chinsu đậm đặc 2LHRC_InnovationKA0,0.14367816091954022,0.14367816091954022,0.14367816091954022,0.14367816091954022,0.14367816091954022,0.23094688221709006,0.23094688221709006,0.23094688221709006,0.23094688221709006,0.23094688221709006,0.23094688221709006,0.23094688221709006
+Chilli Sauces Chinsu Professional 2.1kg,Tương ớt HRC,KA0,Seasoning,Chilli Sauces Chinsu Professional 2.1kgTương ớt HRCKA0,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.9833333333333333,0.9833333333333333,0.99
+Other sauces sa tế Chinsu tôm ớt sả 90gr,Sate,GT0,Seasoning,Other sauces sa tế Chinsu tôm ớt sả 90grSateGT0,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37,0.37
+Other sauces sa tế Chinsu tôm ớt riềng 90gr,Sate,GT0,Seasoning,Other sauces sa tế Chinsu tôm ớt riềng 90grSateGT0,0.63,0.63,0.63,0.63,0.63,0.63,0.63,0.63,0.63,0.63,0.63,0.63
+CHAO 240G,Chao,GT0,Seasoning,CHAO 240GChaoGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+GIẤM GẠO NCHV CHIN-SU 330ML,Giấm,GT0,Seasoning,GIẤM GẠO NCHV CHIN-SU 330MLGiấmGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Sachet Mayonnaise,Mayonnaise,GT0,Seasoning,Sachet MayonnaiseMayonnaiseGT0,,,,,,,,,,,,
+CHAO 120G,Chao,GT0,Seasoning,CHAO 120GChaoGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+GIẤM GẠO NCHV CHIN-SU 330ML,Giấm,MT0,Seasoning,GIẤM GẠO NCHV CHIN-SU 330MLGiấmMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Sachet Mayonnaise,Mayonnaise,MT0,Seasoning,Sachet MayonnaiseMayonnaiseMT0,,,,,,,,,,,,
+Soya Sauces Chinsu Tỏi Ớt 330ml,NT Chinsu Tỏi ớt,KA0,Seasoning,Soya Sauces Chinsu Tỏi Ớt 330mlNT Chinsu Tỏi ớtKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Chilli Sauces Chinsu 500gr,TO Chinsu,KA0,Seasoning,Chilli Sauces Chinsu 500grTO ChinsuKA0,,,,,,,0.036036036036036,0.036036036036036,0.036036036036036,0.036036036036036,0.036036036036036,0.036036036036036
+Chilli Sauces Chinsu 250gr,TO Chinsu,KA0,Seasoning,Chilli Sauces Chinsu 250grTO ChinsuKA0,1.0,1.0,1.0,1.0,1.0,1.0,0.963963963963964,0.963963963963964,0.963963963963964,0.963963963963964,0.963963963963964,0.963963963963964
+Granules Chinsu ngọt tôm thơm thịt 2kg,HN Chinsu,KA0,Seasoning,Granules Chinsu ngọt tôm thơm thịt 2kgHN ChinsuKA0,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65,0.65
+Granules Chinsu ngọt tôm thơm thịt 900gr,HN Chinsu,KA0,Seasoning,Granules Chinsu ngọt tôm thơm thịt 900grHN ChinsuKA0,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35
+Fish Sauces Nam Ngư cao cấp 500ml,NN Phú Quốc,GT0,Seasoning,Fish Sauces Nam Ngư cao cấp 500mlNN Phú QuốcGT0,0.8571428571428572,0.8571428571428572,0.8571428571428572,0.8571428571428572,0.8571428571428572,0.8571428571428572,0.8571428571428572,0.8571428571428572,0.8461538461538461,0.8461538461538461,0.8461538461538461,0.8666666666666667
+Fish Sauces Nam Ngư cao cấp 500ml,NN Phú Quốc,MT0,Seasoning,Fish Sauces Nam Ngư cao cấp 500mlNN Phú QuốcMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Fish Sauces Nam Ngư cao cấp 500ml,NN Phú Quốc,KA0,Seasoning,Fish Sauces Nam Ngư cao cấp 500mlNN Phú QuốcKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Granules Chinsu ngọt tôm thơm thịt 400gr,HN Chinsu,GT0,Seasoning,Granules Chinsu ngọt tôm thơm thịt 400grHN ChinsuGT0,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.1,0.1,0.1
+Granules Chinsu ngọt tôm thơm thịt 400gr,HN Chinsu,MT0,Seasoning,Granules Chinsu ngọt tôm thơm thịt 400grHN ChinsuMT0,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52,0.52
+Chilli Sauces Chinsu Phở Bún Miến 235gr,TO Phở Bún Miến_Innovation,GT0,Seasoning,Chilli Sauces Chinsu Phở Bún Miến 235grTO Phở Bún Miến_InnovationGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Chilli Sauces Chinsu Phở Bún Miến 235gr,TO Phở Bún Miến_Innovation,MT0,Seasoning,Chilli Sauces Chinsu Phở Bún Miến 235grTO Phở Bún Miến_InnovationMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Chilli Sauces Chinsu Phở Bún Miến 235gr,TO Phở Bún Miến_Innovation,KA0,Seasoning,Chilli Sauces Chinsu Phở Bún Miến 235grTO Phở Bún Miến_InnovationKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Soya Sauces Chinsu lên men tự nhiên 300ml,NT Lên men Nhật_Innovation,GT0,Seasoning,Soya Sauces Chinsu lên men tự nhiên 300mlNT Lên men Nhật_InnovationGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Soya Sauces Chinsu lên men tự nhiên 300ml,NT Lên men Nhật_Innovation,MT0,Seasoning,Soya Sauces Chinsu lên men tự nhiên 300mlNT Lên men Nhật_InnovationMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Soya Sauces Chinsu lên men tự nhiên 300ml,NT Lên men Nhật_Innovation,KA0,Seasoning,Soya Sauces Chinsu lên men tự nhiên 300mlNT Lên men Nhật_InnovationKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Chilli Sauces Chinsu Wasabi 250gr,TO Wasabi_Innovation,GT0,Seasoning,Chilli Sauces Chinsu Wasabi 250grTO Wasabi_InnovationGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Chilli Sauces Chinsu Wasabi 250gr,TO Wasabi_Innovation,MT0,Seasoning,Chilli Sauces Chinsu Wasabi 250grTO Wasabi_InnovationMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Fish Sauces Nam Ngư ớt tỏi Lý Sơn 100ml,NN_Ớt Tỏi,GT0,Seasoning,Fish Sauces Nam Ngư ớt tỏi Lý Sơn 100mlNN_Ớt TỏiGT0,,,,,,,,,,,,
+Fish Sauces Nam Ngư ớt tỏi Lý Sơn 100ml,NN_Ớt Tỏi,MT0,Seasoning,Fish Sauces Nam Ngư ớt tỏi Lý Sơn 100mlNN_Ớt TỏiMT0,,,,,,,,,,,,
+Fish Sauces Nam Ngư ớt tỏi Lý Sơn 100ml,NN_Ớt Tỏi,KA0,Seasoning,Fish Sauces Nam Ngư ớt tỏi Lý Sơn 100mlNN_Ớt TỏiKA0,,,,,,,,,,,,
+Fish Sauces Chinsu cá cơm Biển Đông cốt nhĩ 500ml,CS CCBĐ VIP,GT0,Seasoning,Fish Sauces Chinsu cá cơm Biển Đông cốt nhĩ 500mlCS CCBĐ VIPGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Fish Sauces Chinsu cá cơm Biển Đông cốt nhĩ 500ml,CS CCBĐ VIP,MT0,Seasoning,Fish Sauces Chinsu cá cơm Biển Đông cốt nhĩ 500mlCS CCBĐ VIPMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Ketchup Chinsu Professional 2.1kg,HRC_Innovation,KA0,Seasoning,Ketchup Chinsu Professional 2.1kgHRC_InnovationKA0,0.23850574712643677,0.23850574712643677,0.23850574712643677,0.23850574712643677,0.23850574712643677,0.23094688221709006,0.23094688221709006,0.23094688221709006,0.23094688221709006,0.23094688221709006,0.23094688221709006,0.23094688221709006
+Fish Sauces Chinsu 2L,HRC_Innovation,KA0,Seasoning,Fish Sauces Chinsu 2LHRC_InnovationKA0,0.6178160919540229,0.6178160919540229,0.6178160919540229,0.6178160919540229,0.6178160919540229,0.5381062355658198,0.5381062355658198,0.5381062355658198,0.5381062355658198,0.5381062355658198,0.5381062355658198,0.5381062355658198
+Soya Sauces Tam Thái Tử Premium chấm 500ml,TTT CXK_Innovation,GT0,Seasoning,Soya Sauces Tam Thái Tử Premium chấm 500mlTTT CXK_InnovationGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Soya Sauces Tam Thái Tử Premium chấm 500ml,TTT CXK_Innovation,MT0,Seasoning,Soya Sauces Tam Thái Tử Premium chấm 500mlTTT CXK_InnovationMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Granules Chinsu ngọt tôm thơm thịt 170gr,HN Chinsu,GT0,Seasoning,Granules Chinsu ngọt tôm thơm thịt 170grHN ChinsuGT0,0.013999999999999999,0.013999999999999999,0.013999999999999999,0.013999999999999999,0.013999999999999999,0.013999999999999999,0.013999999999999999,0.013999999999999999,0.013999999999999999,0.1,0.08,0.08
+Granules Chinsu ngọt thanh 450gr,HN Premium,GT0,Seasoning,Granules Chinsu ngọt thanh 450grHN PremiumGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Granules Chinsu ngọt thanh 450gr,HN Premium,MT0,Seasoning,Granules Chinsu ngọt thanh 450grHN PremiumMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Fish Sauces Nam Ngư cao cấp 900ml,NN Phú Quốc,GT0,Seasoning,Fish Sauces Nam Ngư cao cấp 900mlNN Phú QuốcGT0,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.15384615384615385,0.15384615384615385,0.15384615384615385,0.13333333333333336
+Chilli Sauces Chinsu Professional 450gr,Tương ớt HRC,KA0,Seasoning,Chilli Sauces Chinsu Professional 450grTương ớt HRCKA0,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.016666666666666666,0.016666666666666666,0.01
+Chilli Sauces Chinsu 250gr,TO Chinsu,GT0,Seasoning,Chilli Sauces Chinsu 250grTO ChinsuGT0,0.597759405194786,0.597759405194786,0.597759405194786,0.597759405194786,0.597759405194786,0.597759405194786,0.597759405194786,0.597759405194786,0.5974330218065367,0.5955801245716522,0.596532904471627,0.5876661839809895
+Chilli Sauces Chinsu 500gr,TO Chinsu,GT0,Seasoning,Chilli Sauces Chinsu 500grTO ChinsuGT0,0.34,0.34,0.34,0.34,0.34,0.34,0.34,0.34,0.34000000000000014,0.3400000000000001,0.34,0.3399999999999998
+Chilli Sauces Chinsu 1kg,TO Chinsu,GT0,Seasoning,Chilli Sauces Chinsu 1kgTO ChinsuGT0,0.06224059480521419,0.06224059480521419,0.06224059480521419,0.06224059480521419,0.06224059480521419,0.06224059480521419,0.06224059480521419,0.06224059480521419,0.06256697819346324,0.06441987542834764,0.06346709552837299,0.07233381601901066
+Fish Sauces Nam Ngư 500ml,NN Core,KA0,Seasoning,Fish Sauces Nam Ngư 500mlNN CoreKA0,0.42933025404157044,0.42933025404157044,0.42933025404157044,0.42933025404157044,0.42933025404157044,0.42933025404157044,0.42933025404157044,0.42933025404157044,0.42933025404157044,0.42933025404157044,0.42933025404157044,0.42933025404157044
+Fish Sauces Nam Ngư 750ml,NN Core,KA0,Seasoning,Fish Sauces Nam Ngư 750mlNN CoreKA0,0.5706697459584296,0.5706697459584296,0.5706697459584296,0.5706697459584296,0.5706697459584296,0.5706697459584296,0.5706697459584296,0.5706697459584296,0.5706697459584296,0.5706697459584296,0.5706697459584296,0.5706697459584296
+Soya Sauces Tam Thái Tử Nhất Ca 500ml,TTT,KA0,Seasoning,Soya Sauces Tam Thái Tử Nhất Ca 500mlTTTKA0,0.8713163064833006,0.8713163064833006,0.8713163064833006,0.8713163064833006,0.8713163064833006,0.8713163064833006,0.8713163064833006,0.8713163064833006,0.8713163064833006,0.8713163064833006,0.8713163064833006,0.8713163064833006
+Soya Sauces Tam Thái Tử Nhị Ca 500ml,TTT,KA0,Seasoning,Soya Sauces Tam Thái Tử Nhị Ca 500mlTTTKA0,0.1286836935166994,0.1286836935166994,0.1286836935166994,0.1286836935166994,0.1286836935166994,0.1286836935166994,0.1286836935166994,0.1286836935166994,0.1286836935166994,0.1286836935166994,0.1286836935166994,0.1286836935166994
+Other sauces xốt mayonnaise Chinsu tương ớt 120gr,Mayonnaise,GT0,Seasoning,Other sauces xốt mayonnaise Chinsu tương ớt 120grMayonnaiseGT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.5
+Other sauces xốt mayonnaise Chinsu tương cà 120gr,Mayonnaise,GT0,Seasoning,Other sauces xốt mayonnaise Chinsu tương cà 120grMayonnaiseGT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.5
+Other sauces xốt mayonnaise Chinsu nguyên bản 120gr,Mayonnaise,GT0,Seasoning,Other sauces xốt mayonnaise Chinsu nguyên bản 120grMayonnaiseGT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.0
+Other sauces xốt mayonnaise Chinsu tương ớt 250gr,Mayonnaise,GT0,Seasoning,Other sauces xốt mayonnaise Chinsu tương ớt 250grMayonnaiseGT0,,,,,,,,,,,,
+Other sauces xốt mayonnaise Chinsu tương ớt 120gr,Mayonnaise,MT0,Seasoning,Other sauces xốt mayonnaise Chinsu tương ớt 120grMayonnaiseMT0,0.23,0.23,0.23,0.23,0.23,0.23,0.23,0.23,0.23,0.23,0.28,0.13
+Other sauces xốt mayonnaise Chinsu tương cà 120gr,Mayonnaise,MT0,Seasoning,Other sauces xốt mayonnaise Chinsu tương cà 120grMayonnaiseMT0,0.27,0.27,0.27,0.27,0.27,0.27,0.27,0.27,0.27,0.27,0.28,0.18
+Other sauces xốt mayonnaise Chinsu nguyên bản 120gr,Mayonnaise,MT0,Seasoning,Other sauces xốt mayonnaise Chinsu nguyên bản 120grMayonnaiseMT0,,,,,,,,,,,,
+Other sauces xốt mayonnaise Chinsu tương ớt 250gr,Mayonnaise,MT0,Seasoning,Other sauces xốt mayonnaise Chinsu tương ớt 250grMayonnaiseMT0,,,,,,,,,,,,
+Chilli Sauces Chinsu 250gr,TO Chinsu,MT0,Seasoning,Chilli Sauces Chinsu 250grTO ChinsuMT0,0.24547635255778985,0.24547635255778985,0.24547635255778985,0.24547635255778985,0.24547635255778985,0.24547635255778985,0.24547635255778985,0.24547635255778985,0.23661846592847535,0.23661846592847538,0.23661846592847538,0.23661846592847538
+Chilli Sauces Chinsu 500gr,TO Chinsu,MT0,Seasoning,Chilli Sauces Chinsu 500grTO ChinsuMT0,0.537278835227371,0.537278835227371,0.537278835227371,0.537278835227371,0.537278835227371,0.537278835227371,0.537278835227371,0.537278835227371,0.5559771175229472,0.5559771175229471,0.5559771175229471,0.5559771175229471
+Chilli Sauces Chinsu 1kg,TO Chinsu,MT0,Seasoning,Chilli Sauces Chinsu 1kgTO ChinsuMT0,0.2172448122148392,0.2172448122148392,0.2172448122148392,0.2172448122148392,0.2172448122148392,0.2172448122148392,0.2172448122148392,0.2172448122148392,0.20740441654857747,0.20740441654857752,0.20740441654857747,0.2074044165485775
+Chilli Sauces Chinsu Wasabi 250gr,TO Wasabi_Innovation,KA0,Seasoning,Chilli Sauces Chinsu Wasabi 250grTO Wasabi_InnovationKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Other sauces sa tế Chinsu tôm ớt sả 90gr,Sate,MT0,Seasoning,Other sauces sa tế Chinsu tôm ớt sả 90grSateMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+HN ngọt thanh Bò,HN Ngọt Thanh,GT0,Seasoning,HN ngọt thanh BòHN Ngọt ThanhGT0,,,,,,,,,,,,
+HN ngọt thanh Heo,HN Ngọt Thanh,GT0,Seasoning,HN ngọt thanh HeoHN Ngọt ThanhGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+HN ngọt thanh Nấm,HN Ngọt Thanh,GT0,Seasoning,HN ngọt thanh NấmHN Ngọt ThanhGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+HN ngọt thanh Bò,HN Ngọt Thanh,MT0,Seasoning,HN ngọt thanh BòHN Ngọt ThanhMT0,,,,,,,,,,,,
+HN ngọt thanh Heo,HN Ngọt Thanh,MT0,Seasoning,HN ngọt thanh HeoHN Ngọt ThanhMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+HN ngọt thanh Nấm,HN Ngọt Thanh,MT0,Seasoning,HN ngọt thanh NấmHN Ngọt ThanhMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Fish Sauces Nam Ngư ớt gừng Kỳ Sơn 200ml,NC Nam Ngư pha sẵn,GT0,Seasoning,Fish Sauces Nam Ngư ớt gừng Kỳ Sơn 200mlNC Nam Ngư pha sẵnGT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Fish Sauces Nam Ngư me tươi Nam Bộ 200ml,NC Nam Ngư pha sẵn,GT0,Seasoning,Fish Sauces Nam Ngư me tươi Nam Bộ 200mlNC Nam Ngư pha sẵnGT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Fish Sauces Nam Ngư ớt gừng Kỳ Sơn 200ml,NC Nam Ngư pha sẵn,MT0,Seasoning,Fish Sauces Nam Ngư ớt gừng Kỳ Sơn 200mlNC Nam Ngư pha sẵnMT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Fish Sauces Nam Ngư me tươi Nam Bộ 200ml,NC Nam Ngư pha sẵn,MT0,Seasoning,Fish Sauces Nam Ngư me tươi Nam Bộ 200mlNC Nam Ngư pha sẵnMT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Hộp quà_Nhật,Hộp quà_Nhật,GT0,Seasoning,Hộp quà_NhậtHộp quà_NhậtGT0,,,,,,,,,,,,
+Hộp quà_TO Tuyp,Hộp quà_TO Tuyp,GT0,Seasoning,Hộp quà_TO TuypHộp quà_TO TuypGT0,,,,,,,,,,,1.0,1.0
+Hộp quà_NNTO,Hộp quà_NNTO,GT0,Seasoning,Hộp quà_NNTOHộp quà_NNTOGT0,,,,,,,,,,,1.0,1.0
+Hộp quà_NNCC,Hộp quà_NNCC,GT0,Seasoning,Hộp quà_NNCCHộp quà_NNCCGT0,,,,,,,,,,,1.0,1.0
+Chilli Sauces Chinsu Combo,Hộp quà_Nhật,GT0,Seasoning,Chilli Sauces Chinsu ComboHộp quà_NhậtGT0,,,,,,,,,,,1.0,1.0
+Hộp quà_CCMX,Hộp quà_CCMX,GT0,Seasoning,Hộp quà_CCMXHộp quà_CCMXGT0,,,,,,,,,,,1.0,1.0
+Hộp quà_MAYO,Hộp quà_MAYO,GT0,Seasoning,Hộp quà_MAYOHộp quà_MAYOGT0,,,,,,,,,,,1.0,1.0
+Hộp quà_Nhật,Hộp quà_Nhật,MT0,Seasoning,Hộp quà_NhậtHộp quà_NhậtMT0,,,,,,,,,,,,
+Hộp quà_TO Tuyp,Hộp quà_TO Tuyp,MT0,Seasoning,Hộp quà_TO TuypHộp quà_TO TuypMT0,,,,,,,,,,,1.0,1.0
+Hộp quà_NNTO,Hộp quà_NNTO,MT0,Seasoning,Hộp quà_NNTOHộp quà_NNTOMT0,,,,,,,,,,,1.0,1.0
+Hộp quà_NNCC,Hộp quà_NNCC,MT0,Seasoning,Hộp quà_NNCCHộp quà_NNCCMT0,,,,,,,,,,,1.0,1.0
+Chilli Sauces Chinsu Combo,Hộp quà_Nhật,MT0,Seasoning,Chilli Sauces Chinsu ComboHộp quà_NhậtMT0,,,,,,,,,,,1.0,1.0
+Hộp quà_CCMX,Hộp quà_CCMX,MT0,Seasoning,Hộp quà_CCMXHộp quà_CCMXMT0,,,,,,,,,,,1.0,1.0
+Hộp quà_MAYO,Hộp quà_MAYO,MT0,Seasoning,Hộp quà_MAYOHộp quà_MAYOMT0,,,,,,,,,,,1.0,1.0
+Chilli Sauces Chinsu Sriracha 250gr,Siracha,GT0,Seasoning,Chilli Sauces Chinsu Sriracha 250grSirachaGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Chilli Sauces Chinsu Sriracha 250gr,Siracha,MT0,Seasoning,Chilli Sauces Chinsu Sriracha 250grSirachaMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Marinating Chinsu Xốt nhà hàng canh chua 80gr,Cooking sauces_Innovation,GT0,Seasoning,Marinating Chinsu Xốt nhà hàng canh chua 80grCooking sauces_InnovationGT0,0.354,0.354,0.354,0.354,0.354,0.354,0.354,0.354,0.354,0.354,0.354,0.51
+Marinating Chinsu Xốt nhà hàng thịt nường bún chả 75gr,Cooking sauces_Innovation,GT0,Seasoning,Marinating Chinsu Xốt nhà hàng thịt nường bún chả 75grCooking sauces_InnovationGT0,0.066,0.066,0.066,0.066,0.066,0.066,0.066,0.066,0.066,0.066,0.066,0.09
+Marinating Chinsu Xốt nhà hàng phở bò 160gr,Cooking sauces_Innovation,GT0,Seasoning,Marinating Chinsu Xốt nhà hàng phở bò 160grCooking sauces_InnovationGT0,0.18,0.18,0.18,0.18,0.18,0.18,0.18,0.18,0.18,0.18,0.18,0.0
+Marinating Chinsu Xốt nhà hàng canh chua 80gr,Cooking sauces_Innovation,MT0,Seasoning,Marinating Chinsu Xốt nhà hàng canh chua 80grCooking sauces_InnovationMT0,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182
+Marinating Chinsu Xốt nhà hàng thịt nường bún chả 75gr,Cooking sauces_Innovation,MT0,Seasoning,Marinating Chinsu Xốt nhà hàng thịt nường bún chả 75grCooking sauces_InnovationMT0,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182
+Marinating Chinsu Xốt nhà hàng phở bò 160gr,Cooking sauces_Innovation,MT0,Seasoning,Marinating Chinsu Xốt nhà hàng phở bò 160grCooking sauces_InnovationMT0,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182,0.18181818181818182
+Xốt nướng muối ớt,Cooking sauces_New SKUs,GT0,Seasoning,Xốt nướng muối ớtCooking sauces_New SKUsGT0,,,,0.5,0.5,0.5,0.5,0.5,0.2,0.2,0.2,0.2
+Xốt phô mai,Cooking sauces_New SKUs,GT0,Seasoning,Xốt phô maiCooking sauces_New SKUsGT0,,,,0.5,0.5,0.5,0.5,0.5,0.2,0.2,0.2,0.2
+Xốt lẩu gà lá é,Cooking sauces_New SKUs,GT0,Seasoning,Xốt lẩu gà lá éCooking sauces_New SKUsGT0,,,,,,,,,0.2,0.2,0.2,0.2
+Xốt lẩu nấm,Cooking sauces_New SKUs,GT0,Seasoning,Xốt lẩu nấmCooking sauces_New SKUsGT0,,,,,,,,,0.2,0.2,0.2,0.2
+Xốt lẩu cà chua,Cooking sauces_New SKUs,GT0,Seasoning,Xốt lẩu cà chuaCooking sauces_New SKUsGT0,,,,,,,,,0.2,0.2,0.2,0.2
+Xốt nướng muối ớt,Cooking sauces_New SKUs,MT0,Seasoning,Xốt nướng muối ớtCooking sauces_New SKUsMT0,,,,0.5,0.5,0.5,0.5,0.5,0.2,0.2,0.2,0.2
+Xốt phô mai,Cooking sauces_New SKUs,MT0,Seasoning,Xốt phô maiCooking sauces_New SKUsMT0,,,,0.5,0.5,0.5,0.5,0.5,0.2,0.2,0.2,0.2
+Xốt lẩu gà lá é,Cooking sauces_New SKUs,MT0,Seasoning,Xốt lẩu gà lá éCooking sauces_New SKUsMT0,,,,,,,,,0.2,0.2,0.2,0.2
+Xốt lẩu nấm,Cooking sauces_New SKUs,MT0,Seasoning,Xốt lẩu nấmCooking sauces_New SKUsMT0,,,,,,,,,0.2,0.2,0.2,0.2
+Xốt lẩu cà chua,Cooking sauces_New SKUs,MT0,Seasoning,Xốt lẩu cà chuaCooking sauces_New SKUsMT0,,,,,,,,,0.2,0.2,0.2,0.2
+NT Đậm đặc,NT đậm đặc,GT0,Seasoning,NT Đậm đặcNT đậm đặcGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+NT Đậm đặc,NT đậm đặc,MT0,Seasoning,NT Đậm đặcNT đậm đặcMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CS đặc sản,CS đặc sản,GT0,Seasoning,CS đặc sảnCS đặc sảnGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CS đặc sản,CS đặc sản,MT0,Seasoning,CS đặc sảnCS đặc sảnMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Combo 2+1,Mayonnaise,MT0,Seasoning,Combo 2+1MayonnaiseMT0,,,,,,,,,,,,
+NN_FS base sauce SKU1. 202407,NN_FS base sauce,GT0,Seasoning,NN_FS base sauce SKU1. 202407NN_FS base sauceGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+NN_FS base sauce SKU2. 202407,NN_FS base sauce,GT0,Seasoning,NN_FS base sauce SKU2. 202407NN_FS base sauceGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+NN_FS base sauce SKU1. 202407,NN_FS base sauce,MT0,Seasoning,NN_FS base sauce SKU1. 202407NN_FS base sauceMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+NN_FS base sauce SKU2. 202407,NN_FS base sauce,MT0,Seasoning,NN_FS base sauce SKU2. 202407NN_FS base sauceMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+HN Premium_Thay thế hầm xương. 202407,HN Premium_TTHX,GT0,Seasoning,HN Premium_Thay thế hầm xương. 202407HN Premium_TTHXGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+HN Premium_Thay thế hầm xương. 202407,HN Premium_TTHX,MT0,Seasoning,HN Premium_Thay thế hầm xương. 202407HN Premium_TTHXMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+TO Chinsu_CS TO Chua Ngọt. 202403,TO Chinsu_Chua Ngọt,GT0,Seasoning,TO Chinsu_CS TO Chua Ngọt. 202403TO Chinsu_Chua NgọtGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+TO Chinsu_CS TO Chua Ngọt. 202403,TO Chinsu_Chua Ngọt,MT0,Seasoning,TO Chinsu_CS TO Chua Ngọt. 202403TO Chinsu_Chua NgọtMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CHAO 240G,Chao,MT0,Seasoning,CHAO 240GChaoMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+CHAO 120G,Chao,MT0,Seasoning,CHAO 120GChaoMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Fish Sauces Nam Ngư Siêu tiết kiệm 800ml,STK,GT0,Seasoning,Fish Sauces Nam Ngư Siêu tiết kiệm 800mlSTKGT0,0.9562069091311898,0.9349322397678016,0.9564756813971194,0.9413810080663675,0.9479298196979321,0.9430976787564797,0.9492072184355751,0.9477481020973915,0.9436142848475955,0.9577619504455407,0.9646708497194134,0.9609232259678373
+Fish Sauces Nam Ngư Siêu tiết kiệm 1.8L,STK,GT0,Seasoning,Fish Sauces Nam Ngư Siêu tiết kiệm 1.8LSTKGT0,0.04379309086881021,0.0650677602321984,0.043524318602880675,0.058618991933632514,0.05207018030206789,0.05690232124352039,0.05079278156442486,0.05225189790260852,0.05638571515240458,0.04223804955445931,0.03532915028058655,0.039076774032162705
+Tiêu đen xay 45g,Gia vị bột,GT0,Seasoning,Tiêu đen xay 45gGia vị bộtGT0,0.07385312629168952,0.12794579460111577,0.13967538963150408,0.13967538963150422,0.13967538963150417,0.13967538963150403,0.1396753896315043,0.1396753896315043,0.1396753896315043,0.1396753896315042,0.13967538963150417,0.13967538963150405
+Tiêu trắng xay 45g,Gia vị bột,GT0,Seasoning,Tiêu trắng xay 45gGia vị bộtGT0,0.07385312629168954,0.09133408216317852,0.08338645346078202,0.08338645346078209,0.08338645346078206,0.08338645346078201,0.08338645346078215,0.08338645346078215,0.08338645346078212,0.08338645346078208,0.08338645346078206,0.08338645346078201
+Hũ thủy tinh tiêu nguyên hạt 45g,Gia vị bột,GT0,Seasoning,Hũ thủy tinh tiêu nguyên hạt 45gGia vị bộtGT0,0.06253853693047182,0.0040843717174787325,0.007751314813232041,0.0077513148132320455,0.007751314813232045,0.007751314813232039,0.007751314813232052,0.0077513148132320525,0.00775131481323205,0.007751314813232045,0.007751314813232045,0.0077513148132320395
+Hũ thủy tinh tiêu ngũ sắc 45g,Gia vị bột,GT0,Seasoning,Hũ thủy tinh tiêu ngũ sắc 45gGia vị bộtGT0,0.06253853693047182,0.04069608415541626,0.06404025098395505,0.06404025098395405,0.06404025098395438,0.06404025098395516,0.06404025098395372,0.0640402509839535,0.06404025098395372,0.06404025098395427,0.0640402509839545,0.06404025098395505
+Ớt không cay 90g,Gia vị bột,GT0,Seasoning,Ớt không cay 90gGia vị bộtGT0,0.07385312629168952,0.09133408216317852,0.08338645346078202,0.08338645346078209,0.08338645346078206,0.08338645346078201,0.08338645346078212,0.08338645346078215,0.08338645346078213,0.08338645346078209,0.08338645346078205,0.083386453460782
+Tỏi bột 60g,Gia vị bột,GT0,Seasoning,Tỏi bột 60gGia vị bộtGT0,0.07385312629168952,0.09133408216317855,0.08338645346078202,0.08338645346078209,0.08338645346078206,0.08338645346078201,0.08338645346078212,0.08338645346078215,0.08338645346078215,0.08338645346078208,0.08338645346078208,0.08338645346078202
+Nghệ bột 45g,Gia vị bột,GT0,Seasoning,Nghệ bột 45gGia vị bộtGT0,0.07385312629168952,0.09133408216317852,0.08338645346078204,0.08338645346078209,0.08338645346078206,0.08338645346078201,0.08338645346078213,0.08338645346078215,0.08338645346078215,0.08338645346078208,0.08338645346078206,0.08338645346078202
+GV mềm thịt 120g,Gia vị bột,GT0,Seasoning,GV mềm thịt 120gGia vị bộtGT0,0.0,0.040843717174787325,0.04045728448931661,0.04045728448931664,0.040457284489316625,0.0404572844893166,0.04045728448931666,0.04045728448931667,0.04045728448931667,0.04045728448931664,0.040457284489316625,0.04045728448931661
+GV khử tanh cá 120g,Gia vị bột,GT0,Seasoning,GV khử tanh cá 120gGia vị bộtGT0,0.0,0.04084371717478731,0.04045728448931661,0.04045728448931664,0.04045728448931663,0.0404572844893166,0.04045728448931666,0.04045728448931667,0.04045728448931667,0.04045728448931664,0.040457284489316625,0.040457284489316604
+Muối tôm 120g,Gia vị bột,GT0,Seasoning,Muối tôm 120gGia vị bộtGT0,0.11077968943753429,0.13276911850791773,0.13707979263865752,0.13707979263865763,0.1370797926386576,0.13707979263865752,0.13707979263865772,0.13707979263865774,0.13707979263865772,0.13707979263865763,0.13707979263865758,0.13707979263865752
+Muối ớt 120g,Gia vị bột,GT0,Seasoning,Muối ớt 120gGia vị bộtGT0,0.11077968943753429,0.09615740606998048,0.0846223957018564,0.08462239570185646,0.08462239570185644,0.08462239570185638,0.0846223957018565,0.08462239570185652,0.08462239570185652,0.08462239570185644,0.08462239570185645,0.0846223957018564
+Muối đa năng 120g,Gia vị bột,GT0,Seasoning,Muối đa năng 120gGia vị bộtGT0,0.22155937887506857,0.14723909022832354,0.14461915859580168,0.14461915859580185,0.14461915859580177,0.14461915859580166,0.14461915859580188,0.1446191585958019,0.14461915859580188,0.14461915859580177,0.14461915859580177,0.14461915859580166
+Hũ thủy tinh tiêu đen 45g,Gia vị bột,GT0,Seasoning,Hũ thủy tinh tiêu đen 45gGia vị bộtGT0,0.06253853693047182,0.0040843717174787325,0.007751314813232041,0.0077513148132320455,0.007751314813232045,0.007751314813232039,0.007751314813232052,0.0077513148132320525,0.00775131481323205,0.007751314813232045,0.007751314813232045,0.0077513148132320395
+Hũ thủy tinh tiêu nguyên hạt 45g,Gia vị bột,MT0,Seasoning,Hũ thủy tinh tiêu nguyên hạt 45gGia vị bộtMT0,0.3333333333333333,0.00546448087431694,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.3333333333333333
+Hũ thủy tinh tiêu ngũ sắc 45g,Gia vị bột,MT0,Seasoning,Hũ thủy tinh tiêu ngũ sắc 45gGia vị bộtMT0,0.3333333333333333,0.00546448087431694,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.3333333333333333
+Hũ thủy tinh tiêu đen 45g,Gia vị bột,MT0,Seasoning,Hũ thủy tinh tiêu đen 45gGia vị bộtMT0,0.3333333333333333,0.00546448087431694,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.010314662488575531,0.3333333333333333
+Tiêu đen xay 45g,Gia vị bột,MT0,Seasoning,Tiêu đen xay 45gGia vị bộtMT0,,0.1092896174863388,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,
+Tiêu trắng xay 45g,Gia vị bột,MT0,Seasoning,Tiêu trắng xay 45gGia vị bộtMT0,,0.1092896174863388,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,
+Ớt không cay 90g,Gia vị bột,MT0,Seasoning,Ớt không cay 90gGia vị bộtMT0,,0.1092896174863388,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,
+Tỏi bột 60g,Gia vị bột,MT0,Seasoning,Tỏi bột 60gGia vị bộtMT0,,0.1092896174863388,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,
+Nghệ bột 45g,Gia vị bột,MT0,Seasoning,Nghệ bột 45gGia vị bộtMT0,,0.1092896174863388,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,
+GV mềm thịt 120g,Gia vị bột,MT0,Seasoning,GV mềm thịt 120gGia vị bộtMT0,,0.0546448087431694,0.053836445140792964,0.053836445140792964,0.053836445140792964,0.053836445140792964,0.053836445140792964,0.053836445140792964,0.053836445140792964,0.053836445140792964,0.053836445140792964,
+GV khử tanh cá 120g,Gia vị bột,MT0,Seasoning,GV khử tanh cá 120gGia vị bộtMT0,,0.0546448087431694,0.053836445140792964,0.053836445140792964,0.053836445140792964,0.053836445140792964,0.053836445140792964,0.053836445140792964,0.053836445140792964,0.053836445140792964,0.053836445140792964,
+Muối tôm 120g,Gia vị bột,MT0,Seasoning,Muối tôm 120gGia vị bộtMT0,,0.1092896174863388,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,
+Muối ớt 120g,Gia vị bột,MT0,Seasoning,Muối ớt 120gGia vị bộtMT0,,0.1092896174863388,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,
+Muối đa năng 120g,Gia vị bột,MT0,Seasoning,Muối đa năng 120gGia vị bộtMT0,,0.1092896174863388,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,0.10767289028158593,
+Other sauces xốt mayonnaise Chinsu nguyên bản 250gr,Mayonnaise,MT0,Seasoning,Other sauces xốt mayonnaise Chinsu nguyên bản 250grMayonnaiseMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.44,0.69
+Mắm tôm,Đặc sản vùng miền,GT0,Seasoning,Mắm tômĐặc sản vùng miềnGT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Mắm nêm,Đặc sản vùng miền,GT0,Seasoning,Mắm nêmĐặc sản vùng miềnGT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Tương đen,Đặc sản vùng miền,GT0,Seasoning,Tương đenĐặc sản vùng miềnGT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Tương chao,Đặc sản vùng miền,GT0,Seasoning,Tương chaoĐặc sản vùng miềnGT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Mắm tôm,Đặc sản vùng miền,MT0,Seasoning,Mắm tômĐặc sản vùng miềnMT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Mắm nêm,Đặc sản vùng miền,MT0,Seasoning,Mắm nêmĐặc sản vùng miềnMT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Tương đen,Đặc sản vùng miền,MT0,Seasoning,Tương đenĐặc sản vùng miềnMT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Tương chao,Đặc sản vùng miền,MT0,Seasoning,Tương chaoĐặc sản vùng miềnMT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Salad Dressing_dầu giấm,Salad Dressing,GT0,Seasoning,Salad Dressing_dầu giấmSalad DressingGT0,,,,,,,,0.4,0.4,0.4,0.4,0.4
+Salad Dressing_chanh leo,Salad Dressing,GT0,Seasoning,Salad Dressing_chanh leoSalad DressingGT0,,,,,,,,0.3,0.3,0.3,0.3,0.3
+Salad Dressing_tắc,Salad Dressing,GT0,Seasoning,Salad Dressing_tắcSalad DressingGT0,,,,,,,,0.3,0.3,0.3,0.3,0.3
+Salad Dressing_dầu giấm,Salad Dressing,MT0,Seasoning,Salad Dressing_dầu giấmSalad DressingMT0,,,,,,,,0.4,0.4,0.4,0.4,0.4
+Salad Dressing_chanh leo,Salad Dressing,MT0,Seasoning,Salad Dressing_chanh leoSalad DressingMT0,,,,,,,,0.3,0.3,0.3,0.3,0.3
+Salad Dressing_tắc,Salad Dressing,MT0,Seasoning,Salad Dressing_tắcSalad DressingMT0,,,,,,,,0.3,0.3,0.3,0.3,0.3
+Springroll Chinsu Hi Fresh chả giò tôm & thịt 400gr,Chả giò Premium Chinsu Hi Fresh,GT0,Ready Meals,Springroll Chinsu Hi Fresh chả giò tôm & thịt 400grChả giò Premium Chinsu Hi FreshGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Springroll Chinsu Hi Fresh chả giò tôm & mực 400gr,Chả giò Premium Chinsu Hi Fresh,GT0,Ready Meals,Springroll Chinsu Hi Fresh chả giò tôm & mực 400grChả giò Premium Chinsu Hi FreshGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Springroll Chinsu Hi Fresh chả giò tôm & thịt 400gr,Chả giò Premium Chinsu Hi Fresh,MT0,Ready Meals,Springroll Chinsu Hi Fresh chả giò tôm & thịt 400grChả giò Premium Chinsu Hi FreshMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Springroll Chinsu Hi Fresh chả giò tôm & mực 400gr,Chả giò Premium Chinsu Hi Fresh,MT0,Ready Meals,Springroll Chinsu Hi Fresh chả giò tôm & mực 400grChả giò Premium Chinsu Hi FreshMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Korean Pickle Chinsu Hi Fresh kim chi cải thảo 500gr,Kim chi Chinsu Hi Fresh,MT0,Ready Meals,Korean Pickle Chinsu Hi Fresh kim chi cải thảo 500grKim chi Chinsu Hi FreshMT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Korean Pickle Chinsu Hi Fresh kim chi cải thảo 100gr,Kim chi Chinsu Hi Fresh,MT0,Ready Meals,Korean Pickle Chinsu Hi Fresh kim chi cải thảo 100grKim chi Chinsu Hi FreshMT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Chả giò Mainstream thịt,Chả giò Mainstream,GT0,Ready Meals,Chả giò Mainstream thịtChả giò MainstreamGT0,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337
+Chả giò Mainstream hải sản,Chả giò Mainstream,GT0,Ready Meals,Chả giò Mainstream hải sảnChả giò MainstreamGT0,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337
+Chả giò Mainstream chay,Chả giò Mainstream,GT0,Ready Meals,Chả giò Mainstream chayChả giò MainstreamGT0,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337,0.33333333333333337
+Chả giò inno hải sản,Chả giò Premium Chinsu Hi Fresh inno,GT0,Ready Meals,Chả giò inno hải sảnChả giò Premium Chinsu Hi Fresh innoGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Chả giò inno nấm,Chả giò Premium Chinsu Hi Fresh inno,GT0,Ready Meals,Chả giò inno nấmChả giò Premium Chinsu Hi Fresh innoGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Chả giò Mainstream thịt,Chả giò Mainstream,MT0,Ready Meals,Chả giò Mainstream thịtChả giò MainstreamMT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Chả giò Mainstream hải sản,Chả giò Mainstream,MT0,Ready Meals,Chả giò Mainstream hải sảnChả giò MainstreamMT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Chả giò Mainstream chay,Chả giò Mainstream,MT0,Ready Meals,Chả giò Mainstream chayChả giò MainstreamMT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Chả giò inno hải sản,Chả giò Premium Chinsu Hi Fresh inno,MT0,Ready Meals,Chả giò inno hải sảnChả giò Premium Chinsu Hi Fresh innoMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Chả giò inno nấm,Chả giò Premium Chinsu Hi Fresh inno,MT0,Ready Meals,Chả giò inno nấmChả giò Premium Chinsu Hi Fresh innoMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Pickles dưa chua cải bẹ 500gr,Vnese pickles dưa cải,GT0,Ready Meals,Pickles dưa chua cải bẹ 500grVnese pickles dưa cảiGT0,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76
+Pickles dưa chua cải bẹ 100gr,Vnese pickles dưa cải,GT0,Ready Meals,Pickles dưa chua cải bẹ 100grVnese pickles dưa cảiGT0,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24
+Pickles dưa góp 500gr,Vnese pickles dưa góp,GT0,Ready Meals,Pickles dưa góp 500grVnese pickles dưa gópGT0,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76
+Pickles dưa góp 100gr,Vnese pickles dưa góp,GT0,Ready Meals,Pickles dưa góp 100grVnese pickles dưa gópGT0,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24
+Pickles dưa hành 500gr,Vnese pickles dưa hành,GT0,Ready Meals,Pickles dưa hành 500grVnese pickles dưa hànhGT0,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76
+Pickles dưa hành 100gr,Vnese pickles dưa hành,GT0,Ready Meals,Pickles dưa hành 100grVnese pickles dưa hànhGT0,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24
+Pickles măng chua 250gr,Vnese pickles măng chua,GT0,Ready Meals,Pickles măng chua 250grVnese pickles măng chuaGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pickles dưa rau muống 500gr,Vnese pickles rau muống,GT0,Ready Meals,Pickles dưa rau muống 500grVnese pickles rau muốngGT0,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76
+Pickles dưa rau muống 100gr,Vnese pickles rau muống,GT0,Ready Meals,Pickles dưa rau muống 100grVnese pickles rau muốngGT0,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24
+Pickles củ kiệu 250gr,Vnese pickles củ kiệu,GT0,Ready Meals,Pickles củ kiệu 250grVnese pickles củ kiệuGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pickles dưa chua cải bẹ 500gr,Vnese pickles dưa cải,MT0,Ready Meals,Pickles dưa chua cải bẹ 500grVnese pickles dưa cảiMT0,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76
+Pickles dưa chua cải bẹ 100gr,Vnese pickles dưa cải,MT0,Ready Meals,Pickles dưa chua cải bẹ 100grVnese pickles dưa cảiMT0,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24
+Pickles dưa góp 500gr,Vnese pickles dưa góp,MT0,Ready Meals,Pickles dưa góp 500grVnese pickles dưa gópMT0,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76
+Pickles dưa góp 100gr,Vnese pickles dưa góp,MT0,Ready Meals,Pickles dưa góp 100grVnese pickles dưa gópMT0,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24
+Pickles dưa hành 500gr,Vnese pickles dưa hành,MT0,Ready Meals,Pickles dưa hành 500grVnese pickles dưa hànhMT0,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76
+Pickles dưa hành 100gr,Vnese pickles dưa hành,MT0,Ready Meals,Pickles dưa hành 100grVnese pickles dưa hànhMT0,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24
+Pickles măng chua 250gr,Vnese pickles măng chua,MT0,Ready Meals,Pickles măng chua 250grVnese pickles măng chuaMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pickles dưa rau muống 500gr,Vnese pickles rau muống,MT0,Ready Meals,Pickles dưa rau muống 500grVnese pickles rau muốngMT0,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76,0.76
+Pickles dưa rau muống 100gr,Vnese pickles rau muống,MT0,Ready Meals,Pickles dưa rau muống 100grVnese pickles rau muốngMT0,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24,0.24
+Pickles củ kiệu 250gr,Vnese pickles củ kiệu,MT0,Ready Meals,Pickles củ kiệu 250grVnese pickles củ kiệuMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Há cảo thịt 500gr,Há cảo,MT0,Ready Meals,Há cảo thịt 500grHá cảoMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Há cảo thịt 500gr,Há cảo,GT0,Ready Meals,Há cảo thịt 500grHá cảoGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Há cảo tôm 500gr,Há cảo,MT0,Ready Meals,Há cảo tôm 500grHá cảoMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Há cảo tôm 500gr,Há cảo,GT0,Ready Meals,Há cảo tôm 500grHá cảoGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Dried chicken Ponnie bơ tỏi 35gr,Dried meat,MT0,Processed Meats,Dried chicken Ponnie bơ tỏi 35grDried meatMT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.33,0.27
+Dried chicken Ponnie lá chanh 100gr,Dried meat,MT0,Processed Meats,Dried chicken Ponnie lá chanh 100grDried meatMT0,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.32,0.22,0.38
+Dried chicken Ponnie lá chanh 35gr,Dried meat,MT0,Processed Meats,Dried chicken Ponnie lá chanh 35grDried meatMT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.33,0.27
+Dried chicken Ponnie bơ tỏi 300gr,Dried meat,MT0,Processed Meats,Dried chicken Ponnie bơ tỏi 300grDried meatMT0,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.06,0.04
+Dried chicken Ponnie lá chanh 300gr,Dried meat,MT0,Processed Meats,Dried chicken Ponnie lá chanh 300grDried meatMT0,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.06,0.04
+Dried meat _ inno 1,Dried meat_inno,GT0,Processed Meats,Dried meat _ inno 1Dried meat_innoGT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Dried meat _ inno 2,Dried meat_inno,GT0,Processed Meats,Dried meat _ inno 2Dried meat_innoGT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+MTS Ponnie Hotdog giò lụa 28gr,Ponnie Hotdog,GT0,Processed Meats,MTS Ponnie Hotdog giò lụa 28grPonnie HotdogGT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0,0.3333333333333333,0.3333333333333333
+MTS Ponnie Hotdog bắp 28gr,Ponnie Hotdog,GT0,Processed Meats,MTS Ponnie Hotdog bắp 28grPonnie HotdogGT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333
+MTS Ponnie Hotdog cay 28gr,Ponnie Hotdog,GT0,Processed Meats,MTS Ponnie Hotdog cay 28grPonnie HotdogGT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.0,0.3333333333333333,0.3333333333333333
+MTS Ponnie Hotdog giò lụa 28gr,Ponnie Hotdog,MT0,Processed Meats,MTS Ponnie Hotdog giò lụa 28grPonnie HotdogMT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+MTS Ponnie Hotdog bắp 28gr,Ponnie Hotdog,MT0,Processed Meats,MTS Ponnie Hotdog bắp 28grPonnie HotdogMT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+MTS Ponnie Hotdog cay 28gr,Ponnie Hotdog,MT0,Processed Meats,MTS Ponnie Hotdog cay 28grPonnie HotdogMT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Sterilized Sausages Heo cao bồi lắc phô mai 13gr,Heo Cao bồi,KA0,Processed Meats,Sterilized Sausages Heo cao bồi lắc phô mai 13grHeo Cao bồiKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Sterilized Sausages Heo cao bồi lắc socola 13gr,Heo Cao bồi _ Mystery,GT0,Processed Meats,Sterilized Sausages Heo cao bồi lắc socola 13grHeo Cao bồi _ MysteryGT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Sterilized Sausages Heo cao bồi lắc cola 13gr,Heo Cao bồi _ Mystery,GT0,Processed Meats,Sterilized Sausages Heo cao bồi lắc cola 13grHeo Cao bồi _ MysteryGT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Sterilized Sausages Heo cao bồi lắc tomyum 13gr,Heo Cao bồi _ Mystery,GT0,Processed Meats,Sterilized Sausages Heo cao bồi lắc tomyum 13grHeo Cao bồi _ MysteryGT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Dried chicken Ponnie bơ tỏi 300gr,Dried meat,KA0,Processed Meats,Dried chicken Ponnie bơ tỏi 300grDried meatKA0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Dried meat _ inno 1,Dried meat_inno,MT0,Processed Meats,Dried meat _ inno 1Dried meat_innoMT0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Dried meat _ inno 2,Dried meat_inno,MT0,Processed Meats,Dried meat _ inno 2Dried meat_innoMT0,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+Sterilized Sausages Ponnie Heo 19gr,Ponnie 19g,GT0,Processed Meats,Sterilized Sausages Ponnie Heo 19grPonnie 19gGT0,0.8000265021312836,0.6952912353705055,0.7984140277842026,0.8047108299952118,0.8214496988536493,0.8120525846645497,0.8447370867846508,0.8355449284355084,0.8106270844653545,0.8397612601217174,0.8376797985889368,0.841788739960057
+Sterilized Sausages Ponnie vị Heo Hũ 19gr,Ponnie 19g,GT0,Processed Meats,Sterilized Sausages Ponnie vị Heo Hũ 19grPonnie 19gGT0,0.19997349786871643,0.3047087646294945,0.20158597221579744,0.19528917000478818,0.17855030114635073,0.18794741533545034,0.15526291321534924,0.16445507156449157,0.18937291553464553,0.16023873987828263,0.16232020141106318,0.158211260039943
+Sterilized Sausages Ponnie chả bò 33gr,Ponnie chả Bò,GT0,Processed Meats,Sterilized Sausages Ponnie chả bò 33grPonnie chả BòGT0,0.66,0.66,0.66,0.66,0.66,0.66,0.66,0.66,0.66,0.66,0.66,0.66
+Sterilized Sausages Ponnie chả bò 19gr,Ponnie chả Bò,GT0,Processed Meats,Sterilized Sausages Ponnie chả bò 19grPonnie chả BòGT0,0.34,0.34,0.34,0.34,0.34,0.34,0.34,0.34,0.34,0.34,0.34,0.34
+Sterilized Sausages Ponnie chả bò 33gr,Ponnie chả Bò,MT0,Processed Meats,Sterilized Sausages Ponnie chả bò 33grPonnie chả BòMT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Sterilized Sausages Ponnie chả bò 19gr,Ponnie chả Bò,MT0,Processed Meats,Sterilized Sausages Ponnie chả bò 19grPonnie chả BòMT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Giftset_Canned meats Ponnie thịt áp chảo 200gr,PM Đóng Hộp (Thịt) _ giftset,KA0,Processed Meats,Giftset_Canned meats Ponnie thịt áp chảo 200grPM Đóng Hộp (Thịt) _ giftsetKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Giftset_Canned meats Ponnie thịt áp chảo 200gr,PM Đóng Hộp (Thịt) _ giftset,MT0,Processed Meats,Giftset_Canned meats Ponnie thịt áp chảo 200grPM Đóng Hộp (Thịt) _ giftsetMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Canned meats Ponnie thịt áp chảo 340gr,PM Đóng Hộp (Thịt),MT0,Processed Meats,Canned meats Ponnie thịt áp chảo 340grPM Đóng Hộp (Thịt)MT0,0.4163821645547311,0.4163821645547311,0.4163821645547311,0.4163821645547311,0.4163821645547311,0.4163821645547311,0.4163821645547311,0.4163821645547311,0.4163821645547311,0.46,0.4,0.3
+Canned meats Ponnie thịt áp chảo 200gr,PM Đóng Hộp (Thịt),MT0,Processed Meats,Canned meats Ponnie thịt áp chảo 200grPM Đóng Hộp (Thịt)MT0,0.5836178354452689,0.5836178354452689,0.5836178354452689,0.5836178354452689,0.5836178354452689,0.5836178354452689,0.5836178354452689,0.5836178354452689,0.5836178354452689,0.54,0.6,0.7
+Meatball 3 Minutes Heo Cao Bồi new flavor 200gr,Meat ball _ inno,GT0,Processed Meats,Meatball 3 Minutes Heo Cao Bồi new flavor 200grMeat ball _ innoGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Meatball 3 Minutes Heo Cao Bồi new flavor 200gr,Meat ball _ inno,MT0,Processed Meats,Meatball 3 Minutes Heo Cao Bồi new flavor 200grMeat ball _ innoMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heo cao bồi thịt rắc 40g,HCB _ Thịt rắc,GT0,Processed Meats,Heo cao bồi thịt rắc 40gHCB _ Thịt rắcGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heo cao bồi thịt rắc 40g,HCB _ Thịt rắc,MT0,Processed Meats,Heo cao bồi thịt rắc 40gHCB _ Thịt rắcMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Sterilized Sausages Heo cao bồi update 13gr vị A,Heo Cao bồi _ Joy,GT0,Processed Meats,Sterilized Sausages Heo cao bồi update 13gr vị AHeo Cao bồi _ JoyGT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Sterilized Sausages Heo cao bồi update 13gr vị B,Heo Cao bồi _ Joy,GT0,Processed Meats,Sterilized Sausages Heo cao bồi update 13gr vị BHeo Cao bồi _ JoyGT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Heo cao bồi cuốn cuốn vị A,HCB cuốn cuốn,GT0,Processed Meats,Heo cao bồi cuốn cuốn vị AHCB cuốn cuốnGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Heo cao bồi cuốn cuốn vị B,HCB cuốn cuốn,GT0,Processed Meats,Heo cao bồi cuốn cuốn vị BHCB cuốn cuốnGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Sterilized Sausages Ponnie Heo vị cay 45gr,Ponnie XXTT _ inno,GT0,Processed Meats,Sterilized Sausages Ponnie Heo vị cay 45grPonnie XXTT _ innoGT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Sterilized Sausages Ponnie _ noodle BF 45gr,Ponnie XXTT _ inno,GT0,Processed Meats,Sterilized Sausages Ponnie _ noodle BF 45grPonnie XXTT _ innoGT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+MTS Ponnie Hotdog 28gr - vị A,Ponnie Hotdog_inno,GT0,Processed Meats,MTS Ponnie Hotdog 28gr - vị APonnie Hotdog_innoGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+MTS Ponnie Hotdog 28gr - vị B,Ponnie Hotdog_inno,GT0,Processed Meats,MTS Ponnie Hotdog 28gr - vị BPonnie Hotdog_innoGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Canned meats Ponnie thịt áp chảo 340gr _ vị new,PM Đóng Hộp (Thịt) _ inno,GT0,Processed Meats,Canned meats Ponnie thịt áp chảo 340gr _ vị newPM Đóng Hộp (Thịt) _ innoGT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Canned meats Ponnie thịt áp chảo 200gr _ vị new,PM Đóng Hộp (Thịt) _ inno,GT0,Processed Meats,Canned meats Ponnie thịt áp chảo 200gr _ vị newPM Đóng Hộp (Thịt) _ innoGT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Sterilized Sausages Ponnie Heo vị C 45gr,Ponnie XXTT _ inno,GT0,Processed Meats,Sterilized Sausages Ponnie Heo vị C 45grPonnie XXTT _ innoGT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Sterilized Sausages Ponnie vị D 45gr,Ponnie XXTT _ inno,GT0,Processed Meats,Sterilized Sausages Ponnie vị D 45grPonnie XXTT _ innoGT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+MTS Ponnie Hotdog 28gr - vị A,Ponnie Hotdog_inno,MT0,Processed Meats,MTS Ponnie Hotdog 28gr - vị APonnie Hotdog_innoMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+MTS Ponnie Hotdog 28gr - vị B,Ponnie Hotdog_inno,MT0,Processed Meats,MTS Ponnie Hotdog 28gr - vị BPonnie Hotdog_innoMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Canned meats Ponnie thịt áp chảo 340gr _ vị new,PM Đóng Hộp (Thịt) _ inno,MT0,Processed Meats,Canned meats Ponnie thịt áp chảo 340gr _ vị newPM Đóng Hộp (Thịt) _ innoMT0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Canned meats Ponnie thịt áp chảo 200gr _ vị new,PM Đóng Hộp (Thịt) _ inno,MT0,Processed Meats,Canned meats Ponnie thịt áp chảo 200gr _ vị newPM Đóng Hộp (Thịt) _ innoMT0,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Sterilized Sausages Heo cao bồi lắc socola 13gr,Heo Cao bồi _ Mystery,MT0,Processed Meats,Sterilized Sausages Heo cao bồi lắc socola 13grHeo Cao bồi _ MysteryMT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Sterilized Sausages Heo cao bồi lắc cola 13gr,Heo Cao bồi _ Mystery,MT0,Processed Meats,Sterilized Sausages Heo cao bồi lắc cola 13grHeo Cao bồi _ MysteryMT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Sterilized Sausages Heo cao bồi lắc tomyum 13gr,Heo Cao bồi _ Mystery,MT0,Processed Meats,Sterilized Sausages Heo cao bồi lắc tomyum 13grHeo Cao bồi _ MysteryMT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Dried chicken Ponnie lá chanh 300gr,Dried meat,KA0,Processed Meats,Dried chicken Ponnie lá chanh 300grDried meatKA0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Dried chicken Ponnie lá chanh 35gr,Dried meat,KA0,Processed Meats,Dried chicken Ponnie lá chanh 35grDried meatKA0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Dried chicken Ponnie lá chanh 100gr,Dried meat,KA0,Processed Meats,Dried chicken Ponnie lá chanh 100grDried meatKA0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Dried chicken Ponnie bơ tỏi 35gr,Dried meat,KA0,Processed Meats,Dried chicken Ponnie bơ tỏi 35grDried meatKA0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+RMR phở bò 150gr,RMR,MT0,Ready Meals,RMR phở bò 150grRMRMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+RMR phở bò 150gr,RMR,GT0,Ready Meals,RMR phở bò 150grRMRGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+RMR mì hoành thánh tôm 150gr,RMR,MT0,Ready Meals,RMR mì hoành thánh tôm 150grRMRMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+RMR mì hoành thánh tôm 150gr,RMR,GT0,Ready Meals,RMR mì hoành thánh tôm 150grRMRGT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Sterilized Sausages Ponnie Heo vị cay 45gr,Ponnie XXTT _ inno,MT0,Processed Meats,Sterilized Sausages Ponnie Heo vị cay 45grPonnie XXTT _ innoMT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Sterilized Sausages Ponnie _ noodle BF 45gr,Ponnie XXTT _ inno,MT0,Processed Meats,Sterilized Sausages Ponnie _ noodle BF 45grPonnie XXTT _ innoMT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Sterilized Sausages Ponnie Heo vị C 45gr,Ponnie XXTT _ inno,MT0,Processed Meats,Sterilized Sausages Ponnie Heo vị C 45grPonnie XXTT _ innoMT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Sterilized Sausages Ponnie vị D 45gr,Ponnie XXTT _ inno,MT0,Processed Meats,Sterilized Sausages Ponnie vị D 45grPonnie XXTT _ innoMT0,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+Heo cao bồi cuốn cuốn vị A,HCB cuốn cuốn,MT0,Processed Meats,Heo cao bồi cuốn cuốn vị AHCB cuốn cuốnMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Heo cao bồi cuốn cuốn vị B,HCB cuốn cuốn,MT0,Processed Meats,Heo cao bồi cuốn cuốn vị BHCB cuốn cuốnMT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Sterilized Sausages Heo cao bồi update 13gr vị C,Heo Cao bồi _ Joy,GT0,Processed Meats,Sterilized Sausages Heo cao bồi update 13gr vị CHeo Cao bồi _ JoyGT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Sterilized Sausages Heo cao bồi update 13gr vị A,Heo Cao bồi _ Joy,MT0,Processed Meats,Sterilized Sausages Heo cao bồi update 13gr vị AHeo Cao bồi _ JoyMT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Sterilized Sausages Heo cao bồi update 13gr vị B,Heo Cao bồi _ Joy,MT0,Processed Meats,Sterilized Sausages Heo cao bồi update 13gr vị BHeo Cao bồi _ JoyMT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Sterilized Sausages Heo cao bồi update 13gr vị C,Heo Cao bồi _ Joy,MT0,Processed Meats,Sterilized Sausages Heo cao bồi update 13gr vị CHeo Cao bồi _ JoyMT0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Dưa chuột 250gr,Vnese pickles dưa chuột,GT0,Ready Meals,Dưa chuột 250grVnese pickles dưa chuộtGT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Dưa chuột 250gr,Vnese pickles dưa chuột,MT0,Ready Meals,Dưa chuột 250grVnese pickles dưa chuộtMT0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Sterilized Sausages Ponnie Cá phô mai 45gr,Doubling 45g,MT0,Processed Meats,Sterilized Sausages Ponnie Cá phô mai 45grDoubling 45gMT0,0.45,0.45,0.45,0.45,0.45,0.45,0.45,0.45,0.45,0.45,0.45,0.45
+Sterilized Sausages Ponnie Thịt phô mai 45gr,Doubling 45g,MT0,Processed Meats,Sterilized Sausages Ponnie Thịt phô mai 45grDoubling 45gMT0,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55,0.55
+MTS Ponnie Hotdog 28gr - vị C,Ponnie Hotdog_inno 2,GT0,Processed Meats,MTS Ponnie Hotdog 28gr - vị CPonnie Hotdog_inno 2GT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+MTS Ponnie Hotdog 28gr - vị D,Ponnie Hotdog_inno 2,GT0,Processed Meats,MTS Ponnie Hotdog 28gr - vị DPonnie Hotdog_inno 2GT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+MTS Ponnie Hotdog 28gr - vị C,Ponnie Hotdog_inno 2,MT0,Processed Meats,MTS Ponnie Hotdog 28gr - vị CPonnie Hotdog_inno 2MT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+MTS Ponnie Hotdog 28gr - vị D,Ponnie Hotdog_inno 2,MT0,Processed Meats,MTS Ponnie Hotdog 28gr - vị DPonnie Hotdog_inno 2MT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Chân gà ủ muối Ponnie 40gr - vị A,Ponnie Hotdog_inno 3,GT0,Processed Meats,Chân gà ủ muối Ponnie 40gr - vị APonnie Hotdog_inno 3GT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Chân gà ủ muối Ponnie 40gr - vị B,Ponnie Hotdog_inno 3,GT0,Processed Meats,Chân gà ủ muối Ponnie 40gr - vị BPonnie Hotdog_inno 3GT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Chân gà ủ muối Ponnie 40gr - vị A,Ponnie Hotdog_inno 3,MT0,Processed Meats,Chân gà ủ muối Ponnie 40gr - vị APonnie Hotdog_inno 3MT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Chân gà ủ muối Ponnie 40gr - vị B,Ponnie Hotdog_inno 3,MT0,Processed Meats,Chân gà ủ muối Ponnie 40gr - vị BPonnie Hotdog_inno 3MT0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Sterilized Sausages Ponnie Cá phô mai 45gr,Doubling 45g,KA0,Processed Meats,Sterilized Sausages Ponnie Cá phô mai 45grDoubling 45gKA0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Sterilized Sausages Ponnie Thịt phô mai 45gr,Doubling 45g,KA0,Processed Meats,Sterilized Sausages Ponnie Thịt phô mai 45grDoubling 45gKA0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Canned meats Ponnie thịt áp chảo 340gr,PM Đóng Hộp (Thịt),KA0,Processed Meats,Canned meats Ponnie thịt áp chảo 340grPM Đóng Hộp (Thịt)KA0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Canned meats Ponnie thịt áp chảo 200gr,PM Đóng Hộp (Thịt),KA0,Processed Meats,Canned meats Ponnie thịt áp chảo 200grPM Đóng Hộp (Thịt)KA0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Sterilized Sausages Ponnie Bò 33gr,Ponnie 33g (vị Bò),KA0,Processed Meats,Sterilized Sausages Ponnie Bò 33grPonnie 33g (vị Bò)KA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Sterilized Sausages Ponnie Heo Hộp 45gr,Ponnie premium 45g,KA0,Processed Meats,Sterilized Sausages Ponnie Heo Hộp 45grPonnie premium 45gKA0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
