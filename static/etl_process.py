@@ -47,21 +47,6 @@ def etl_collect_clean(df_contribution, df_region_contribution):
     # collect master date
     df_master_date = pd.read_csv('static/database/Master Date.csv')
 
-    # collect data input manual
-    directory = r'static/database/MUF Input/'
-    files = glob.glob(os.path.join(directory, '*.xlsm'))
-    columns_to_trim = [' 1 ', ' 2 ', ' 3 ', ' 4 ', ' 5 ', ' 6 ', ' 7 ', ' 8 ', ' 9 ', ' 10 ', ' 11 ', ' 12 ']
-    # merge two dictionaries togetger
-    def Merge(dict1, dict2):
-        res = {**dict1, **dict2}
-        return res
-    df_muf_input_list = [pd.read_excel(f, sheet_name = 'Data Base', skiprows=2).rename(columns=Merge({col: col.strip() for col in columns_to_trim}, 
-                                                                                                     {'Sub Division Name': 'Sub Division',
-                                                                                                      'Building Block': 'Building Blocks'}) 
-                                                                                      ) for f in files
-                        ]
-    df_muf_input = pd.concat(df_muf_input_list, ignore_index = True)
-
     # collect data Code Mapping Master & Mapping Item Code
     directory = r'static/database/Category Input/'
     files = glob.glob(os.path.join(directory, '*.xlsm'))
