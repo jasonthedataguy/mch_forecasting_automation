@@ -34,7 +34,7 @@ def upload_file():
                 df_muf_input = pd.read_csv(uploaded_files[3])
                 # ... (process data using Pandas)
                 # collect data
-                df_master, df_so, df_si, df_master_calendar, df_contribution_melted, df_region_contribution_melted, df_region_list, df_price_list, df_master_date, df_codeMappingMaster, df_mappingItemCode, df_muf_input = etl_collect_clean(df_contribution, df_region_contribution)
+                df_master, df_so, df_si, df_master_calendar, df_contribution_melted, df_region_contribution_melted, df_region_list, df_price_list, df_master_date, df_codeMappingMaster, df_mappingItemCode = etl_collect_clean(df_contribution, df_region_contribution)
                 # baseline
                 df_baseline = etl_baseline(df_so, df_master, df_master_calendar)
                 df_groupSKU_master = etl_groupSKU_master(df_so, df_master)
