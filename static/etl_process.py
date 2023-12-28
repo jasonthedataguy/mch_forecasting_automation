@@ -70,7 +70,7 @@ def etl_collect_clean(df_contribution, df_region_contribution):
 
     df_mappingItemCode = pd.read_excel('static/database/Mapping Item code.xlsx')
     
-    return df_master, df_so, df_si, df_master_calendar, df_contribution_melted, df_region_contribution_melted, df_region_list, df_price_list, df_master_date, df_codeMappingMaster, df_mappingItemCode, df_muf_input
+    return df_master, df_so, df_si, df_master_calendar, df_contribution_melted, df_region_contribution_melted, df_region_list, df_price_list, df_master_date, df_codeMappingMaster, df_mappingItemCode
 
 # BASELINE
 def etl_baseline(df_so, df_master, df_master_calendar):
