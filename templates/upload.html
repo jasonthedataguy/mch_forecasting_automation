@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSV File Upload</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="logo-container">
+        <img src="{{ url_for('static', filename='Masan-Group-Logo.png') }}" alt="Logo 1" class="logo">
+        <img src="{{ url_for('static', filename='Masan-Consumer-Logo.png') }}" alt="Logo 2" class="logo">
+    </div>
+    <h1>Mock Automation Forecast Tool - Demand Planning</h1>
+        <h2>Upload your CSV files:</h2>
+        <form method="POST" enctype="multipart/form-data">
+            <label for="contribution_file">Manual Contribution:</label>
+            <input type="file" name="file" accept=".csv" required>
+            <br><br>
+            <label for="region_contribution_file">Manual Region Contribution File:</label>
+            <input type="file" name="file" accept=".csv" required>
+            <br><br>
+            <label for="region_sub_manual_file">Manual Region Sub:</label>
+            <input type="file" name="file" accept=".csv" required>
+            <br><br>
+            <label for="muf_input_file">MUF Input:</label>
+            <input type="file" name="file" accept=".csv" required>
+            <br><br>
+        <button type="submit">Upload and Forecast</button>
+    </form>
+</body>
+</html>
