@@ -12,7 +12,7 @@ from google.oauth2 import service_account
 from static.etl_process import *
 
 # set up api call bigquery
-key_path = 'mch-dwh-409503-0b23ccc41bb8.json'
+key_path = 'api_key.json'
 
 credentials = service_account.Credentials.from_service_account_file(
     key_path, scopes=["https://www.googleapis.com/auth/cloud-platform"],
