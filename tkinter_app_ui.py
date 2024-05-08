@@ -36,7 +36,7 @@ def key_path_transform(path):
         key_path_transform = path
     return key_path_transform
 
-key_path = key_path_transform("mch-dwh-409503-0b23ccc41bb8.json")
+key_path = key_path_transform("api_key.json")
 
 credentials = service_account.Credentials.from_service_account_file(
     key_path, scopes=["https://www.googleapis.com/auth/cloud-platform"],
